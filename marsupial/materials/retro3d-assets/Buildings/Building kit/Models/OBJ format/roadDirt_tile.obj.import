@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://26b2rhsffxse"
+path="res://.godot/imported/roadDirt_tile.obj-0acf74386c7f3e58432fdf80d8d9dc54.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadDirt_tile.obj-0acf74386c7f3e58432fdf80d8d9dc54.mesh"]
+
+source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/roadDirt_tile.obj"
+dest_files=["res://.godot/imported/roadDirt_tile.obj-0acf74386c7f3e58432fdf80d8d9dc54.mesh", "res://.godot/imported/roadDirt_tile.obj-0acf74386c7f3e58432fdf80d8d9dc54.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
