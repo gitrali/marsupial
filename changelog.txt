@@ -1,0 +1,19 @@
+changelog!!
+log changes and other various bullshits
+use the number of the git pushed commit for versions
+
+for example:
+
+version #2cfd171 
+may 8 2026
+Updated README.md to remove the fluff
+
+
+only add a change when you change something BIG, like, for example:
+changing the game code from GDscript to RUST - for the entire project.
+
+changelog start
+
+
+
+changelog end
