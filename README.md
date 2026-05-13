@@ -2,7 +2,7 @@
 this is a game project made in [Godot](https://godotengine.org/) <br>
 with [Rust](https://rust-lang.org/) elements replacing [GDscript](https://gdscript.com/)<br>
 the details of which<br>
-- i am not yet willing to share
+-- i am not yet willing to share
 
 # Eucalyptus
 current file structure 
