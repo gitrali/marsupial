@@ -1,6 +1,8 @@
-# Project Possums
-this is a game project made in [Godot](https://godotengine.org/) with rust elements replacing gdscript
-the details of which - i am not yet willing to share
+# [Project](https://github.com/gitrali/marsupial)[Possums](https://w.wiki/NFUV)
+this is a game project made in [Godot](https://godotengine.org/) ]<br>
+with [Rust](https://rust-lang.org/) elements replacing [GDscript](https://gdscript.com/)<br>
+the details of which<br>
+- i am not yet willing to share
 
 # Eucalyptus
 ```
@@ -20,10 +22,8 @@ project-possums
 
 
 
-for the sake of keeping this project vague
-everything named is possum related
-i like possums :>
-
-
+for the sake of keeping this project vague<br>
+everything named is possum related<br>
+i like possums :><br>
 
 hi & bye respectively.
