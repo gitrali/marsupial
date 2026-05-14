@@ -27,4 +27,8 @@ for the sake of keeping this project vague<br>
 everything named is possum related<br>
 i like possums :><br>
 
+# etc
+ remember the phrase: [YAGNI](https://w.wiki/JAu)
+ 
+# finisher
 hi & bye respectively.
