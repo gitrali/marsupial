@@ -1,0 +1,17 @@
+LICENSE — Sheep License (placeholder)
+
+Copyright (c) 2026 Isabella du Preez. All rights reserved.
+
+Hi — this is a simple, intentionally informal placeholder license for this repository.
+
+This project is private and proprietary. Everything in this repository (code, art, models, maps, documentation, build scripts, notes — the lot) is provided for development and internal use only. You do not have permission to copy, modify, fork, distribute, publish, or use any part of this project for public or commercial purposes unless you receive explicit written permission from the copyright holder.
+
+Open-source components and third‑party FOSS assets used in this project (for example, the Godot engine, freely licensed libraries, or openly licensed assets) remain governed by their original licenses and are not restricted by this file. You are free to use, redistribute, or modify those third‑party components according to their respective licenses. However, anything created, modified, combined, or otherwise altered by me (Isabella du Preez) that appears in this repository — including original code, edited assets, custom scripts, and project-specific integrations — is proprietary and may not be taken, reused, or redistributed without my explicit written permission.
+
+I, the copyright holder, reserve all rights. I might decide later to relicense, open-source, or release parts of this project under different terms — and if/when that happens I will make it clear which parts are affected and under what license. Until then, treat this repository as private work‑in‑progress.
+
+If you'd like to get in touch about collaborating, contributing, or requesting permission to use anything here, please contact: Isabella du Preez (use whatever contact method you prefer). I may update the owner name, year, or contact details as needed.
+
+This file is a friendly-but-firm placeholder to cover the basics while the project is early-stage. It’s not a substitute for formal legal advice — if you need a legally binding, detailed license or contributor agreements later, consider consulting a lawyer.
+
+Thanks for respecting the boundaries, and happy development.
