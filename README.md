@@ -20,7 +20,9 @@ project-possums
 ```
 <sup>thanks to [nathanfriend](http://tree.nathanfriend.com) for the tree generator!!</sup>
 
-
+# License
+This project is private and
+proprietary. See the full placeholder license in the repository root: LICENSE.
 
 
 for the sake of keeping this project vague<br>
