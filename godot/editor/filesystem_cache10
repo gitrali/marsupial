@@ -1,0 +1,948 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1779892881
+icon.png::CompressedTexture2D::2381547863285049581::1779880707::1779883235::1::::<><><>0<>0<>33c83909505c5d368113493f7766d60f<>res://godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.s3tc.ctex::
+LICENCE.md::TextFile::-1::1779871168::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1779871168::0::1::::<><><>0<>0<><>::
+splash.png::CompressedTexture2D::9045185033860559295::1779880822::1779883241::1::::<><><>0<>0<>80b719594bd133ec843d93e31e09f7d6<>res://godot/imported/splash.png-929ed8a00b89ba36c51789452f874c77.s3tc.ctex::
+::res://marsupial/::1779882125
+::res://marsupial/gui/::1779871751
+::res://marsupial/gui/fonts/::1779871900
+::res://marsupial/gui/fonts/hack_web_v3.003/::1779881256
+hack-bold-subset.woff::FontFile::6853386706677909379::1520300215::1779881256::1::::<><><>0<>0<>218e69a08d68b6ad03f02c76c8f3b274<>res://godot/imported/hack-bold-subset.woff-8231a921030a7c5d5e94a042e7d686f5.fontdata::
+hack-bold.woff::FontFile::7956667858661237275::1520300146::1779881256::1::::<><><>0<>0<>360e41d35e2cc35133805b7c999907e3<>res://godot/imported/hack-bold.woff-ea6951748f38888a86b02cae53bf4c2b.fontdata::
+hack-bolditalic-subset.woff::FontFile::3210181879847754392::1520300218::1779881256::1::::<><><>0<>0<>44f306ee03a29161749f10e8f936727d<>res://godot/imported/hack-bolditalic-subset.woff-c2809b543e6a5c3c208d17fbee4e7c4e.fontdata::
+hack-bolditalic.woff::FontFile::2104216776977181680::1520300152::1779881256::1::::<><><>0<>0<>4f8453c83c97e613d8b570653dc6b608<>res://godot/imported/hack-bolditalic.woff-13793fc08c07256f52c3f217d2ad493c.fontdata::
+hack-italic-subset.woff::FontFile::1509734306819914329::1520300216::1779881256::1::::<><><>0<>0<>0cd243fddc69daaafedc8d2e70e8dc4b<>res://godot/imported/hack-italic-subset.woff-7ec4e94cb94d5a7edeaa13a5981fbeaa.fontdata::
+hack-italic.woff::FontFile::1073766281075284687::1520300149::1779881256::1::::<><><>0<>0<>64b611e57ae03f6b8146b77870a53456<>res://godot/imported/hack-italic.woff-40fcab1692d084bb32896f62ed5f4d1d.fontdata::
+hack-regular-subset.woff::FontFile::1881206189383304121::1520300213::1779881256::1::::<><><>0<>0<>4a3c7a5a7a89168734848c1a43d8aa8a<>res://godot/imported/hack-regular-subset.woff-1182f0a4d41b4cace0d59f9443998f75.fontdata::
+hack-regular.woff2::FontFile::8300851152429276098::1520300153::1779881256::1::::<><><>0<>0<>b3a541f20801b21f180c000e5d150ebe<>res://godot/imported/hack-regular.woff2-c23c61b4b3b1de55ac2356af566383f4.fontdata::
+::res://marsupial/gui/HUD/::1778587396
+::res://marsupial/gui/HUD/crosshair/::1778587396
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/::1778587396
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/::1778587396
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/Black/::1779881257
+crosshair008.png::CompressedTexture2D::8540177273750944906::1778587396::1779881257::1::::<><><>0<>0<>1bc38afd9b39d06c2b62f4182696abce<>res://godot/imported/crosshair008.png-3b3c38c10aa403a55dccafd5a844763a.ctex::
+crosshair014.png::CompressedTexture2D::3028224503016020337::1778587396::1779881257::1::::<><><>0<>0<>a5aad5c2b0968dcb7082bbf2ee7a2ed2<>res://godot/imported/crosshair014.png-21a13ff47787dcb95162466fcb3698b6.ctex::
+crosshair020.png::CompressedTexture2D::7306103561976115074::1778587396::1779881257::1::::<><><>0<>0<>e5114f7054beef243074fbec856de735<>res://godot/imported/crosshair020.png-5c4ffd1348672ce42bd733980de5ce54.ctex::
+crosshair021.png::CompressedTexture2D::2513123896465192358::1778587396::1779881257::1::::<><><>0<>0<>ec4f3fac51bd282744e14cf44600e9da<>res://godot/imported/crosshair021.png-81dcfc2c2d5983016166d20f2bdf1c15.ctex::
+crosshair032.png::CompressedTexture2D::180917338332143205::1778587396::1779881257::1::::<><><>0<>0<>be9a9d37dd771feb064a0bb9abb4ee64<>res://godot/imported/crosshair032.png-b28257758859834da4b083ca5d00ce5e.ctex::
+crosshair055.png::CompressedTexture2D::8496669571796377620::1778587396::1779881257::1::::<><><>0<>0<>43c5d0fddadf0225ba9ad50c144f1548<>res://godot/imported/crosshair055.png-5c7eef3111f9e6be446f9d553ebb29bb.ctex::
+crosshair070.png::CompressedTexture2D::5791427303357023872::1778587396::1779881257::1::::<><><>0<>0<>1241d75e31e28b9e0fedabf45c54d40d<>res://godot/imported/crosshair070.png-5478e5d952a5aee7edfca5543cd88844.ctex::
+crosshair078.png::CompressedTexture2D::436066332484616170::1778587396::1779881257::1::::<><><>0<>0<>c69b334edd8d87720f0f7ef4d80a0058<>res://godot/imported/crosshair078.png-567bf158d24291ab869c503b12369c71.ctex::
+crosshair083.png::CompressedTexture2D::3561927197666320754::1778587396::1779881257::1::::<><><>0<>0<>69ef536086bbb4dc082a39fee782b6b0<>res://godot/imported/crosshair083.png-aa07922cb78aff509d7b442dde46ba20.ctex::
+crosshair090.png::CompressedTexture2D::6988688707384979991::1778587396::1779881257::1::::<><><>0<>0<>55614867563098fba78cd4e3fb762ce8<>res://godot/imported/crosshair090.png-869c1c312d495bff138db977a8e5f9e0.ctex::
+crosshair092.png::CompressedTexture2D::6782985415978399196::1778587396::1779881257::1::::<><><>0<>0<>cf0d800f7e891754b98c2413704fb949<>res://godot/imported/crosshair092.png-9d1d77de75333cf3f06f80b926b10f3f.ctex::
+crosshair116.png::CompressedTexture2D::8437097416171526842::1778587396::1779881257::1::::<><><>0<>0<>dd54848943016fc05c0672fb2f526c79<>res://godot/imported/crosshair116.png-f11b4cd80af2d4ff323dd8785e74b9ff.ctex::
+crosshair130.png::CompressedTexture2D::8108640270243097639::1778587396::1779881257::1::::<><><>0<>0<>1d3592a4f7072b9cbc97042b663cabdd<>res://godot/imported/crosshair130.png-fc916e5e66d16c093a07c04e55a75e71.ctex::
+crosshair150.png::CompressedTexture2D::7598253869040410805::1778587396::1779881257::1::::<><><>0<>0<>93c77b410058377fcad30db9136086e1<>res://godot/imported/crosshair150.png-39c77fe26f591e25a23c94eb0429a7a1.ctex::
+crosshair160.png::CompressedTexture2D::8502354768763677751::1778587396::1779881257::1::::<><><>0<>0<>1f7a3787712af644eae40daad0abd2ea<>res://godot/imported/crosshair160.png-214aa73158aa7fc45210267ff66d4282.ctex::
+crosshair168.png::CompressedTexture2D::1828647669302987630::1778587396::1779881257::1::::<><><>0<>0<>cade4c6638c38ab4887e07b5587a2fc1<>res://godot/imported/crosshair168.png-3f8ebcdb643ac8cba1e7fca08658d773.ctex::
+crosshair173.png::CompressedTexture2D::3057939201915439698::1778587396::1779881257::1::::<><><>0<>0<>7fb76d825389c33dbbbb8b56bc926b4b<>res://godot/imported/crosshair173.png-781d371a5091764ce296d969ecc65b16.ctex::
+crosshair184.png::CompressedTexture2D::7857759672694559351::1778587396::1779881257::1::::<><><>0<>0<>a292091dc64bc058015ef08c571eb0c6<>res://godot/imported/crosshair184.png-700f9f8ab22355dbd65bf0f6bcd9c52d.ctex::
+crosshair186.png::CompressedTexture2D::4672671828905071430::1778587396::1779881257::1::::<><><>0<>0<>7f96e6dcc6011ae53bc170623911c084<>res://godot/imported/crosshair186.png-6ccdac7283c6b01ff42bc6810e7bf655.ctex::
+crosshair194.png::CompressedTexture2D::3084400690147001704::1778587396::1779881257::1::::<><><>0<>0<>7c9a149dac617306bca21b89478a2d44<>res://godot/imported/crosshair194.png-cdd951197ec55cd409f3dccdefdb730e.ctex::
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/Black Retina/::1779881257
+crosshair004.png::CompressedTexture2D::4750073451422694142::1778587396::1779881257::1::::<><><>0<>0<>f7a5652d249bd2fb1d1a263b32dcacaf<>res://godot/imported/crosshair004.png-9945c90d4538e4eb43e642e991f2f8e1.ctex::
+crosshair025.png::CompressedTexture2D::5914326774850237816::1778587396::1779881257::1::::<><><>0<>0<>70a6f2ab3fb1f877b4a959efdccd07e5<>res://godot/imported/crosshair025.png-fe8360285fee0da8e06ff8c310087b18.ctex::
+crosshair040.png::CompressedTexture2D::1661875676197201078::1778587396::1779881257::1::::<><><>0<>0<>2784129f6f8581997841ab71ff227071<>res://godot/imported/crosshair040.png-673b22e11222fd96c3fec62fe5b72fd1.ctex::
+crosshair046.png::CompressedTexture2D::374531063992083314::1778587396::1779881257::1::::<><><>0<>0<>b10cacef8afde67b6a174c3e7f2aa1a6<>res://godot/imported/crosshair046.png-d602ddc1088c23d950c7291ec7d9657b.ctex::
+crosshair059.png::CompressedTexture2D::1427482563580251201::1778587396::1779881257::1::::<><><>0<>0<>ce2883ff45e4949455ba7c240c7b5747<>res://godot/imported/crosshair059.png-6fd16d40b9884b1c1ab03e3c3f3bae05.ctex::
+crosshair064.png::CompressedTexture2D::5472662334691868094::1778587396::1779881257::1::::<><><>0<>0<>2a29f1dd1a9356dc81d4d327095987dd<>res://godot/imported/crosshair064.png-535018631b34ee60e4574edd1ffbec9a.ctex::
+crosshair094.png::CompressedTexture2D::5643644952386084635::1778587396::1779881257::1::::<><><>0<>0<>3dea73659778119d216dc36ca2527402<>res://godot/imported/crosshair094.png-ceaeee42662979dc833c07be0dbcd75a.ctex::
+crosshair101.png::CompressedTexture2D::3060147220006318394::1778587396::1779881257::1::::<><><>0<>0<>34b44150f6873ea0bc94e51e78b32cb6<>res://godot/imported/crosshair101.png-9f05fc08e6e21ab7fa6ed8e24b019d79.ctex::
+crosshair118.png::CompressedTexture2D::5616667073046609161::1778587396::1779881257::1::::<><><>0<>0<>5fa03ba619cf317c5345f26d5a91dcae<>res://godot/imported/crosshair118.png-39c0f8202276e463f12ff2a62ec524c6.ctex::
+crosshair129.png::CompressedTexture2D::8557724299158540123::1778587396::1779881257::1::::<><><>0<>0<>af95d949c59dfac0d4f047396b1cd00c<>res://godot/imported/crosshair129.png-b3f1c37c822fbc7a64ed4b6c205debf7.ctex::
+crosshair133.png::CompressedTexture2D::713525752054688207::1778587396::1779881257::1::::<><><>0<>0<>26249f73975f37b2082e0cbb59e9997a<>res://godot/imported/crosshair133.png-f8146e34b020f47301f9f474148f84f8.ctex::
+crosshair140.png::CompressedTexture2D::1749333370923885981::1778587396::1779881257::1::::<><><>0<>0<>bac104d55bfc40ce1b860b3aa2e89c19<>res://godot/imported/crosshair140.png-fa5fdfe27378c08deb7088f9cf757d90.ctex::
+crosshair165.png::CompressedTexture2D::586282431820987261::1778587396::1779881257::1::::<><><>0<>0<>b5d7b46a497f0324bea182f0dc8ce003<>res://godot/imported/crosshair165.png-9115b1261f2fd5919cadb091b785fbab.ctex::
+crosshair170.png::CompressedTexture2D::4612735019592702590::1778587396::1779881257::1::::<><><>0<>0<>bd70ef4b1ce79ead2f030d72d05cc1fb<>res://godot/imported/crosshair170.png-79fde100ff9c1e32818ffd3fd3d71ee6.ctex::
+crosshair174.png::CompressedTexture2D::4032845061165590869::1778587396::1779881257::1::::<><><>0<>0<>ee165aca1d20cf9baab2862cc426676b<>res://godot/imported/crosshair174.png-3340f26032f90ebd3aced87873f28afe.ctex::
+crosshair195.png::CompressedTexture2D::2629108392306120520::1778587396::1779881257::1::::<><><>0<>0<>2d4661d96833aabd455c4d1154e95fb3<>res://godot/imported/crosshair195.png-a3c4a226f45d8dd73e7ad597b65e91c1.ctex::
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/Outline/::1779881257
+crosshair003.png::CompressedTexture2D::3884400084626491705::1778587396::1779881257::1::::<><><>0<>0<>7eddcbc06dd7a110e26c454fac1bf11e<>res://godot/imported/crosshair003.png-9da58baa34d4291f792d5c6f7a12835d.ctex::
+crosshair047.png::CompressedTexture2D::5934331959884435824::1778587396::1779881257::1::::<><><>0<>0<>2cb24ae8af06fa9fb9161d617d391b30<>res://godot/imported/crosshair047.png-a7b5d3e3573de9ad8f8b11cd58fae3dc.ctex::
+crosshair052.png::CompressedTexture2D::324987927429360121::1778587396::1779881257::1::::<><><>0<>0<>2082f97378ac5bbcfbce5638e9a1b7ac<>res://godot/imported/crosshair052.png-f494dff6fb726c0fee40db2dff195563.ctex::
+crosshair072.png::CompressedTexture2D::6445503815529185472::1778587396::1779881257::1::::<><><>0<>0<>4b3f44f4e8a531a69677185030fb2fb9<>res://godot/imported/crosshair072.png-266f04a484362d44d0128e0571900c6c.ctex::
+crosshair095.png::CompressedTexture2D::8603250403068264354::1778587396::1779881257::1::::<><><>0<>0<>a9472b3117ab35c6f5a764b457114a06<>res://godot/imported/crosshair095.png-e1257eaa38f7da6a45fb7a7242e268e2.ctex::
+crosshair103.png::CompressedTexture2D::943318956029782800::1778587396::1779881257::1::::<><><>0<>0<>bda189c699443ba5e3f6947c83e71778<>res://godot/imported/crosshair103.png-2ac73f0a12d80102390c70926ded8f0c.ctex::
+crosshair110.png::CompressedTexture2D::514054314968657270::1778587396::1779881257::1::::<><><>0<>0<>32e42ebc23a274f886a8d05eeec38202<>res://godot/imported/crosshair110.png-e66f1318158894388d558b43bc7efdd3.ctex::
+crosshair112.png::CompressedTexture2D::721536477899982904::1778587396::1779881257::1::::<><><>0<>0<>7815d1bc82871b1ca7cb43db3ee82821<>res://godot/imported/crosshair112.png-9d001a80abc6b35fa332fa98df2dfd0a.ctex::
+crosshair121.png::CompressedTexture2D::37545631276675356::1778587396::1779881257::1::::<><><>0<>0<>5d6bbe3d1baf7c3d1e830eb8447c4724<>res://godot/imported/crosshair121.png-bf13eac4057f32ed05c2143569e9efcc.ctex::
+crosshair129.png::CompressedTexture2D::4183425316093980858::1778587396::1779881257::1::::<><><>0<>0<>f48a0cddbdb8428b9919dac524e5f83f<>res://godot/imported/crosshair129.png-5ab9e73fec25eb8d7ef5aecb294c6ce8.ctex::
+crosshair153.png::CompressedTexture2D::5911340793660497499::1778587396::1779881257::1::::<><><>0<>0<>61390f21312a2463df089113fe70bb5a<>res://godot/imported/crosshair153.png-d2ef52778e4e463638690b497f146b75.ctex::
+crosshair154.png::CompressedTexture2D::6606226152405383759::1778587396::1779881257::1::::<><><>0<>0<>7efe772ac8488929ea4c3b82d54d0436<>res://godot/imported/crosshair154.png-79db587ffe89de1c1eb661ffbe786d0f.ctex::
+crosshair159.png::CompressedTexture2D::9172606571865680044::1778587396::1779881257::1::::<><><>0<>0<>b02f837d53faee3f7a300c7c76be82cf<>res://godot/imported/crosshair159.png-bf84c26f02162b54484bdc80114e9d8f.ctex::
+crosshair162.png::CompressedTexture2D::6505361206323425587::1778587396::1779881257::1::::<><><>0<>0<>a28d1e3bf82dfc65d8708aa55702c44e<>res://godot/imported/crosshair162.png-7a4df5a542a809b3a7c38ac41bb00826.ctex::
+crosshair163.png::CompressedTexture2D::6900482348613175114::1778587396::1779881257::1::::<><><>0<>0<>987d5cb143b38871e1fcf414da3b6179<>res://godot/imported/crosshair163.png-3dc84ec231e02c6f8c1a16a23c126ab3.ctex::
+crosshair172.png::CompressedTexture2D::523412821270070239::1778587396::1779881257::1::::<><><>0<>0<>3a11f851c840e1b8f8b0d6a93f7db8f3<>res://godot/imported/crosshair172.png-81ef5efc81b5fc4b22214b8e21b95efd.ctex::
+crosshair200.png::CompressedTexture2D::3333631162186385077::1778587396::1779881257::1::::<><><>0<>0<>14a0e2c054991a744405725cdfc54057<>res://godot/imported/crosshair200.png-ee801cd5cdcabc74f08c89ddd686d533.ctex::
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/Outline Retina/::1779881257
+crosshair002.png::CompressedTexture2D::7404178438775907781::1778587396::1779881257::1::::<><><>0<>0<>741ffd039add2b1ed4c797315190fd86<>res://godot/imported/crosshair002.png-55cfef860ea4ee7f37e757231454857a.ctex::
+crosshair015.png::CompressedTexture2D::3222145905261698350::1778587396::1779881257::1::::<><><>0<>0<>5b025edceeb6ce6b935ef5ec54e88701<>res://godot/imported/crosshair015.png-572c11e661c7c6b6debff753c5f93875.ctex::
+crosshair019.png::CompressedTexture2D::1835849599146807305::1778587396::1779881257::1::::<><><>0<>0<>7d07f1312620fb614e3e879eee558839<>res://godot/imported/crosshair019.png-bc5dd13dc8956b22f55a1e9183a1dcc9.ctex::
+crosshair083.png::CompressedTexture2D::2563458409212069376::1778587396::1779881257::1::::<><><>0<>0<>4d42a7afc2bf105f63f4897e25ad34c6<>res://godot/imported/crosshair083.png-adf874c343ab4edcc867b2b898c73a26.ctex::
+crosshair098.png::CompressedTexture2D::3744752128395814718::1778587396::1779881257::1::::<><><>0<>0<>179a0a14b0e5155dc9a718a3e51b930d<>res://godot/imported/crosshair098.png-3f3de4b88476d80c74cf71eac30a9a44.ctex::
+crosshair104.png::CompressedTexture2D::7208481053807132423::1778587396::1779881257::1::::<><><>0<>0<>acdfa8cd3870aa50faedbbb123db7598<>res://godot/imported/crosshair104.png-bbf2cdb93c5db0ce6829fce3b6127cc0.ctex::
+crosshair121.png::CompressedTexture2D::6420970193985994874::1778587396::1779881257::1::::<><><>0<>0<>043cadc3f44d7d91d46a48e1430b6477<>res://godot/imported/crosshair121.png-f54a401e808d5cfb34b989f2bc83ea4a.ctex::
+crosshair184.png::CompressedTexture2D::3083543554033707344::1778587396::1779881257::1::::<><><>0<>0<>93de23087dd831250a9f0ad7a67e3542<>res://godot/imported/crosshair184.png-37fadc8fb4863dd0a3e629ac38fe1a5a.ctex::
+crosshair188.png::CompressedTexture2D::3189494814778909179::1778587396::1779881257::1::::<><><>0<>0<>af217bae06c4bf2c23c9b5f4349b4171<>res://godot/imported/crosshair188.png-e2fb3b3b4e71051b1c48e5a5dc17230f.ctex::
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/White/::1779881257
+crosshair008.png::CompressedTexture2D::5646303090123769388::1778587396::1779881257::1::::<><><>0<>0<>95daee621e520ad7fa0062f01ed55511<>res://godot/imported/crosshair008.png-41b72341a744cc95f0537e1b6a945860.ctex::
+crosshair023.png::CompressedTexture2D::501440642217345178::1778587396::1779881257::1::::<><><>0<>0<>6abd2e95235d7fa931f859c5fa9a8399<>res://godot/imported/crosshair023.png-43e06b6cae899baca3dbe5b1bca21e7a.ctex::
+crosshair033.png::CompressedTexture2D::8769452881748083204::1778587396::1779881257::1::::<><><>0<>0<>143002d7f8e936012a7b788b81c7abad<>res://godot/imported/crosshair033.png-4e2cbc4bd96fb116cc9050a9010daae2.ctex::
+crosshair037.png::CompressedTexture2D::5960348752858318154::1778587396::1779881257::1::::<><><>0<>0<>b1650d808c1e71654779bde9794d833b<>res://godot/imported/crosshair037.png-84a46ac29eb6f24374b589c7c934d1e1.ctex::
+crosshair042.png::CompressedTexture2D::404737668021385565::1778587396::1779881257::1::::<><><>0<>0<>36aba30ae04b2d0cf84648415334a0d7<>res://godot/imported/crosshair042.png-e5b6f74b76fb8e17ce075a9b912bc808.ctex::
+crosshair054.png::CompressedTexture2D::2969778498373967453::1778587396::1779881257::1::::<><><>0<>0<>16fbc9667bb4eedbd474210f6f8ad01f<>res://godot/imported/crosshair054.png-67bac298538c53de555c90393c5e6c09.ctex::
+crosshair073.png::CompressedTexture2D::3209027064065635673::1778587396::1779881257::1::::<><><>0<>0<>99005337acd21eefc3c88d9cb8113772<>res://godot/imported/crosshair073.png-6a41fe2c2172b5ee497cc217961a809f.ctex::
+crosshair074.png::CompressedTexture2D::701297808443757358::1778587396::1779881257::1::::<><><>0<>0<>cf8253fcf62ea19cd79c6bb990c2b7ff<>res://godot/imported/crosshair074.png-5b251dbe1f8c4fefd3314d92ce345051.ctex::
+crosshair091.png::CompressedTexture2D::7318181442834332684::1778587396::1779881257::1::::<><><>0<>0<>44ec226ccb3b99eff921582f504b9020<>res://godot/imported/crosshair091.png-693ddb9c4ef65b6f42776c1a195449e4.ctex::
+crosshair094.png::CompressedTexture2D::7175199296442489935::1778587396::1779881257::1::::<><><>0<>0<>50c1f555a75888c1579f2ddd7608cb7c<>res://godot/imported/crosshair094.png-b6a0534cdf9a926f654d3264bfd29e56.ctex::
+crosshair137.png::CompressedTexture2D::1942925473542964579::1778587396::1779881257::1::::<><><>0<>0<>20707ccb2364b03e1a552f14af801ff1<>res://godot/imported/crosshair137.png-c288dab053536933eeca7682e3933136.ctex::
+crosshair149.png::CompressedTexture2D::4758112031783556456::1778587396::1779881257::1::::<><><>0<>0<>691756fafcc2b82baa3445b6693b3099<>res://godot/imported/crosshair149.png-f214863e1fe34df96a8be13733cf6de9.ctex::
+crosshair164.png::CompressedTexture2D::6121253810412056373::1778587396::1779881257::1::::<><><>0<>0<>829ed09d5591f99e99518c638ed6fdb8<>res://godot/imported/crosshair164.png-7cda92b4b2ed1212026db4cf927476a9.ctex::
+crosshair165.png::CompressedTexture2D::2631851250455807765::1778587396::1779881257::1::::<><><>0<>0<>25929c00d553e56eaf7f4faa27cd4125<>res://godot/imported/crosshair165.png-7b85cbd40af0c50d043e54d870d75ec4.ctex::
+crosshair172.png::CompressedTexture2D::3234688187018249101::1778587396::1779881257::1::::<><><>0<>0<>eb6616ca80a0fd2caa7e08f3869d99ee<>res://godot/imported/crosshair172.png-8c2f767c5d2a01eae14baa3020565694.ctex::
+crosshair194.png::CompressedTexture2D::492106181443677235::1778587396::1779881257::1::::<><><>0<>0<>17d6dd3a937febe6c2fab452a1c36abe<>res://godot/imported/crosshair194.png-433f521cc5ebded4d3eb0c6c3f0fea0a.ctex::
+crosshair197.png::CompressedTexture2D::4700086960847778709::1778587396::1779881257::1::::<><><>0<>0<>fd4db834f85348a6468aee6e988a6ac1<>res://godot/imported/crosshair197.png-0fb1332048ed709f38029f8fc768724b.ctex::
+crosshair198.png::CompressedTexture2D::4837647933153369178::1778587396::1779881257::1::::<><><>0<>0<>9b09b9ba4fe71716a2fb60459f171a73<>res://godot/imported/crosshair198.png-36c6b66daf6df46e2aefd5569bb259c6.ctex::
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/White Retina/::1779881257
+crosshair010.png::CompressedTexture2D::5265745476127625454::1778587396::1779881257::1::::<><><>0<>0<>57440a99036b6491b1338f88a486fa6c<>res://godot/imported/crosshair010.png-47298a6d21ce0dc32fb923aa1b508c50.ctex::
+crosshair011.png::CompressedTexture2D::4461995911565428238::1778587396::1779881257::1::::<><><>0<>0<>b4ee84c42e4e1e715170a583e4f7c0ea<>res://godot/imported/crosshair011.png-fd0f2d54195ecd7deae30a9bd7567d37.ctex::
+crosshair025.png::CompressedTexture2D::6346804969060988729::1778587396::1779881257::1::::<><><>0<>0<>b4a0093d83a1119f10455261b9507755<>res://godot/imported/crosshair025.png-2612233fd16a331dd0a5868c8f9084d7.ctex::
+crosshair036.png::CompressedTexture2D::5759977617872604389::1778587396::1779881257::1::::<><><>0<>0<>1d560644906d087d8bcde4e5597c6079<>res://godot/imported/crosshair036.png-d5badf85f58d24aa28b9122d837c5851.ctex::
+crosshair040.png::CompressedTexture2D::476051018776991140::1778587396::1779881257::1::::<><><>0<>0<>0944ae4a2b4d82d6cdab0c63a95ebd3d<>res://godot/imported/crosshair040.png-9470484d4add5b29b7306317ebf13601.ctex::
+crosshair042.png::CompressedTexture2D::5424869573447828105::1778587396::1779881257::1::::<><><>0<>0<>fa7687eafd6b62db1237669497428a45<>res://godot/imported/crosshair042.png-8a5f7c4c2b565a4fdf88b3a9e9f3aedf.ctex::
+crosshair045.png::CompressedTexture2D::8345356105256867067::1778587396::1779881257::1::::<><><>0<>0<>8a81840b22de183488a308b9bd419c1b<>res://godot/imported/crosshair045.png-74afa65c14c9d16e084ac289b07a5993.ctex::
+crosshair061.png::CompressedTexture2D::4903186524032573323::1778587396::1779881257::1::::<><><>0<>0<>8c3088f19736999a43146c96b21ba0ff<>res://godot/imported/crosshair061.png-987d185d92c52ce8916b628dced2cdb5.ctex::
+crosshair080.png::CompressedTexture2D::4963029229142985950::1778587396::1779881257::1::::<><><>0<>0<>d0c735b9b2fc34a666743a8e0d5d361a<>res://godot/imported/crosshair080.png-0cc92d4b582111811ca20612afa7d005.ctex::
+crosshair110.png::CompressedTexture2D::2486142301869444400::1778587396::1779881257::1::::<><><>0<>0<>760b922dfaa4792ef414c642f0565404<>res://godot/imported/crosshair110.png-d53adcdf393e3d08a744b6d23d07336a.ctex::
+crosshair129.png::CompressedTexture2D::2122094662547912279::1778587396::1779881257::1::::<><><>0<>0<>2f8f2f69c76b90743c61ddd706ebc932<>res://godot/imported/crosshair129.png-8202f43a762d3f9b92c9ceb51c0a1481.ctex::
+crosshair132.png::CompressedTexture2D::3491394619993048502::1778587396::1779881257::1::::<><><>0<>0<>c1bdb6ce8ec6d12b1c9745d4d196759b<>res://godot/imported/crosshair132.png-084a81fe9c77c63d7c4900cc362013d3.ctex::
+crosshair146.png::CompressedTexture2D::6503230421687725290::1778587396::1779881257::1::::<><><>0<>0<>28683dcfd677f4a9dee3e59401864590<>res://godot/imported/crosshair146.png-6a489089051237f5232f109e0469b821.ctex::
+crosshair147.png::CompressedTexture2D::6683354975949317651::1778587396::1779881257::1::::<><><>0<>0<>7ae3887f642b55237db8b6ae633dbd29<>res://godot/imported/crosshair147.png-c7907920a841a078ee6f287af23aced0.ctex::
+crosshair167.png::CompressedTexture2D::7948833675259888865::1778587396::1779881257::1::::<><><>0<>0<>72efb7527c1e0c9933f5dbe864f90bfb<>res://godot/imported/crosshair167.png-903db0823a786213d952744c81190d5f.ctex::
+crosshair180.png::CompressedTexture2D::3700543103986787949::1778587396::1779881257::1::::<><><>0<>0<>710d810d95391eca77be46445b52ffb6<>res://godot/imported/crosshair180.png-2850d40c80234e23683f576a01f330e5.ctex::
+crosshair190.png::CompressedTexture2D::3342897857227410717::1778587396::1779881257::1::::<><><>0<>0<>6bf7fddb81a25a316bdb0458b710943c<>res://godot/imported/crosshair190.png-3f9c89684287938eab1f9abd05bd2299.ctex::
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/Tilesheet/::1779881257
+crosshairs_tilesheet_black.png::CompressedTexture2D::8878684715097719017::1778587396::1779881257::1::::<><><>0<>0<>d8906ac8c1ec0bd22cf0333e50931256<>res://godot/imported/crosshairs_tilesheet_black.png-86eebdf483d33f6e825e18ec40d92c44.ctex::
+::res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/Vector/::1779881257
+crosshairs_vector.svg::CompressedTexture2D::8351833919333580216::1778587396::1779881257::1::::<><><>0<>0<>b7131126e5346bc73de30ad3a47d0769<>res://godot/imported/crosshairs_vector.svg-7e839573648ad8143b91dc2fdc3a43a3.ctex::
+::res://marsupial/maps/::1779890280
+the_map_of_testing.tscn::PackedScene::6639529095338073051::1779890280::0::1::::<><><>0<>0<><>::uid://ctfurmjeixihb::::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Dark/texture_04.png<>uid://d14s41v5pnxpn::::res://splash.png<>uid://cc5yowlt1bh3k::::res://marsupial/materials/retro3d-assets/Nature/exports/trees/pine_tree_pine_lowres.png<>uid://ce4qfxvd2xi8q::::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 01/Car.obj<>uid://bpoh46a6jorpm::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/detailBricks_typeA.obj<>uid://86v0lvve46on::::res://icon.png<>uid://briyw1q6d3ybp::::res://marsupial/materials/retro3d-assets/Nature/capybara_model/capybara.obj
+::res://marsupial/materials/::1778587396
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/::1778587396
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/::1778587396
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Dark/::1779882888
+texture_04.png::CompressedTexture2D::6117996628007616135::1778587396::1779882888::1::::<><><>0<>0<>4c59054e075ae6b9b8d6c174a62d1d88<>res://godot/imported/texture_04.png-6cadf678a420151797fba2c9b7f223f3.s3tc.ctex::
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Green/::1778587396
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Light/::1778587396
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Orange/::1779883697
+texture_01.png::CompressedTexture2D::1739836592633110871::1778587396::1779883697::1::::<><><>0<>0<>b54e7e25daaf5cce1b5f1323fe3d90b3<>res://godot/imported/texture_01.png-c58518e433ec511cd7391566a683283a.s3tc.ctex::
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Purple/::1779883706
+texture_03.png::CompressedTexture2D::1048783053694000150::1778587396::1779883702::1::::<><><>0<>0<>893d3b04ae7a4b07ce17a97d6d6c6cc7<>res://godot/imported/texture_03.png-9c8690f1e284133a0a1a98dbc48538f9.s3tc.ctex::
+texture_06.png::CompressedTexture2D::1604586681556550135::1778587396::1779883704::1::::<><><>0<>0<>a25087b228b88e72908552fa4a95ae7d<>res://godot/imported/texture_06.png-01c84b5cb8d6fca8b33a8877cd0ca9aa.s3tc.ctex::
+texture_09.png::CompressedTexture2D::625938552045531821::1778587396::1779883706::1::::<><><>0<>0<>0bbe2008ab1deb0c6562ce66a756e46e<>res://godot/imported/texture_09.png-f7f8411d26b39b007e4cb7c203dc20ed.s3tc.ctex::
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Red/::1779883708
+texture_06.png::CompressedTexture2D::1974120293553913682::1778587396::1779883708::1::::<><><>0<>0<>544785443089a1b0f7675660e3c67709<>res://godot/imported/texture_06.png-13b1890cab3e456e534f524d6cadbc2d.s3tc.ctex::
+texture_08.png::CompressedTexture2D::3635767271765939313::1778587396::1779881257::1::::<><><>0<>0<>33c6ef684f39d831d8e71a6da9e029af<>res://godot/imported/texture_08.png-be76ab1c57d357b75eb932e78e388cb1.ctex::
+::res://marsupial/materials/prototype textures (THANKS KENNY!!)/Vector/::1779883265
+texture_04.svg::CompressedTexture2D::1943077264691531797::1778587396::1779882926::1::::<><><>0<>0<>1216f26442d24f28b6d1acf7afdf85cd<>res://godot/imported/texture_04.svg-646491edb5b9774e5758d022a104e2e6.s3tc.ctex::
+texture_05.svg::CompressedTexture2D::3208306280682796597::1778587396::1779883265::1::::<><><>0<>0<>b94ac6f9bcd93cef5edfbe479e19b48b<>res://godot/imported/texture_05.svg-96e68fc1137e043db99f72b68bdc8d37.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/::1778587396
+README.md::TextFile::-1::1778587396::0::1::::<><><>0<>0<><>::
+::res://marsupial/materials/retro3d-assets/Art/::1778587396
+::res://marsupial/materials/retro3d-assets/Art/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Books/::1779881262
+book_red_01.blend::PackedScene::3477840669042079700::1778587396::1779881261::1::::<><><>0<>0<>4bb9a44fbe30a4bc8fc0e6754c0f3386<>res://godot/imported/book_red_01.blend-c8c56a803f5d9fb29930ea3e83f14089.scn::
+book_yellow_01.blend::PackedScene::3467450116211042808::1778587396::1779881261::1::::<><><>0<>0<>81694f0d17e3a2253458fd15ec900774<>res://godot/imported/book_yellow_01.blend-9203d5b16a939c183c2a96c90f72c3c7.scn::
+catalog_01.blend::PackedScene::7526782872179382642::1778587396::1779881262::1::::<><><>0<>0<>4badce293b885e4b08db8c14fe5cad18<>res://godot/imported/catalog_01.blend-8e4b301e98a07737b3f55c04c855c6bf.scn::
+::res://marsupial/materials/retro3d-assets/Books/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Books/textures/::1779881257
+catalog_1.png::CompressedTexture2D::8883101771955840497::1779869941::1779881257::1::::<><><>0<>0<>2850b5d9ef9dc6ab788d96557a955ac1<>res://godot/imported/catalog_1.png-0e34a17ef6974efb51672eb78e369219.ctex::
+::res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/::1778587396
+::res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/barrel/::1779881260
+barrel.glb::PackedScene::7631802832449220894::1778587396::1779881260::1::::<><><>0<>0<>5b791a5fd9c7f4ddcde26adebde01f5d<>res://godot/imported/barrel.glb-ed599c9c46f2a8ee65c92d4f2c6657cf.scn::uid://bdvowjd4s03pa::::res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/barrel/barrel_barrel.jpg
+barrel_barrel.jpg::CompressedTexture2D::2641228951494353078::1779869939::1779881257::1::::<><><>0<>0<>61f3cdf33607954c318f761d6ca875e7<>res://godot/imported/barrel_barrel.jpg-68e76c42d13d24290967a1dfbfa12798.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/Boxes/::1779881272
+box_01.blend::PackedScene::736317686164436933::1778587396::1779881272::1::::<><><>0<>0<>bdb67654b8bab8c4a7030ceebc641f52<>res://godot/imported/box_01.blend-f5325f32c6e1d2af53e078fc2d2b7be3.scn::
+::res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/Boxes/Materials/::1779881257
+box_04.png::CompressedTexture2D::5957714006889585156::1778587396::1779881257::1::::<><><>0<>0<>3b78acab11edb27e5f18ec89a8aaef5f<>res://godot/imported/box_04.png-40623c8367ecd4c0734d8ffcc21e8e9d.ctex::
+::res://marsupial/materials/retro3d-assets/Bricks/::1778587396
+::res://marsupial/materials/retro3d-assets/Bricks/Materials/::1779881257
+brick_small_rustic_brown_2.png::CompressedTexture2D::4516947884584825323::1778587396::1779881257::1::::<><><>0<>0<>dd65a3e5b195aa980e9648868ff826d4<>res://godot/imported/brick_small_rustic_brown_2.png-6472b6a4f8e5cd305aeb0c8a2ba9a473.ctex::
+brick_small_white_clean.png::CompressedTexture2D::5939059819758862072::1778587396::1779881257::1::::<><><>0<>0<>2ce3865719334f6f5931c02678c7beaf<>res://godot/imported/brick_small_white_clean.png-a4c04940e068a983f0b186bd683cde59.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/::1779881267
+6twelve_4.png::CompressedTexture2D::8205450901041607494::1778587396::1779881258::1::::<><><>0<>0<>188f4d3078d8521192f06c2f70b0525c<>res://godot/imported/6twelve_4.png-f7f2fdb563f9a128bfe6c59628104af8.ctex::
+6twelve_22.jpg::CompressedTexture2D::7056641896757806131::1778587396::1779881258::1::::<><><>0<>0<>a62b7ab6360ecc3e7ea87df6a5efa21a<>res://godot/imported/6twelve_22.jpg-651f6cf6407afdc2b4506589224589b2.ctex::
+6twelve_24.png::CompressedTexture2D::6652197231020523574::1778587396::1779881258::1::::<><><>0<>0<>528407aa1f9e2a88694d4f1d114844ac<>res://godot/imported/6twelve_24.png-5a3ca3f251ccfad07d4c4ed723d8638c.ctex::
+6twelve_31.png::CompressedTexture2D::3740999268037870567::1778587396::1779881258::1::::<><><>0<>0<>1de09ca79a6722c4dba1c58b517f9000<>res://godot/imported/6twelve_31.png-92922c50cc04f902728a67e5e6043e20.ctex::
+6twelve_39.png::CompressedTexture2D::2422949397028831601::1778587396::1779881258::1::::<><><>0<>0<>9a8867971625673678fbda490f10ec8d<>res://godot/imported/6twelve_39.png-8d198f5c3eed8ae96c3c3c12a960ef42.s3tc.ctex::
+6twelve_51.png::CompressedTexture2D::142877282395702778::1778587396::1779881258::1::::<><><>0<>0<>b036edbbedaaba4bf4b82fed591e0a42<>res://godot/imported/6twelve_51.png-4c5cc95c42cb5bdcac5f0f8372ddaf5a.ctex::
+6twelve_69.png::CompressedTexture2D::4087939093291029930::1778587396::1779881258::1::::<><><>0<>0<>9ec173c8885c7944d746f10affc9b0ed<>res://godot/imported/6twelve_69.png-0b37f56f45b985a5353d132fedbee842.ctex::
+6twelve_84.jpg::CompressedTexture2D::8113314069691549815::1778587396::1779881258::1::::<><><>0<>0<>dc6c921236bb510b377d20005ba8492d<>res://godot/imported/6twelve_84.jpg-0ce28ab56a9557ced50ab74ac0cd3986.ctex::
+diner.glb::PackedScene::3748490090919891155::1778587396::1779881267::1::::<><><>0<>0<>c92755cfda5b2527e27941f1414d4107<>res://godot/imported/diner.glb-d53e9ce124e2a44d6dece74378467962.scn::uid://dgw0nqwkthnsl::::res://marsupial/materials/retro3d-assets/Buildings/diner_0.png<>uid://v1vy53raw0wb::::res://marsupial/materials/retro3d-assets/Buildings/diner_1.png<>uid://s2x811i206tk::::res://marsupial/materials/retro3d-assets/Buildings/diner_2.jpg<>uid://doelupor7ql7f::::res://marsupial/materials/retro3d-assets/Buildings/diner_4.png<>uid://ckmyj1cntohta::::res://marsupial/materials/retro3d-assets/Buildings/diner_5.jpg<>uid://blju2rrdyypci::::res://marsupial/materials/retro3d-assets/Buildings/diner_6.png<>uid://bsdtkvwkbf1k3::::res://marsupial/materials/retro3d-assets/Buildings/diner_7.png<>uid://5571bb58021::::res://marsupial/materials/retro3d-assets/Buildings/diner_8.jpg<>uid://c136fp58aqete::::res://marsupial/materials/retro3d-assets/Buildings/diner_9.jpg<>uid://dhs71kii87j1n::::res://marsupial/materials/retro3d-assets/Buildings/diner_10.jpg<>uid://cvwn4bio7xdp4::::res://marsupial/materials/retro3d-assets/Buildings/diner_11.png<>uid://caf2b1y36swmj::::res://marsupial/materials/retro3d-assets/Buildings/diner_12.jpg<>uid://64ga4nv5kamx::::res://marsupial/materials/retro3d-assets/Buildings/diner_13.jpg<>uid://blixdtkks43u1::::res://marsupial/materials/retro3d-assets/Buildings/diner_15.jpg<>uid://cdn1r6p0spmk1::::res://marsupial/materials/retro3d-assets/Buildings/diner_16.jpg<>uid://cfsh22iwbv0yw::::res://marsupial/materials/retro3d-assets/Buildings/diner_17.jpg<>uid://yx26klodvm0q::::res://marsupial/materials/retro3d-assets/Buildings/diner_18.jpg<>uid://b7yyyorie6qj7::::res://marsupial/materials/retro3d-assets/Buildings/diner_19.jpg<>uid://cb0acf4vcw4w5::::res://marsupial/materials/retro3d-assets/Buildings/diner_20.jpg<>uid://capl3ompepwnq::::res://marsupial/materials/retro3d-assets/Buildings/diner_21.jpg<>uid://bl71lenyo8ubf::::res://marsupial/materials/retro3d-assets/Buildings/diner_22.jpg<>uid://cmgqf3b4a2syr::::res://marsupial/materials/retro3d-assets/Buildings/diner_23.png<>uid://bctaiuc0y86gx::::res://marsupial/materials/retro3d-assets/Buildings/diner_24.jpg<>uid://k2baixaia2ql::::res://marsupial/materials/retro3d-assets/Buildings/diner_25.png<>uid://mu4mp03pd7us::::res://marsupial/materials/retro3d-assets/Buildings/diner_26.jpg<>uid://cfqjm35ium37l::::res://marsupial/materials/retro3d-assets/Buildings/diner_27.jpg<>uid://dtmabrgwusfef::::res://marsupial/materials/retro3d-assets/Buildings/diner_28.jpg<>uid://clmoduen4hpjo::::res://marsupial/materials/retro3d-assets/Buildings/diner_29.jpg<>uid://cj74di2mbne1n::::res://marsupial/materials/retro3d-assets/Buildings/diner_30.jpg<>uid://c6liukn5e7r6b::::res://marsupial/materials/retro3d-assets/Buildings/diner_32.jpg<>uid://cgju0qckc5xiw::::res://marsupial/materials/retro3d-assets/Buildings/diner_33.png<>uid://yxuftbscaqv5::::res://marsupial/materials/retro3d-assets/Buildings/diner_34.jpg<>uid://bpsbrefd3hhyy::::res://marsupial/materials/retro3d-assets/Buildings/diner_35.png<>uid://dwftvamcl5627::::res://marsupial/materials/retro3d-assets/Buildings/diner_36.png<>uid://d1yd7fh6aol88::::res://marsupial/materials/retro3d-assets/Buildings/diner_37.png<>uid://b3xkymxsksobf::::res://marsupial/materials/retro3d-assets/Buildings/diner_38.jpg<>uid://52ql8aoor8ep::::res://marsupial/materials/retro3d-assets/Buildings/diner_40.png<>uid://cn6huohjg6c2o::::res://marsupial/materials/retro3d-assets/Buildings/diner_41.png<>uid://c83s4apmx0b6p::::res://marsupial/materials/retro3d-assets/Buildings/diner_42.png<>uid://buyih5uvt0o4x::::res://marsupial/materials/retro3d-assets/Buildings/diner_43.png<>uid://887bsgha4001::::res://marsupial/materials/retro3d-assets/Buildings/diner_44.png<>uid://cojkfagmcgtt6::::res://marsupial/materials/retro3d-assets/Buildings/diner_45.png<>uid://dd46a0vm527jb::::res://marsupial/materials/retro3d-assets/Buildings/diner_46.png<>uid://b4ux17m1n1yog::::res://marsupial/materials/retro3d-assets/Buildings/diner_47.jpg<>uid://k41eoebhlntr::::res://marsupial/materials/retro3d-assets/Buildings/diner_48.png<>uid://fv6r1kit1wv::::res://marsupial/materials/retro3d-assets/Buildings/diner_49.jpg<>uid://7smufufy4ekt::::res://marsupial/materials/retro3d-assets/Buildings/diner_50.png<>uid://bfg1kqae87wlf::::res://marsupial/materials/retro3d-assets/Buildings/diner_51.jpg<>uid://d1ug3tp2m8nlv::::res://marsupial/materials/retro3d-assets/Buildings/diner_52.png<>uid://pjxhhq4hs6kl::::res://marsupial/materials/retro3d-assets/Buildings/diner_53.png<>uid://djk7lw7j6wtrv::::res://marsupial/materials/retro3d-assets/Buildings/diner_54.png<>uid://c32hdpt3m3uab::::res://marsupial/materials/retro3d-assets/Buildings/diner_55.png<>uid://deqryx38q8u1a::::res://marsupial/materials/retro3d-assets/Buildings/diner_56.png<>uid://ctl1v7j71h4bn::::res://marsupial/materials/retro3d-assets/Buildings/diner_57.png<>uid://b7l87phhf3iq2::::res://marsupial/materials/retro3d-assets/Buildings/diner_59.png<>uid://djgxt7s42gu4b::::res://marsupial/materials/retro3d-assets/Buildings/diner_62.png<>uid://c3nws3abjp4xg::::res://marsupial/materials/retro3d-assets/Buildings/diner_63.png<>uid://bhpiubop6swwk::::res://marsupial/materials/retro3d-assets/Buildings/diner_64.jpg<>uid://be8o7asbxnwei::::res://marsupial/materials/retro3d-assets/Buildings/diner_65.png<>uid://b4eh7f2ksvomn::::res://marsupial/materials/retro3d-assets/Buildings/diner_66.png<>uid://7ncoljouahox::::res://marsupial/materials/retro3d-assets/Buildings/diner_67.png<>uid://cvc11j65mi2q0::::res://marsupial/materials/retro3d-assets/Buildings/diner_68.png<>uid://ckqgfrnel7dyb::::res://marsupial/materials/retro3d-assets/Buildings/diner_69.png<>uid://foebtm78ck5u::::res://marsupial/materials/retro3d-assets/Buildings/diner_70.png<>uid://cs3disbx12kyu::::res://marsupial/materials/retro3d-assets/Buildings/diner_71.png<>uid://dyaovo0gkaumd::::res://marsupial/materials/retro3d-assets/Buildings/diner_72.png<>uid://mh5h1cqjqldm::::res://marsupial/materials/retro3d-assets/Buildings/diner_73.png<>uid://b5ha07j3brw1y::::res://marsupial/materials/retro3d-assets/Buildings/diner_74.jpg<>uid://ck5ysncwp3kf5::::res://marsupial/materials/retro3d-assets/Buildings/diner_75.jpg<>uid://d0kvi6o2qii63::::res://marsupial/materials/retro3d-assets/Buildings/diner_76.png<>uid://c4tjjbfj0xpbk::::res://marsupial/materials/retro3d-assets/Buildings/diner_77.jpg<>uid://yf1k0kn1lvpg::::res://marsupial/materials/retro3d-assets/Buildings/diner_78.png<>uid://u18ae5iwfyxf::::res://marsupial/materials/retro3d-assets/Buildings/diner_79.jpg<>uid://bh2hr4jy0htjl::::res://marsupial/materials/retro3d-assets/Buildings/diner_80.jpg<>uid://b8y2ets8ndhyd::::res://marsupial/materials/retro3d-assets/Buildings/diner_81.png<>uid://bih0cubwabrms::::res://marsupial/materials/retro3d-assets/Buildings/diner_82.png<>uid://x3rf7t6v2bfi::::res://marsupial/materials/retro3d-assets/Buildings/diner_83.png<>uid://0v7yxftcprto::::res://marsupial/materials/retro3d-assets/Buildings/diner_84.png<>uid://o0nk3iqbdler::::res://marsupial/materials/retro3d-assets/Buildings/diner_85.png<>uid://drssfoptyqk64::::res://marsupial/materials/retro3d-assets/Buildings/diner_87.png<>uid://cpgx8phdy45t5::::res://marsupial/materials/retro3d-assets/Buildings/diner_88.jpg<>uid://n2cqu6bl40ph::::res://marsupial/materials/retro3d-assets/Buildings/diner_89.jpg<>uid://bfqui3re3bm66::::res://marsupial/materials/retro3d-assets/Buildings/diner_90.jpg<>uid://cent3rdf3ewa0::::res://marsupial/materials/retro3d-assets/Buildings/diner_91.jpg
+diner_0.png::CompressedTexture2D::7627353438476072651::1779869942::1779881258::1::::<><><>0<>0<>bdd2f573e27d0d5e5b3c436215b30609<>res://godot/imported/diner_0.png-d0fd2eacb27b1c1162c637897a5386ae.s3tc.ctex::
+diner_1.png::CompressedTexture2D::1528959073634372001::1779869942::1779881258::1::::<><><>0<>0<>ec993f41199ffc035e6497ed5457dab1<>res://godot/imported/diner_1.png-dd2941edd8dae1b13c82d2bacb12b649.s3tc.ctex::
+diner_2.jpg::CompressedTexture2D::1320594213049289220::1779869942::1779881258::1::::<><><>0<>0<>dd3b4afe9a360a2361b739d7c1016d39<>res://godot/imported/diner_2.jpg-a6f4e6888f51ef35b6183d1b473d04c8.s3tc.ctex::
+diner_4.png::CompressedTexture2D::8150867786119846289::1778587396::1779881258::1::::<><><>0<>0<>46f702c710c29787b42241c0fe2cba02<>res://godot/imported/diner_4.png-d8ee54383c55f42ca0d40b0f9fda1880.s3tc.ctex::
+diner_5.jpg::CompressedTexture2D::5500976986100104930::1779869942::1779881258::1::::<><><>0<>0<>b17c51df84c26290d57c0b770614c7f6<>res://godot/imported/diner_5.jpg-2d6044e1042fb60c41b2519fe3fcf380.s3tc.ctex::
+diner_6.png::CompressedTexture2D::3178340839116723304::1779869942::1779881258::1::::<><><>0<>0<>ebdcd380fefeada91e30f756733dc2d8<>res://godot/imported/diner_6.png-1a49fb5e5e92c711ae6cb7471a602dfb.s3tc.ctex::
+diner_7.png::CompressedTexture2D::3657185620673442768::1779869942::1779881258::1::::<><><>0<>0<>de648c4bcd998c056b8746e00fe1c098<>res://godot/imported/diner_7.png-50ff5f17d9f9df5ef6653ea4531821fc.s3tc.ctex::
+diner_8.jpg::CompressedTexture2D::63811355048504412::1779869942::1779881258::1::::<><><>0<>0<>b645ca0babcd641721bcfdee5f5cf6a7<>res://godot/imported/diner_8.jpg-94e08bb0ebfe14d1272c61528e031f1e.s3tc.ctex::
+diner_9.jpg::CompressedTexture2D::6657445870528390458::1779869942::1779881258::1::::<><><>0<>0<>cc4724a3208b02ac343af1346573e107<>res://godot/imported/diner_9.jpg-22935eacc42f7a60beae5214aff711c4.s3tc.ctex::
+diner_10.jpg::CompressedTexture2D::7689732668529448245::1779869942::1779881258::1::::<><><>0<>0<>c684631247830b22376654b31cc350d6<>res://godot/imported/diner_10.jpg-2f28d267bff8543b9188ee5123aab7f0.s3tc.ctex::
+diner_11.png::CompressedTexture2D::6293064568864955423::1779869942::1779881258::1::::<><><>0<>0<>49cd2815119be253483de1fb088feaf3<>res://godot/imported/diner_11.png-d0fe25ff153deb61cdd6c11ce22dea0b.s3tc.ctex::
+diner_12.jpg::CompressedTexture2D::4784805804751861753::1779869942::1779881258::1::::<><><>0<>0<>710be576ecb03b70b6ad0c4156eb30b0<>res://godot/imported/diner_12.jpg-031634e8d13d553e46f6c8257c62c49c.s3tc.ctex::
+diner_13.jpg::CompressedTexture2D::2236086953857575231::1779869943::1779881258::1::::<><><>0<>0<>02cf8f8577b76985ce68c908cec197b5<>res://godot/imported/diner_13.jpg-abeaed561b2630cd025ec2a8bf7d302f.s3tc.ctex::
+diner_15.jpg::CompressedTexture2D::3176415847830556922::1779869943::1779881258::1::::<><><>0<>0<>134f9b428b5c4b9520e992a998fe69a3<>res://godot/imported/diner_15.jpg-f590d249b8d02b6048a15d77e3d7a47a.s3tc.ctex::
+diner_16.jpg::CompressedTexture2D::5011855461967851798::1779869943::1779881258::1::::<><><>0<>0<>805b613096d4f032a591bd7ff88bef11<>res://godot/imported/diner_16.jpg-5e54f5d8754262280451863b73936678.s3tc.ctex::
+diner_17.jpg::CompressedTexture2D::5161419052024897442::1779869943::1779881258::1::::<><><>0<>0<>217de4102299370ee65f3fe04bb505cb<>res://godot/imported/diner_17.jpg-28ffd40c85fa88b97c5adfa8e4f8d9dd.s3tc.ctex::
+diner_18.jpg::CompressedTexture2D::1733708196939193450::1779869943::1779881258::1::::<><><>0<>0<>b238dca186f17df08f6742be129787ef<>res://godot/imported/diner_18.jpg-3a5e7a225e88c6695ee7700fa1ca2449.s3tc.ctex::
+diner_19.jpg::CompressedTexture2D::4683509575046327690::1779869943::1779881258::1::::<><><>0<>0<>5f54d9c8d139c4860fe1c151420d1cb9<>res://godot/imported/diner_19.jpg-49a4adc60eb1830a4559a28a055172b3.s3tc.ctex::
+diner_20.jpg::CompressedTexture2D::4894643534837333038::1778587396::1779881258::1::::<><><>0<>0<>0f1d5129ab9812204c9b16c246694b06<>res://godot/imported/diner_20.jpg-c5fcc814b8c348df2b4d4fb179ed5bd2.s3tc.ctex::
+diner_21.jpg::CompressedTexture2D::4804525677398914106::1779869943::1779881258::1::::<><><>0<>0<>23f8f04d7b342e4ec3e2340ed176e225<>res://godot/imported/diner_21.jpg-c6c36f80af3484c50e2a11b2762abaf4.s3tc.ctex::
+diner_22.jpg::CompressedTexture2D::3226156568672589087::1779869943::1779881256::1::::<><><>0<>0<>587c40c2e3f905279db833f9265ae771<>res://godot/imported/diner_22.jpg-0cd55b93531f8002f0b6d8f1ce28bbe4.s3tc.ctex::
+diner_23.png::CompressedTexture2D::5628475631938055873::1779869943::1779881256::1::::<><><>0<>0<>68d14cba1a5e8f9612bffea1d401c7e9<>res://godot/imported/diner_23.png-f4146f8a12bf82ebae70159c5bfb916b.s3tc.ctex::
+diner_24.jpg::CompressedTexture2D::2566036889373443207::1779869943::1779881256::1::::<><><>0<>0<>f09b97b99ed2395c2614a087fd80d42e<>res://godot/imported/diner_24.jpg-5931000ad85176331cef61bf279795d1.s3tc.ctex::
+diner_25.png::CompressedTexture2D::757687808460729431::1779869943::1779881256::1::::<><><>0<>0<>7ac2438b087da6a55d6306e56496608c<>res://godot/imported/diner_25.png-f811ce102cc894f619d3d280fd271bf0.s3tc.ctex::
+diner_26.jpg::CompressedTexture2D::885336728817425410::1779869943::1779881256::1::::<><><>0<>0<>e478bf366bc3fb9e3bf39d41a35912cc<>res://godot/imported/diner_26.jpg-d5f9744043fa401aef6393f31371592b.s3tc.ctex::
+diner_27.jpg::CompressedTexture2D::5157385029491729115::1779869943::1779881256::1::::<><><>0<>0<>b70967fc05f9c31f56c03caa21765cb9<>res://godot/imported/diner_27.jpg-9508b3c3ace87d5e73b728add27d4b56.s3tc.ctex::
+diner_28.jpg::CompressedTexture2D::8517625302237339057::1779869943::1779881256::1::::<><><>0<>0<>9c8e95e8ad5dda67e5b50d7aad6032d2<>res://godot/imported/diner_28.jpg-196d1352bcab00d2f879813374b519db.s3tc.ctex::
+diner_29.jpg::CompressedTexture2D::5570547633009648420::1779869943::1779881256::1::::<><><>0<>0<>01c57077c110b5d10d69b6a77037b469<>res://godot/imported/diner_29.jpg-f2a643cf7a84acff4ee4aee10e2ddb6b.s3tc.ctex::
+diner_30.jpg::CompressedTexture2D::5472367660873946825::1779869943::1779881256::1::::<><><>0<>0<>3a928a4a0204fe8add42e0898dbb92c6<>res://godot/imported/diner_30.jpg-b205c6c1b5c4dcc7277f48329feddf25.s3tc.ctex::
+diner_32.jpg::CompressedTexture2D::6971925673965738531::1779869943::1779881256::1::::<><><>0<>0<>4e448b45dcdf2f6a8f9e78c860e956d5<>res://godot/imported/diner_32.jpg-a3bfda74c61a59651cc86f00b08b9d18.s3tc.ctex::
+diner_33.png::CompressedTexture2D::5213813657625330130::1779869943::1779881256::1::::<><><>0<>0<>c9d2c2f816f186b24a2d5c619dc5f4e0<>res://godot/imported/diner_33.png-fbe11dd3ddf83579103cc3fcafbafad9.s3tc.ctex::
+diner_34.jpg::CompressedTexture2D::1733237204789992520::1779869943::1779881256::1::::<><><>0<>0<>69e9bdea336b874fdf36a9adbd8d5535<>res://godot/imported/diner_34.jpg-7e925e19b881df6dc3c5bd070fb7e41b.s3tc.ctex::
+diner_35.png::CompressedTexture2D::3476503431317242876::1779869943::1779881256::1::::<><><>0<>0<>fb17f127ae224d56d7e683090d69ff77<>res://godot/imported/diner_35.png-f8122577c55ec78c7927725d3b430310.s3tc.ctex::
+diner_36.png::CompressedTexture2D::8714929643065319570::1779869943::1779881256::1::::<><><>0<>0<>baf05e1c266a6442e4666f31d0157323<>res://godot/imported/diner_36.png-f3d9a0f3708dd9772b3d3d303039c2af.s3tc.ctex::
+diner_37.png::CompressedTexture2D::9033956622988279743::1779869943::1779881256::1::::<><><>0<>0<>9c2a1eee80d15ab517354210d23e80b6<>res://godot/imported/diner_37.png-1f53b93949497e883b4c3725a086cf34.s3tc.ctex::
+diner_38.jpg::CompressedTexture2D::4399839689525392783::1779869943::1779881256::1::::<><><>0<>0<>ea44772b7e435a1d30bb988eb574e3ac<>res://godot/imported/diner_38.jpg-0a13704198823fe4da4dd001c4d9b686.s3tc.ctex::
+diner_40.png::CompressedTexture2D::2162396358043868611::1779869943::1779881256::1::::<><><>0<>0<>c348d26063421ebff2b1a9a23bc30e51<>res://godot/imported/diner_40.png-f55ee5dc4a1d5923219bf38c27cbd907.s3tc.ctex::
+diner_41.png::CompressedTexture2D::5749753526442630756::1779869943::1779881256::1::::<><><>0<>0<>2a77a02a0cb1c719797901eb1997652f<>res://godot/imported/diner_41.png-e0ba8c5838c276dad841e699c904f268.s3tc.ctex::
+diner_42.png::CompressedTexture2D::7148020502196994729::1779869943::1779881256::1::::<><><>0<>0<>2cdcbd27600aaa79c5999e8f59bebff4<>res://godot/imported/diner_42.png-3a37d68caf25bfa242c9cfdd2d9bf6f4.s3tc.ctex::
+diner_43.png::CompressedTexture2D::3840242466627776065::1779869943::1779881256::1::::<><><>0<>0<>5c2999edaa8b14c623a1d35d24814b34<>res://godot/imported/diner_43.png-2d9f16178d4e76248ace4c899402c84a.s3tc.ctex::
+diner_44.png::CompressedTexture2D::2386301990509819672::1779869943::1779881256::1::::<><><>0<>0<>b85767260ee2807f7b27789cfb00e0a2<>res://godot/imported/diner_44.png-b03f201f8d0db33b16424474631aaf5d.s3tc.ctex::
+diner_45.png::CompressedTexture2D::5774680686819365313::1779869943::1779881256::1::::<><><>0<>0<>7a79c37aac809fcf73677eaeaabc7419<>res://godot/imported/diner_45.png-964c2696756e71252dc7c0ac0532c73a.s3tc.ctex::
+diner_46.png::CompressedTexture2D::7431579109747954219::1779869943::1779881256::1::::<><><>0<>0<>b9b41752845e0598302b9cac73d062e1<>res://godot/imported/diner_46.png-c0018f1dbfb38006f11a6b6549d06872.s3tc.ctex::
+diner_47.jpg::CompressedTexture2D::4464629326236992802::1779869943::1779881256::1::::<><><>0<>0<>dde2d47f199fc366c77d3d0ce115a418<>res://godot/imported/diner_47.jpg-1c93787d8a9b2ef54ec8c48bbb8209e8.s3tc.ctex::
+diner_48.png::CompressedTexture2D::763341917796962483::1779869943::1779881256::1::::<><><>0<>0<>ece619f2b6d410516991bf7cbbaefb52<>res://godot/imported/diner_48.png-92e4ad7351701d3b49934a27ffa31462.s3tc.ctex::
+diner_49.jpg::CompressedTexture2D::11653238757136193::1779869943::1779881256::1::::<><><>0<>0<>1baa0369d4c8e86700c4afde0384c78a<>res://godot/imported/diner_49.jpg-6f1f4cf469d7c2124f3f7aded041cc60.s3tc.ctex::
+diner_50.png::CompressedTexture2D::2283966409554640767::1779869943::1779881256::1::::<><><>0<>0<>b454200cb6f86227a85556cd2da85d6b<>res://godot/imported/diner_50.png-4a9bbce365b373dd0df57b7b08499ccd.s3tc.ctex::
+diner_51.jpg::CompressedTexture2D::2751348508759325283::1778587396::1779881256::1::::<><><>0<>0<>d81d54d93931a1557e526999d491d8c3<>res://godot/imported/diner_51.jpg-f67de779cada9c110e8294577af0d07c.s3tc.ctex::
+diner_52.png::CompressedTexture2D::9025874867295100455::1779869944::1779881256::1::::<><><>0<>0<>7b1b5484e24107c615af0c349116b38e<>res://godot/imported/diner_52.png-7142c536a7d0ed7ce69e279c0895fd0c.s3tc.ctex::
+diner_53.png::CompressedTexture2D::1072821439456033659::1779869944::1779881256::1::::<><><>0<>0<>7a18331f663a30d682909988055e0e8c<>res://godot/imported/diner_53.png-8f29b2d0214d14cff275ce937cb26319.s3tc.ctex::
+diner_54.png::CompressedTexture2D::7813569214262350051::1778587396::1779881256::1::::<><><>0<>0<>6ec31558bb0401fd5822f58a0e5c0d41<>res://godot/imported/diner_54.png-ef77db8e1dd29a2a7d7d46adaef86098.s3tc.ctex::
+diner_55.png::CompressedTexture2D::6794298383432690353::1779869944::1779881256::1::::<><><>0<>0<>9cb88cf10861c688fc99aa1a3a1db7c4<>res://godot/imported/diner_55.png-16dbb543ddc37ff1aa791af4e43ae0b4.s3tc.ctex::
+diner_56.png::CompressedTexture2D::7474123770440784876::1779869944::1779881256::1::::<><><>0<>0<>a8aa6e4d33d6e28ff768b5daa16de426<>res://godot/imported/diner_56.png-a270e4d3af617903052d83bb851eeac9.s3tc.ctex::
+diner_57.png::CompressedTexture2D::6130755391426837179::1779869944::1779881256::1::::<><><>0<>0<>d3e1188c3c27a529b3cffc7734746151<>res://godot/imported/diner_57.png-c352802462cf4e9fa109497567b938d5.s3tc.ctex::
+diner_59.png::CompressedTexture2D::4657233440560767915::1779869944::1779881256::1::::<><><>0<>0<>9c1fda0b26c971ebd89a02cee9d7867f<>res://godot/imported/diner_59.png-ab45b6ae0a1dbd5ea6cd210eef28e9bd.s3tc.ctex::
+diner_62.png::CompressedTexture2D::7804780041171427371::1779869944::1779881256::1::::<><><>0<>0<>626c9f57ed5e31c4af6f7969b91ac25f<>res://godot/imported/diner_62.png-90dfc99c8499406e4116fcf71d397a05.s3tc.ctex::
+diner_63.png::CompressedTexture2D::6766335288896926640::1779869944::1779881256::1::::<><><>0<>0<>0fa352015f7f94c0abedcba8fc490f11<>res://godot/imported/diner_63.png-baf135f31d5814a7da4f5726cbb7d46b.s3tc.ctex::
+diner_64.jpg::CompressedTexture2D::2909229782164757422::1779869944::1779881256::1::::<><><>0<>0<>a040a982853b9e8c4266295d26826e29<>res://godot/imported/diner_64.jpg-652981d5eadce16a87992991362940c9.s3tc.ctex::
+diner_65.png::CompressedTexture2D::2736207735316077536::1779869944::1779881256::1::::<><><>0<>0<>ba8393e13163b1fa4e5fe4c809db71c8<>res://godot/imported/diner_65.png-dfdfac21316c758c5c849da77206fa0b.s3tc.ctex::
+diner_66.png::CompressedTexture2D::4430637129372321445::1779869944::1779881256::1::::<><><>0<>0<>8987321474779445063fa12e339a5a37<>res://godot/imported/diner_66.png-ab2efb459d41d13736532465a9c04313.s3tc.ctex::
+diner_67.png::CompressedTexture2D::2273026934642937423::1779869944::1779881256::1::::<><><>0<>0<>f5232e8da057381856c50f1e04a86ff0<>res://godot/imported/diner_67.png-9feb1d6a7d3eced52f8ce0a1c5cf8404.s3tc.ctex::
+diner_68.png::CompressedTexture2D::6252561433724990245::1779869944::1779881256::1::::<><><>0<>0<>4ca68ddef4ea276d8b22ef6c3c1cefbc<>res://godot/imported/diner_68.png-1df148eeb1820e8da9628510085a3369.s3tc.ctex::
+diner_69.png::CompressedTexture2D::5508133991934718893::1778587396::1779881256::1::::<><><>0<>0<>7d970cd5cd5b3de24e8e5e421be5c362<>res://godot/imported/diner_69.png-473838df16798ba6634a46a364bb5988.s3tc.ctex::
+diner_70.png::CompressedTexture2D::380091178491399128::1779869944::1779881257::1::::<><><>0<>0<>5913641e257af5d3daa9614531a15614<>res://godot/imported/diner_70.png-549f276508d4901dd0aae03e96a75b84.s3tc.ctex::
+diner_71.png::CompressedTexture2D::6094240515359937412::1779869945::1779881256::1::::<><><>0<>0<>9f9f25bb4e7b69d5f0705176282c1cf9<>res://godot/imported/diner_71.png-d4032ed7855450be4c8664bcc77f42c8.s3tc.ctex::
+diner_72.png::CompressedTexture2D::8844682612195825547::1779869945::1779881256::1::::<><><>0<>0<>2c96d3fd76520fe0a350b8339eadb65f<>res://godot/imported/diner_72.png-5d68e8f66728d4e8a9d3a61054002635.s3tc.ctex::
+diner_73.png::CompressedTexture2D::858552147711483310::1779869945::1779881256::1::::<><><>0<>0<>7343897be77e374b69a975d87e503f8c<>res://godot/imported/diner_73.png-62aad7b22aea1727d743a350795a558f.s3tc.ctex::
+diner_74.jpg::CompressedTexture2D::4506582977884780476::1779869945::1779881256::1::::<><><>0<>0<>1881444552230f5b2f52f48a3d95d645<>res://godot/imported/diner_74.jpg-e03536dbaa5a0b957241fbdd3cbb635e.s3tc.ctex::
+diner_75.jpg::CompressedTexture2D::5538151175418899840::1779869945::1779881256::1::::<><><>0<>0<>4c0a69492a5e581da3622eb171d93b49<>res://godot/imported/diner_75.jpg-c93bf797dca8ddc4246b4b9d54cd2c75.s3tc.ctex::
+diner_76.png::CompressedTexture2D::8935917913869624314::1779869945::1779881256::1::::<><><>0<>0<>1d09e1c2e54d2ae7b88900ce0f6491dd<>res://godot/imported/diner_76.png-f43c0efe18f0aff91e6bfc6734a6dbc3.s3tc.ctex::
+diner_77.jpg::CompressedTexture2D::6848103595986940048::1779869945::1779881256::1::::<><><>0<>0<>96b35dcc24e06820133aad366ff4df88<>res://godot/imported/diner_77.jpg-ec63bee0d7113a795f66e9dd53139180.s3tc.ctex::
+diner_78.png::CompressedTexture2D::1696451964991713264::1779869945::1779881256::1::::<><><>0<>0<>9c48d7837b9e0ac59707c3656a1959d7<>res://godot/imported/diner_78.png-b1c64e3bf338f22765d9ac6bade0869e.s3tc.ctex::
+diner_79.jpg::CompressedTexture2D::1459454611958136059::1779869945::1779881256::1::::<><><>0<>0<>47ad4f9c9a456eaab12ff6c1edb8b0c9<>res://godot/imported/diner_79.jpg-960c7cd575e4dc5fb978b3bc8a027406.s3tc.ctex::
+diner_80.jpg::CompressedTexture2D::2933937704169240081::1779869945::1779881256::1::::<><><>0<>0<>1ffd1f3d0ab0a714c39a36cf538d2929<>res://godot/imported/diner_80.jpg-b05f0d5a5dd4d204d761b2763cdc011e.s3tc.ctex::
+diner_81.png::CompressedTexture2D::4753845119092918871::1779869945::1779881256::1::::<><><>0<>0<>86994fa7fd80988d076102657881e799<>res://godot/imported/diner_81.png-48018640e99ea37600a379e0eafbb406.s3tc.ctex::
+diner_82.png::CompressedTexture2D::2963904626494195958::1779869945::1779881256::1::::<><><>0<>0<>39780e1dee892c0ca10a20951478b440<>res://godot/imported/diner_82.png-148ed2be6a879a823d417f32b68aed03.s3tc.ctex::
+diner_83.png::CompressedTexture2D::1673188810171085182::1779869945::1779881256::1::::<><><>0<>0<>2f050e5adeeb858566db9a440bc881f6<>res://godot/imported/diner_83.png-c6248529c47f1b95914e0a69f687ab2e.s3tc.ctex::
+diner_84.png::CompressedTexture2D::1800060043235940240::1779869945::1779881256::1::::<><><>0<>0<>32f16ebf643dce297bfee4a68b547fe1<>res://godot/imported/diner_84.png-1f81fe281970c1ededc4eac49008bbdc.s3tc.ctex::
+diner_85.png::CompressedTexture2D::1035061917369634029::1779869945::1779881256::1::::<><><>0<>0<>884c0f405caafa70405fa3f144c9a1d6<>res://godot/imported/diner_85.png-90413c1f002622f0dcf9777ed46be702.s3tc.ctex::
+diner_87.png::CompressedTexture2D::8390733786733205379::1779869945::1779881256::1::::<><><>0<>0<>d438b401decef81e0c81960e30fee4ef<>res://godot/imported/diner_87.png-74d8efdce85d01bc5b77454a30d5e687.s3tc.ctex::
+diner_88.jpg::CompressedTexture2D::5839516509346973348::1779869945::1779881256::1::::<><><>0<>0<>d7dfede418c00159d08a8bec6c1941b0<>res://godot/imported/diner_88.jpg-574310f11d9b9b3708f0f4d3da2d5731.s3tc.ctex::
+diner_89.jpg::CompressedTexture2D::968344271759290337::1779869945::1779881256::1::::<><><>0<>0<>d9492c01f83910ea0b7afcf4406e7591<>res://godot/imported/diner_89.jpg-004f8fde0f7e1734104c725a751273b8.s3tc.ctex::
+diner_90.jpg::CompressedTexture2D::2771625069289480309::1779869945::1779881256::1::::<><><>0<>0<>b71241bad2ee9e8d62abfddd94ca3750<>res://godot/imported/diner_90.jpg-7ad3b46b0e2410716bf267c65339971f.s3tc.ctex::
+diner_91.jpg::CompressedTexture2D::5081638175629151537::1779869945::1779881256::1::::<><><>0<>0<>b89a1563f2f4d7248e1bf18037bda23e<>res://godot/imported/diner_91.jpg-c20949332be280f74cf664bfc61ec3d0.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Abandoned House/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Abandoned House/Textures/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Bui/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Bui/Bui/::1779881257
+building (1).jpg::CompressedTexture2D::3235185110282647547::1778587396::1779881257::1::::<><><>0<>0<>9000698ce219b112b20f98cf0fdcbc79<>res://godot/imported/building (1).jpg-36d210cb2ada92c8e967145ef2d48b2a.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Isometric/::1779881258
+balconyLadder_bottom_SE.png::CompressedTexture2D::1099750454951960150::1778587396::1779881257::1::::<><><>0<>0<>b9aa76e57c1a61e299181e2ad0e03521<>res://godot/imported/balconyLadder_bottom_SE.png-14d4e22ac882791f320ee861d2714dad.ctex::
+detailAwning_small_NW.png::CompressedTexture2D::5826696960040991185::1778587396::1779881257::1::::<><><>0<>0<>904fb8699f4599efa66ba4790c428b7c<>res://godot/imported/detailAwning_small_NW.png-db43c8809ec38d467672db393d83e5f4.ctex::
+detailAwning_wide_NE.png::CompressedTexture2D::7384138526699086783::1778587396::1779881257::1::::<><><>0<>0<>68b56df87a531d28f301867431534a1b<>res://godot/imported/detailAwning_wide_NE.png-34e047d61c5c37fe5d3efa9a96ca8906.ctex::
+detailBarrierStrong_typeA_SW.png::CompressedTexture2D::112563048440218926::1778587396::1779881257::1::::<><><>0<>0<>1789e96a6295cbaf150fdc709bdcbc63<>res://godot/imported/detailBarrierStrong_typeA_SW.png-af74eaca0b34c0cf650290ef04f4e09b.ctex::
+detailBarrierStrong_typeB_SE.png::CompressedTexture2D::6019820080303369315::1778587396::1779881257::1::::<><><>0<>0<>cf8c349879961931506c6b337c4b1d76<>res://godot/imported/detailBarrierStrong_typeB_SE.png-506d7f73911ea8aeb2b1dd94a99cde6d.ctex::
+detailLight_double_NE.png::CompressedTexture2D::6051848482012286828::1778587396::1779881257::1::::<><><>0<>0<>f74e0f8de16f58579aab19fea1de119b<>res://godot/imported/detailLight_double_NE.png-01f3e8c82f656444bd9d366b65e224a3.ctex::
+detailLight_single_SW.png::CompressedTexture2D::8165983318757851108::1778587396::1779881257::1::::<><><>0<>0<>91b713547f63fb9f1b2b498c937b838b<>res://godot/imported/detailLight_single_SW.png-98e5ea35e553aead50a8692bc9760636.ctex::
+detailLight_traffic_NE.png::CompressedTexture2D::1078596958675057295::1778587396::1779881257::1::::<><><>0<>0<>b9cc80ef4119dea2e156e7be62a37070<>res://godot/imported/detailLight_traffic_NE.png-a7ad6d87c23f4177756ec0700d7428b8.ctex::
+detailLight_traffic_SE.png::CompressedTexture2D::4944083394059733754::1778587396::1779881257::1::::<><><>0<>0<>78493b8a0e7c7087b434f99347f8455b<>res://godot/imported/detailLight_traffic_SE.png-7aae61742d57f054d1fdcc5dd7200932.ctex::
+door_typeA_NW.png::CompressedTexture2D::190940426677830367::1778587396::1779881257::1::::<><><>0<>0<>447619f41b46ee64e72d383bde061cf1<>res://godot/imported/door_typeA_NW.png-50121113bccfb4adec863228af76125f.ctex::
+door_typeA_SE.png::CompressedTexture2D::8028479637425723613::1778587396::1779881257::1::::<><><>0<>0<>9547bb587b45c2b6a9c646b125e1443f<>res://godot/imported/door_typeA_SE.png-5af4d791899b53469ff45f2c5a91c11f.ctex::
+roadAsphalt_center_NW.png::CompressedTexture2D::992996673432671456::1778587396::1779881257::1::::<><><>0<>0<>283cf4458e0f0cc1d7cf9753f837f3d5<>res://godot/imported/roadAsphalt_center_NW.png-7ba8a6c1bd8f6ea1397cda35c1d17cff.ctex::
+roadAsphalt_side_NE.png::CompressedTexture2D::4934193151697788299::1778587396::1779881257::1::::<><><>0<>0<>7f6761b6a00faa2d0e05d342827bc181<>res://godot/imported/roadAsphalt_side_NE.png-b740a1210dc8fcf8f32caafec4931df2.ctex::
+roadDirt_pavement_SE.png::CompressedTexture2D::7506335098804614930::1778587396::1779881257::1::::<><><>0<>0<>3ec5328671d4e87a0b56f105029f9b7c<>res://godot/imported/roadDirt_pavement_SE.png-1de54f3a5d2091063ecbbd335680c015.ctex::
+roadDirt_side_NE.png::CompressedTexture2D::6797413470941310511::1778587396::1779881257::1::::<><><>0<>0<>ebbdf737cf468c70477de1fd06acf347<>res://godot/imported/roadDirt_side_NE.png-3ad69745931d3780a9a4f344a414a1fd.ctex::
+roadDirt_straight_NE.png::CompressedTexture2D::1490282992134526814::1778587396::1779881257::1::::<><><>0<>0<>770efb080dd61ff53c9180df100dacb7<>res://godot/imported/roadDirt_straight_NE.png-bb29d9b29fa101b002238577fa550f12.ctex::
+roadDirt_straight_NW.png::CompressedTexture2D::612995693590410912::1778587396::1779881257::1::::<><><>0<>0<>cd60a7791a5e6e6feb89100d88893846<>res://godot/imported/roadDirt_straight_NW.png-f34da2a3b2a8df030f598cd730336a37.ctex::
+roadDirt_tile_NW.png::CompressedTexture2D::7777714702077914410::1778587396::1779881257::1::::<><><>0<>0<>31a6dcca84bb0a7a888fc22944bca1e2<>res://godot/imported/roadDirt_tile_NW.png-069c8fa6713e33b0c4cfa09192cd0149.ctex::
+roofMetal_typeB_SW.png::CompressedTexture2D::425420958117450898::1778587396::1779881257::1::::<><><>0<>0<>743850053d5ebd171cec86d84865b2a5<>res://godot/imported/roofMetal_typeB_SW.png-001c5740bd73a7e9a2e527265565d3f9.ctex::
+scaffolding_poles_NW.png::CompressedTexture2D::3501078511445644489::1778587396::1779881257::1::::<><><>0<>0<>79ce3974dd9a416a5256861162d69d57<>res://godot/imported/scaffolding_poles_NW.png-a560af35012b4cff7910a8f662d36f99.ctex::
+scaffolding_structure_SW.png::CompressedTexture2D::4720853137563755998::1778587396::1779881257::1::::<><><>0<>0<>a3aae259b731b766e421e7557a782691<>res://godot/imported/scaffolding_structure_SW.png-69f91e091e7693dae055055ca88a16a3.ctex::
+treePine_small_SW.png::CompressedTexture2D::1693181883731279645::1778587396::1779881257::1::::<><><>0<>0<>0b72278e583049f0c103dfc8d57a05d0<>res://godot/imported/treePine_small_SW.png-47889a5014bb7bdc257a9b9ffea5e1c1.ctex::
+tree_shrub_NE.png::CompressedTexture2D::2302868578483590283::1778587396::1779881257::1::::<><><>0<>0<>ed0e3c2547de31fffb0303dd966b2d8f<>res://godot/imported/tree_shrub_NE.png-149440d6bc033f3d8db9c2e378022cef.ctex::
+tree_shrub_SE.png::CompressedTexture2D::149192358984493219::1778587396::1779881257::1::::<><><>0<>0<>f9f86f81ab7177be345053837bb219b2<>res://godot/imported/tree_shrub_SE.png-cfa7c23c65cbf289416a77970e87f93d.ctex::
+wallA_detailPainted_SW.png::CompressedTexture2D::9026741226784039364::1778587396::1779881257::1::::<><><>0<>0<>9d2f844bb85a24d5ff7635a15f3d59ad<>res://godot/imported/wallA_detailPainted_SW.png-71e369fb63da52c4415903a810ceaa7c.ctex::
+wallA_flatPainted_SW.png::CompressedTexture2D::8518104261905552703::1778587396::1779881257::1::::<><><>0<>0<>3f269bac490ad4515cf4fe221fd13bde<>res://godot/imported/wallA_flatPainted_SW.png-8b54bc0a2f4e727fef875c9c4a151de6.ctex::
+wallA_flat_SE.png::CompressedTexture2D::5791841438277722517::1778587396::1779881257::1::::<><><>0<>0<>85e5e1a98c0bef2f060db309fe308927<>res://godot/imported/wallA_flat_SE.png-9cdb92c0210fb89a5161534b5c88bb24.ctex::
+wallA_garage_NE.png::CompressedTexture2D::4306723437370732292::1778587396::1779881258::1::::<><><>0<>0<>8e85bb55fae3269d8a70e1bcc018255a<>res://godot/imported/wallA_garage_NE.png-52b23bafd6b4715dc8f5df98dedc8764.ctex::
+wallA_open_NE.png::CompressedTexture2D::3348890669887298457::1778587396::1779881258::1::::<><><>0<>0<>3fcb9a4a839a6a0d33442da50215c210<>res://godot/imported/wallA_open_NE.png-947035a74922e17f88f105b64511b4c5.ctex::
+wallA_open_SE.png::CompressedTexture2D::6740039245697460941::1778587396::1779881257::1::::<><><>0<>0<>714d65185f024438329df1dc97a65df2<>res://godot/imported/wallA_open_SE.png-cde352a04822e73d5c7634b3bbb4a877.ctex::
+wallA_roofSlant_NE.png::CompressedTexture2D::5256297911234844628::1778587396::1779881257::1::::<><><>0<>0<>0228af1e14bba1a44eccda7a7cee1d01<>res://godot/imported/wallA_roofSlant_NE.png-68d842852f29ea348a96640729b451cd.ctex::
+wallA_roof_NE.png::CompressedTexture2D::1729394795899491963::1778587396::1779881257::1::::<><><>0<>0<>fe39a2566c722c2489b582ad408592ce<>res://godot/imported/wallA_roof_NE.png-af0fe71f4cec0dbb9c5451c0a70a22a0.ctex::
+wallB_flatGarage_NE.png::CompressedTexture2D::2527102971987018654::1778587396::1779881257::1::::<><><>0<>0<>e15a3dba7c381340b13a0ac6d4cf6d6a<>res://godot/imported/wallB_flatGarage_NE.png-ae6b80422f3262c9ebb5dfa7407055d5.ctex::
+wall_typeB_NE.png::CompressedTexture2D::4104417848987495188::1778587396::1779881257::1::::<><><>0<>0<>385553c0304079aa1c119b92a233f353<>res://godot/imported/wall_typeB_NE.png-99302ae742b5bd2d263c4a7161db292b.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/DAE format/::1779881272
+balconyLadder_top.dae::PackedScene::2968314328195680536::1778587396::1779881272::1::::<><><>0<>0<>d5f31ea79c932dbb5ae509af75602e17<>res://godot/imported/balconyLadder_top.dae-2f671c1264bc8415b26a08015160341a.scn::
+roadDirt_corner.dae::PackedScene::1466891830085105343::1778587396::1779881271::1::::<><><>0<>0<>9c8a2ec7c40042060690e95543288517<>res://godot/imported/roadDirt_corner.dae-17d7d16b94f006856886ae398a9afe2b.scn::
+roadDirt_damaged.dae::PackedScene::4905592593016157631::1778587396::1779881271::1::::<><><>0<>0<>5cb7673833c45f92a71fc9012f7c64c0<>res://godot/imported/roadDirt_damaged.dae-7e842f84da6077940add8339d0662b0c.scn::
+roadDirt_side.dae::PackedScene::7573535545599287807::1778587396::1779881271::1::::<><><>0<>0<>f34b228a476f43e2a56d634d4b144cfd<>res://godot/imported/roadDirt_side.dae-a023cc6b86a3d53b23b7631d5f4708ee.scn::
+treePine_small.dae::PackedScene::6285699939629783685::1778587396::1779881271::1::::<><><>0<>0<>1dd04035a20134868de7272e722e75ac<>res://godot/imported/treePine_small.dae-dc3bb7c271125816cf67e15a6220f1fd.scn::
+wallA_flatWindow.dae::PackedScene::5374147433119246682::1778587396::1779881271::1::::<><><>0<>0<>991cabf68e24f1aacf1ed7f5eb53ee1c<>res://godot/imported/wallA_flatWindow.dae-e2aec3b637022db651f58e05b448e074.scn::
+wallA_lowPainted.dae::PackedScene::8116674632881002473::1778587396::1779881271::1::::<><><>0<>0<>6686904f7ff889120fd60b4aa636a624<>res://godot/imported/wallA_lowPainted.dae-f8bcb0ac40b5098228e08f9e5c033362.scn::
+wallA_open.dae::PackedScene::5812377903157977356::1778587396::1779881270::1::::<><><>0<>0<>c18ce3aa5c641bbada985890166c0b9d<>res://godot/imported/wallA_open.dae-4a1e7e82fbaa67186c2b5c192ff194b4.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/DAE format/Textures/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/FBX format/::1779881270
+treePine_small.fbx::PackedScene::3518412834278357091::1778587396::1779881270::1::::<><><>0<>0<>6127d09c92001dda8acbdd738e6ad1ce<>res://godot/imported/treePine_small.fbx-15068bbe21e710bb8f2bdd871830cf39.scn::
+wallA_low.fbx::PackedScene::5104960963553291527::1778587396::1779881270::1::::<><><>0<>0<>2bc21c626fa82df989c3e7b6c60be8ad<>res://godot/imported/wallA_low.fbx-44374bd052dd6adbb729708a2c00b446.scn::
+wallA_painted.fbx::PackedScene::3990366301722563404::1778587396::1779881260::1::::<><><>0<>0<>b6be2306a09924f9e87cb14504849cc4<>res://godot/imported/wallA_painted.fbx-b2e179e8aa4fb0b82e40e554d4794672.scn::
+wallA_roofDetailed.fbx::PackedScene::6956394575117026057::1778587396::1779881260::1::::<><><>0<>0<>5d2a7cf3378b5b371e5b917697ec4d74<>res://godot/imported/wallA_roofDetailed.fbx-ce53c150b4dba28354b8632a0547a2d5.scn::
+wallB_flatWindow.fbx::PackedScene::7399812989698486034::1778587396::1779881260::1::::<><><>0<>0<>272c5f00ba9b39546f355571b0205dab<>res://godot/imported/wallB_flatWindow.fbx-929d60bd85108d9ad20a5475f27bb5e7.scn::
+wallSteps_typeA.fbx::PackedScene::6646026189274110518::1778587396::1779881260::1::::<><><>0<>0<>46897f07ed4540aa9c377b9681b6b76d<>res://godot/imported/wallSteps_typeA.fbx-1b831838cd4fd3071124b26e3693afa9.scn::
+windowWide_typeA.fbx::PackedScene::6327452135083204172::1778587396::1779881260::1::::<><><>0<>0<>1eb0c9658543ce65ebf3e52a8dc8f2d9<>res://godot/imported/windowWide_typeA.fbx-40473fdf42e2e49e532debcd4416624e.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/FBX format/Textures/::1779881257
+windows.png::CompressedTexture2D::3150701242394106301::1778587396::1779881257::1::::<><><>0<>0<>178a559b71a6fd43396ac9bba1b89d5e<>res://godot/imported/windows.png-c9a9f3b62e725e6a4846df45c7db1a05.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/::1779881272
+detailAwning_wide.glb::PackedScene::1443524684132561809::1778587396::1779881258::1::::<><><>0<>0<>defab194c8bcb2b05fbb432c2e054c6c<>res://godot/imported/detailAwning_wide.glb-49a3bd9e7423ca3d68f0081ff564c6f9.scn::uid://cipjprsea8b8f::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/detailAwning_wide_roof.png
+detailAwning_wide_roof.png::CompressedTexture2D::5365891943531302387::1779869961::1779881257::1::::<><><>0<>0<>16ed89eaa8e1304a6ad88dbd6f808547<>res://godot/imported/detailAwning_wide_roof.png-84c9a374bb00e1d97bf023c963ea372d.s3tc.ctex::
+detailBricks_typeA_concrete.png::CompressedTexture2D::4758800786709326593::1778587396::1779881257::1::::<><><>0<>0<>ee58f8d279b3635a65bc1d61edc93a8d<>res://godot/imported/detailBricks_typeA_concrete.png-22ec76eaeeea6047937614ddfced5b56.ctex::
+detailDumpster_open_roof.png::CompressedTexture2D::8011489689075266239::1778587396::1779881257::1::::<><><>0<>0<>ff3b040a9e25d6928c867d10a484babc<>res://godot/imported/detailDumpster_open_roof.png-475a0e59360c4fe01859b80c3026a171.ctex::
+detailDumpster_open_wall.png::CompressedTexture2D::8546535253453112692::1778587396::1779881257::1::::<><><>0<>0<>3fa4d623c9315387df8f29ed4bfb44fd<>res://godot/imported/detailDumpster_open_wall.png-1def04f16aa4f2ce1545ba45e846fc74.ctex::
+detailLight_single.glb::PackedScene::122102430306704391::1778587396::1779881261::1::::<><><>0<>0<>0a44aef62e99049ff25d07e81691e4d5<>res://godot/imported/detailLight_single.glb-3eff6348cf5d1033a741719e31d93c10.scn::uid://brogply20qwu1::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/detailLight_single_metal.png
+detailLight_single_metal.png::CompressedTexture2D::3608924019054638090::1778587396::1779881257::1::::<><><>0<>0<>cbf47062bd2201b3fe201abe2258f65f<>res://godot/imported/detailLight_single_metal.png-f9fa28baa67f033e320da02149d546ad.s3tc.ctex::
+detailLight_traffic_metal.png::CompressedTexture2D::4144321490086588077::1778587396::1779881257::1::::<><><>0<>0<>3bc42c5dc8e1f5f06c7629c921de6670<>res://godot/imported/detailLight_traffic_metal.png-b1b95246b52504eb8fa34c5eb41acf51.s3tc.ctex::
+door_typeA_doors.png::CompressedTexture2D::4278355992457525313::1778587396::1779881257::1::::<><><>0<>0<>5d2d96b239d37a20ecce41922578ec44<>res://godot/imported/door_typeA_doors.png-566ae8d62e1f3410c068d8e0d8e7945f.ctex::
+roadAsphalt_center_asphalt.png::CompressedTexture2D::5181207076434694082::1778587396::1779881257::1::::<><><>0<>0<>55d7b3de35f6d45b2559c12aab0a85f5<>res://godot/imported/roadAsphalt_center_asphalt.png-cc7b3e782ba3bf12f290b2c761f3e2f4.ctex::
+roadAsphalt_damaged.glb::PackedScene::1966125229871636600::1778587396::1779881267::1::::<><><>0<>0<>86c411c191d4f0de6905936cfe065387<>res://godot/imported/roadAsphalt_damaged.glb-b95933e0094185b2c376c582a7c6283c.scn::uid://c7e2tdpthumqc::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/roadAsphalt_damaged_tiles.png<>uid://buye0uxfv18i1::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/roadAsphalt_damaged_asphalt.png
+roadAsphalt_damaged_asphalt.png::CompressedTexture2D::3840031221623676590::1779869957::1779881257::1::::<><><>0<>0<>fbdcc0d892765eb93f92d8a71a26e3ac<>res://godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.s3tc.ctex::
+roadAsphalt_damaged_tiles.png::CompressedTexture2D::7028815345323909634::1779869957::1779881257::1::::<><><>0<>0<>9a852712b5f9a32d22ce6dd52bf1ab43<>res://godot/imported/roadAsphalt_damaged_tiles.png-6c46f9ddad39ec62f72121e43b121c2a.s3tc.ctex::
+roadAsphalt_straight_asphalt.png::CompressedTexture2D::1248715751652529069::1778587396::1779881258::1::::<><><>0<>0<>5b013cdd3bf46f0ac2d2268ed4a7803d<>res://godot/imported/roadAsphalt_straight_asphalt.png-d3c265694f566fb59cc625be0c735909.ctex::
+roadDirt_cornerOuter_concrete.png::CompressedTexture2D::1319957762104833116::1778587396::1779881258::1::::<><><>0<>0<>45a6b859aed3633f8258f58bff897d29<>res://godot/imported/roadDirt_cornerOuter_concrete.png-ac3e8ee79f1f7125991ae5a1604b7f12.ctex::
+roofMetal_typeB_roof.png::CompressedTexture2D::5014323953153759384::1778587396::1779881258::1::::<><><>0<>0<>14c9c244a0a628ee584ca09b28131d69<>res://godot/imported/roofMetal_typeB_roof.png-9d45d6373d93c447744ccdfae45a838b.ctex::
+scaffolding_structure_metal.png::CompressedTexture2D::738905544544329437::1778587396::1779881258::1::::<><><>0<>0<>f037bc93366d34392aa016cb5b29c04f<>res://godot/imported/scaffolding_structure_metal.png-5b9fb5ed08f4233e64e37eb1a7c4bbef.ctex::
+treePine_large.glb::PackedScene::3757550207795515756::1778587396::1779881262::1::::<><><>0<>0<>454daee7bfc52b010a7a6a30a975c9e8<>res://godot/imported/treePine_large.glb-321d6a2ac266b9f2747e605945b73fcf.scn::uid://cvm1mywljulra::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/treePine_large_treeB.png
+treePine_large_treeB.png::CompressedTexture2D::6273180983231102974::1779869941::1779881258::1::::<><><>0<>0<>61783559188e6211335211e4e73ce127<>res://godot/imported/treePine_large_treeB.png-8d600e515be308fc23a0adbf50496350.s3tc.ctex::
+truck_flat_metal.png::CompressedTexture2D::2636632749069609804::1778587396::1779881258::1::::<><><>0<>0<>a7d23e903726ae0f9bb71879ccb8e0de<>res://godot/imported/truck_flat_metal.png-af9435926c986dad75d9efcdb03e700b.ctex::
+truck_grey_truck.png::CompressedTexture2D::7740211542992090671::1778587396::1779881258::1::::<><><>0<>0<>b5322a1481b3e807577d3fcb9dcb0ec5<>res://godot/imported/truck_grey_truck.png-f120191b81da0810717351348e535f56.ctex::
+wallA.glb::PackedScene::4009077789061341478::1778587396::1779881262::1::::<><><>0<>0<>b55431ced6433dc2287b0864592a2142<>res://godot/imported/wallA.glb-59fdad9933ec9b35abd882465c0f7fc3.scn::uid://cm42unvgrgdgy::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA_wall_lines.png<>uid://ese1jnc8ffra::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA_concrete.png
+wallA_concrete.png::CompressedTexture2D::318203965665580174::1779869941::1779881258::1::::<><><>0<>0<>7c9f1405a3bb56f41dffbd0f77f20642<>res://godot/imported/wallA_concrete.png-01618306b85abb7f45d7221a6bb84e41.s3tc.ctex::
+wallA_corner_concrete.png::CompressedTexture2D::6638616776944575374::1778587396::1779881258::1::::<><><>0<>0<>0a726d766fcaa2acffa106ff808f146f<>res://godot/imported/wallA_corner_concrete.png-1b8bb0b711d7fe83fe93285c7b44c84d.ctex::
+wallA_detailPainted_wall.png::CompressedTexture2D::1952874281081050804::1778587396::1779881258::1::::<><><>0<>0<>80ff5edc8200c5b44f5fb6536e7d38eb<>res://godot/imported/wallA_detailPainted_wall.png-c58b8da4a34f188b65ad7a49fb909521.ctex::
+wallA_flat.glb::PackedScene::4055972541688393335::1778587396::1779881272::1::::<><><>0<>0<>6a14635fd193ee069413a1a3098cbf7f<>res://godot/imported/wallA_flat.glb-2bea946edd9301344dad00a2e3a0b6b9.scn::uid://d3lrs12hsyb7g::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA_flat_wall_lines.png
+wallA_flatGarage_concrete.png::CompressedTexture2D::7718745467281772672::1778587396::1779881258::1::::<><><>0<>0<>8b0a4b4772e035bc59360d7175d0646c<>res://godot/imported/wallA_flatGarage_concrete.png-9667fe8c62c2b5e49c4da68b119a69a0.ctex::
+wallA_flatPainted_wall.png::CompressedTexture2D::3491349523998079441::1778587396::1779881258::1::::<><><>0<>0<>0095cca6511c5d4c9db8386c6c6ed2fd<>res://godot/imported/wallA_flatPainted_wall.png-bd9827ea5c822a624ab7f621aa73d12c.ctex::
+wallA_flatWindow_windows.png::CompressedTexture2D::4479729647974775564::1778587396::1779881258::1::::<><><>0<>0<>354f266f30799b0bdd323ad091d765f8<>res://godot/imported/wallA_flatWindow_windows.png-f774fe06bfaadd9503e3e35f6c17cf13.ctex::
+wallA_flat_wall_lines.png::CompressedTexture2D::9148323569066056010::1779869940::1779881258::1::::<><><>0<>0<>835eb5c7b6d975b61090c279c2c7f2ef<>res://godot/imported/wallA_flat_wall_lines.png-54379c50217b66beae064f6b708ff25b.s3tc.ctex::
+wallA_garage_concrete.png::CompressedTexture2D::8664836389685933249::1778587396::1779881258::1::::<><><>0<>0<>0cdabbe4f43bde5e9718a56b9ea247b9<>res://godot/imported/wallA_garage_concrete.png-50cc17a53506dcfd418d3df6cc709ce7.ctex::
+wallA_low_concrete.png::CompressedTexture2D::8782814884794123903::1778587396::1779881258::1::::<><><>0<>0<>2a407cf749f077a1e05b19de6a48818a<>res://godot/imported/wallA_low_concrete.png-3e7b8fce27daffbab8fca054cedba4ad.ctex::
+wallA_low_wall.png::CompressedTexture2D::7688712982225411618::1778587396::1779881258::1::::<><><>0<>0<>809ea4b2145b642f1ec22681d7fed610<>res://godot/imported/wallA_low_wall.png-65b0d0dbf9ca27b3b27762ec9a94301d.ctex::
+wallA_open.glb::PackedScene::778690053201953570::1778587396::1779881272::1::::<><><>0<>0<>17c1a2a06d4369b32db16189a0b740d4<>res://godot/imported/wallA_open.glb-89e7621fe18cc0bba861c72f34a63759.scn::uid://coefuurmu5q5x::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA_open_wall_lines.png
+wallA_open_wall_lines.png::CompressedTexture2D::5764083067478653251::1779869933::1779881258::1::::<><><>0<>0<>e76ac93e0517a63d8aa2df3add206ccf<>res://godot/imported/wallA_open_wall_lines.png-9c7f066f138748f2a44d3dd84549eb5f.s3tc.ctex::
+wallA_wall_lines.png::CompressedTexture2D::5676650236133131056::1779869941::1779881258::1::::<><><>0<>0<>83dc83b8a62a9d41f8bd5be6280c83ac<>res://godot/imported/wallA_wall_lines.png-5b73919329d3b7374eeede2973e5952d.s3tc.ctex::
+wallA_window_windows.png::CompressedTexture2D::6019763791846219215::1778587396::1779881258::1::::<><><>0<>0<>fc01243b0a8efbc06ac1a1a182f6a592<>res://godot/imported/wallA_window_windows.png-41c09d8ebe64f569bc4f1a9197c0191b.s3tc.ctex::
+wallB.glb::PackedScene::6229846620011871084::1778587396::1779881268::1::::<><><>0<>0<>a39c4d9ee4ff833f760e0690e96b5773<>res://godot/imported/wallB.glb-92287a0da9a149e58f0d8fb4cec31260.scn::uid://bw2d0ryk0686u::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallB_metal_wall.png<>uid://depto2sbvxea7::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallB_concrete.png
+wallB_concrete.png::CompressedTexture2D::7472163161930901208::1778587396::1779881258::1::::<><><>0<>0<>e311d6a47e7d579e264383eec063ba1d<>res://godot/imported/wallB_concrete.png-b09b4c07d81ed20b23ad339b1e9efa22.s3tc.ctex::
+wallB_door_doors.png::CompressedTexture2D::6319285665024247981::1778587396::1779881258::1::::<><><>0<>0<>f293da5d39bb6fd72bec4fe2615a5d5a<>res://godot/imported/wallB_door_doors.png-49187307e67b776bd6d70f34ed976b05.ctex::
+wallB_flatGarage_metal_wall.png::CompressedTexture2D::5084259712993892612::1778587396::1779881258::1::::<><><>0<>0<>b2786871ffb20d982d95f29ac117f0ae<>res://godot/imported/wallB_flatGarage_metal_wall.png-f2a8b800a0547bea860baa27df4c3401.ctex::
+wallB_flatWindow_metal.png::CompressedTexture2D::6359919764582259074::1778587396::1779881258::1::::<><><>0<>0<>7c0e1ca5be4673efbcc96e931f0a9ed6<>res://godot/imported/wallB_flatWindow_metal.png-aca6657ade3493386d700cb96766fd16.ctex::
+wallB_metal_wall.png::CompressedTexture2D::3986541169376627966::1778587396::1779881258::1::::<><><>0<>0<>6a40736c4c609ff29b48a5b07a9e552b<>res://godot/imported/wallB_metal_wall.png-ef529cdaff92fb3c68053c47af2a2ec6.s3tc.ctex::
+wallB_roofDetailed_roof_plates.png::CompressedTexture2D::963331200053962400::1778587396::1779881258::1::::<><><>0<>0<>a3738964cf9f20521e2f3563319774a7<>res://godot/imported/wallB_roofDetailed_roof_plates.png-62d51e878be907846e9da1dd655f8d01.ctex::
+wallB_roofSlant_concrete.png::CompressedTexture2D::5647882872667627369::1778587396::1779881258::1::::<><><>0<>0<>4901fba540f08c2719cecdbb21291794<>res://godot/imported/wallB_roofSlant_concrete.png-aab408db8a4f8a06a2f529bdfcdd5cbd.ctex::
+wallB_roof_roof_plates.png::CompressedTexture2D::818402037989053721::1778587396::1779881258::1::::<><><>0<>0<>1c68a84671b829f3d95cbe87c1f07c62<>res://godot/imported/wallB_roof_roof_plates.png-8d4cef08b3237103519493c195bbe3cd.ctex::
+wallB_window_concrete.png::CompressedTexture2D::7566261689231458846::1778587396::1779881258::1::::<><><>0<>0<>990bc9b22ca8d0694a1cd0b4d1d3495f<>res://godot/imported/wallB_window_concrete.png-fbcac31ea510f9acb384d9f1ce4ad902.ctex::
+wallSteps_typeA_concrete.png::CompressedTexture2D::288315254970435320::1778587396::1779881258::1::::<><><>0<>0<>7372ce6ddd1441e4976c1ad0cb1cd0ce<>res://godot/imported/wallSteps_typeA_concrete.png-3c11b82c4cfee96f14993f16b3435e5c.ctex::
+windowSmall_typeA_windows.png::CompressedTexture2D::8643975017855525805::1778587396::1779881258::1::::<><><>0<>0<>7690ac330951fe4828c0a4880395e314<>res://godot/imported/windowSmall_typeA_windows.png-580d2c46592a221a1fdfb0a1f64ef543.ctex::
+windowWide_typeB.glb::PackedScene::8403128725917526010::1778587396::1779881268::1::::<><><>0<>0<>5d176576e5e63bb9c2edf3adba603548<>res://godot/imported/windowWide_typeB.glb-a6f725341f28867ad184f78d7f2417db.scn::uid://bkh3b00r6076s::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/windowWide_typeB_metal.png
+windowWide_typeB_metal.png::CompressedTexture2D::3104462978461922504::1779869952::1779881258::1::::<><><>0<>0<>55642147cc372ce160f032d6c1fe55ff<>res://godot/imported/windowWide_typeB_metal.png-7ae8d208e1246c5ec3ed086f3b17099e.s3tc.ctex::
+windowWide_typeD.glb::PackedScene::7514961197354274164::1778587396::1779881272::1::::<><><>0<>0<>6aed171d8d4a1dc285c32f309da1587c<>res://godot/imported/windowWide_typeD.glb-bb41fe7275d497d52662bd5a733a42a3.scn::uid://p16t51qqqg61::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/windowWide_typeD_windows.png<>uid://bftyo8ljscbkj::::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/windowWide_typeD_metal.png
+windowWide_typeD_metal.png::CompressedTexture2D::2778072038847918705::1779869952::1779881258::1::::<><><>0<>0<>abd4c5fcaeea34a0205696541a390d25<>res://godot/imported/windowWide_typeD_metal.png-df03bacc65f771c37872c6b52247de12.s3tc.ctex::
+windowWide_typeD_windows.png::CompressedTexture2D::1108424249650397520::1779869952::1779881258::1::::<><><>0<>0<>42d8cf87770e4e5cad8fd2af7c9f10a0<>res://godot/imported/windowWide_typeD_windows.png-c8ad18f0e2a85ddb8ef6c2bcfb7463a2.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/::1779881258
+balconyLadder_bottom.obj::Mesh::3054372299295760962::1778587396::1779881258::1::::<><><>0<>0<>bb094ece9ec2b7d86a99e77d0e814604<>res://godot/imported/balconyLadder_bottom.obj-3700b0e1803ccc518717aa7fed5a5325.mesh<*>res://godot/imported/balconyLadder_bottom.obj-3700b0e1803ccc518717aa7fed5a5325.mesh::
+detailBarrier_typeA.obj::Mesh::1656857799194386811::1778587396::1779881258::1::::<><><>0<>0<>7ce79275fa106c74fc65ad001d356583<>res://godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh<*>res://godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh::
+detailBricks_typeA.obj::Mesh::3468633063437980974::1778587396::1779881258::1::::<><><>0<>0<>a34ea67810d23b357c233bdd357b75ba<>res://godot/imported/detailBricks_typeA.obj-62f1d55bba47ca0a2716c8d530fbbea2.mesh<*>res://godot/imported/detailBricks_typeA.obj-62f1d55bba47ca0a2716c8d530fbbea2.mesh::
+roadDirt_damaged.obj::Mesh::7904790678624746616::1778587396::1779881258::1::::<><><>0<>0<>b4b664ebba1ba88f009e418453ed5a23<>res://godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh<*>res://godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh::
+wallA_door.obj::Mesh::4575737174772445459::1778587396::1779881258::1::::<><><>0<>0<>f59109bee289944a35deac96a2c35003<>res://godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh<*>res://godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh::
+windowWide_typeC.obj::Mesh::6529696397804519248::1778587396::1779881258::1::::<><><>0<>0<>a734d7531ea3b5b1efc44cb5d991f957<>res://godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh<*>res://godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/Textures/::1779881258
+windows.png::CompressedTexture2D::1778789221092908865::1778587396::1779881258::1::::<><><>0<>0<>3c7ea48e499dca8dfd389310788892e1<>res://godot/imported/windows.png-19fa030cd7f9a35017765a4b315af372.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/STL format/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Building kit/Side/::1779881258
+detailBarrierStrong_typeB.png::CompressedTexture2D::4928860960541159986::1778587396::1779881257::1::::<><><>0<>0<>96e901004afcec3a101f4f48ec59abe7<>res://godot/imported/detailBarrierStrong_typeB.png-d57090a48c6fa43fb397f5c8032e0829.ctex::
+detailBricks_typeB.png::CompressedTexture2D::4161813522658175481::1778587396::1779881257::1::::<><><>0<>0<>c95c9410529b78b8f9feea8de344deb4<>res://godot/imported/detailBricks_typeB.png-61748214e9ed074f592b2c65049f1381.ctex::
+detailDumpster_open.png::CompressedTexture2D::6403993757409321821::1778587396::1779881257::1::::<><><>0<>0<>4e46e3f0793898c783e5b87c16dfb380<>res://godot/imported/detailDumpster_open.png-ee5f1edc086f04351a676c5441e46916.ctex::
+detailLight_single.png::CompressedTexture2D::8653077652501068897::1778587396::1779881257::1::::<><><>0<>0<>25444dad5389d3f891fad239ecd5ebf6<>res://godot/imported/detailLight_single.png-578748058a0b53e9671b2c51d42cab80.ctex::
+door_typeA.png::CompressedTexture2D::1029495003529122881::1778587396::1779881257::1::::<><><>0<>0<>66ff25e639609d44cff132ab9487427e<>res://godot/imported/door_typeA.png-2f0edbae76c95fb39fbbb00a2e5d481f.ctex::
+door_typeB.png::CompressedTexture2D::7745969387287309220::1778587396::1779881257::1::::<><><>0<>0<>c9f3a3f09b7c6904ba3cbb19f53ec420<>res://godot/imported/door_typeB.png-79a54c33df28d8b1fe6e77f485ab9c86.ctex::
+roadAsphalt_cornerOuter.png::CompressedTexture2D::2639589084837517233::1778587396::1779881257::1::::<><><>0<>0<>e40a7b1dfcbb1ab26d2159a4ff85e701<>res://godot/imported/roadAsphalt_cornerOuter.png-273d35b77005b6d8e64afd68a2134cd7.ctex::
+roofMetal_poles.png::CompressedTexture2D::5119256057231192646::1778587396::1779881258::1::::<><><>0<>0<>5a93e3ca9d76b351db8eac0c93d257eb<>res://godot/imported/roofMetal_poles.png-d195bcb795ad920a9a52b390c5b31d4f.ctex::
+wallB.png::CompressedTexture2D::2393424511838895482::1778587396::1779881258::1::::<><><>0<>0<>bc5cc1cb5caee7f90a2f6afe4c9f33e4<>res://godot/imported/wallB.png-bf7dfef6cb0ee324678843c06f719713.ctex::
+wallB_garage.png::CompressedTexture2D::2998667082596901281::1778587396::1779881258::1::::<><><>0<>0<>eaaed35f783cdbea2c6dfc3c6acae199<>res://godot/imported/wallB_garage.png-5fc78fea78dd3fbc031f0c11f33bcc2d.ctex::
+wallC_flatLow.png::CompressedTexture2D::8615475865615565878::1778587396::1779881257::1::::<><><>0<>0<>e29dcfd57626246640a40747a46f73ce<>res://godot/imported/wallC_flatLow.png-28415e2ac557b6b168aeb96aae1187e3.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Cabañas/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Cabañas/Cabañas/::1779881258
+planks_brown_10_diff_1k.jpg::CompressedTexture2D::1723768022089162682::1778587396::1779881258::1::::<><><>0<>0<>f913e2e0787ec3f658861ddf6700b1be<>res://godot/imported/planks_brown_10_diff_1k.jpg-5581c725d0199249db0bace64293f7cd.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/DINER/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/DINER/Models/::1779881269
+Objects.dae::PackedScene::4862232749544635060::1778587396::1779881269::1::::<><><>0<>0<>1d5be6fd83dcccd2ddad0f8a502a8f31<>res://godot/imported/Objects.dae-1d05291d68d3a9bcc3c1ea9dd9075735.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/DINER/Textures/::1779881258
+Breads.png::CompressedTexture2D::4329485182788908365::1778587396::1779881258::1::::<><><>0<>0<>fb93ac0edd412610d7371e749be74f05<>res://godot/imported/Breads.png-b30e0011ed77e2d631275aea73e05e82.ctex::
+Bush.png::CompressedTexture2D::4449049942252779822::1778587396::1779881258::1::::<><><>0<>0<>5aa1e320d84eb0f0de3055cc69f65788<>res://godot/imported/Bush.png-04d9659034fc5d343e0769cd47c2cdbb.ctex::
+Hand_dryer.png::CompressedTexture2D::1799272614464931308::1778587396::1779881258::1::::<><><>0<>0<>f4ea27be8126868f825787429ecb9b61<>res://godot/imported/Hand_dryer.png-72fc78aab0dba02c8a095b069a07e6b1.ctex::
+Marble_01.png::CompressedTexture2D::2581303181633711363::1778587396::1779881258::1::::<><><>0<>0<>ffc223036d8ad0e7f68ea4e699901991<>res://godot/imported/Marble_01.png-2df10b471aa71b9f89418897219f2176.ctex::
+Plaste.jpg::CompressedTexture2D::3056273658966945293::1778587396::1779881258::1::::<><><>0<>0<>77e4fb8c8696899acc601a1f5eabd145<>res://godot/imported/Plaste.jpg-785247b713eaadf52c72e4347c379567.ctex::
+Soap_dispenser.png::CompressedTexture2D::8149018039846180368::1778587396::1779881258::1::::<><><>0<>0<>66322e879f03d41ba9a4919ab16ecbd3<>res://godot/imported/Soap_dispenser.png-749f572e272fe5c34b63fb5ce69582c9.ctex::
+Tiles_01.jpg::CompressedTexture2D::8389091408928809046::1778587396::1779881258::1::::<><><>0<>0<>c4a6c5d4d643be5fc03e21bdad541480<>res://godot/imported/Tiles_01.jpg-55f8a1a2c3d9ae0ce6deffc0103847ff.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/GORE PACK HUMAN LIMBS/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Houses_on_the_water/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Houses_on_the_water/Texture/::1779881258
+Metal_01.jpg::CompressedTexture2D::3517784950898164702::1778587396::1779881258::1::::<><><>0<>0<>bf1b90de496e9cdd661b4d4e072044b0<>res://godot/imported/Metal_01.jpg-4a4f2e7071dbaf7e1575d0bca8b69569.ctex::
+Plastic_03.jpg::CompressedTexture2D::5381548201833579488::1778587396::1779881258::1::::<><><>0<>0<>9b0521baf73c2e77e473db402eff568e<>res://godot/imported/Plastic_03.jpg-b1b2bcf0c71907ac5df97fde9927a178.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Mailbox/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/Mini Market/::1779881257
+Fabric.jpg::CompressedTexture2D::7584948157439514370::1778587396::1779881257::1::::<><><>0<>0<>30c29261133f4321a338097986fba086<>res://godot/imported/Fabric.jpg-4fb1aa35409727d1e567bbf1ab6827a0.ctex::
+Office.jpg::CompressedTexture2D::4421540953460682710::1778587396::1779881257::1::::<><><>0<>0<>bf9e06b6bf5220fb7530df05ebfc88d0<>res://godot/imported/Office.jpg-53beeb90c8b0482064debfedeca11827.ctex::
+refe.jpg::CompressedTexture2D::8391942003003224455::1778587396::1779881257::1::::<><><>0<>0<>500c1b92139f4cf81a2713a02703823f<>res://godot/imported/refe.jpg-b9005f3edacd734dc725add4fe3e9244.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/Old building 1/::1779881269
+BrickBuilding_brick_buillding_front_lowres.png::CompressedTexture2D::5095511068957195614::1778587396::1779881257::1::::<><><>0<>0<>ca14347c2b5c105ed1f92722bfd8a619<>res://godot/imported/BrickBuilding_brick_buillding_front_lowres.png-b6fe552ba11d5660e1f79dc86eb5539a.ctex::
+IndustrialBuilding.glb::PackedScene::1212110132683481267::1778587396::1779881269::1::::<><><>0<>0<>9501a533d30d2f484791427fc3f28987<>res://godot/imported/IndustrialBuilding.glb-a110146e46ac3a6f831ca50ffcecc192.scn::uid://mdn5fjx2u2t::::res://marsupial/materials/retro3d-assets/Buildings/Old building 1/IndustrialBuilding_industrial_building_front_lowres.png
+IndustrialBuilding_industrial_building_front_lowres.png::CompressedTexture2D::24979483213046561::1779869957::1779881257::1::::<><><>0<>0<>e87d5fd9dad03ed1b4fd2c368bf4399c<>res://godot/imported/IndustrialBuilding_industrial_building_front_lowres.png-aa02202e40bc0eda7113f99885fd663f.s3tc.ctex::
+SideWalkCorner_sidewalk_lowres.png::CompressedTexture2D::3234940676025581662::1778587396::1779881257::1::::<><><>0<>0<>26123e306fd69c460c907b849e481dc5<>res://godot/imported/SideWalkCorner_sidewalk_lowres.png-9f3d1b1d544483d662710c7bd388c65d.ctex::
+SideWalk_sidewalk_lowres.png::CompressedTexture2D::7331337967227283627::1778587396::1779881257::1::::<><><>0<>0<>fd5e7a9da5f5e788342bdc1ccb69269e<>res://godot/imported/SideWalk_sidewalk_lowres.png-b5323c9135f3ef61609d8284c2368d39.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/::1779881271
+building_01.blend::PackedScene::5425182437134339928::1778587396::1779881271::1::::<><><>0<>0<>6cafdbea56a3c0ae4e2bc2435fbc70be<>res://godot/imported/building_01.blend-6a847d2a13effe915dd19f9cd70bb324.scn::uid://bq4sq86bs804i::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/brick_red_04.jpg<>uid://br55hp18j7l5n::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/metal_grungy_tall_01.jpg<>uid://b4dnok6082g1a::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/gutter_brown_bottom.jpg<>uid://brn6vwycr6sjj::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/wood_planks_2.png<>uid://dvglf6gv2nsqd::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/vent.png<>uid://criig5ougre4v::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/gutter_brown_01.jpg<>uid://bc2f1cubj0lho::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/door_double_brown_left.png<>uid://cklmkrsqe7b00::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/door_double_brown_right.png<>uid://dvelodk3154ct::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/electrical_junctionbox_small.png<>uid://be5kkmvo8w80p::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/conduit_white_01.jpg<>uid://bjmrylinv3i7p::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/panel_electric.png<>uid://ccy3bbhsg28g3::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/sign_no_smoking_01.png<>uid://co0j1nvinhwec::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/window_modern.png<>uid://b38cllxg4i11e::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/propane_storage.png<>uid://dai7ulwt67137::::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/wood_pallet.png
+::res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/::1779881277
+brick_red_04.jpg::CompressedTexture2D::3570432396571935438::1779869957::1779881277::1::::<><><>0<>0<>2c6d884aa628081b82d38490d737ef7c<>res://godot/imported/brick_red_04.jpg-0d027277cf6426a52d41ef6143d9ac12.s3tc.ctex::
+conduit_white_01.jpg::CompressedTexture2D::2729733082135930661::1779869957::1779881277::1::::<><><>0<>0<>9162c194ec04f6d82003df5ef0acc337<>res://godot/imported/conduit_white_01.jpg-84817681819b4b8565b8d5e38122c5d3.s3tc.ctex::
+door_double_brown_left.png::CompressedTexture2D::2582886721935386016::1779869957::1779881277::1::::<><><>0<>0<>875670f379d0658ced49f1df077843f8<>res://godot/imported/door_double_brown_left.png-8e2fec2441732abf1c14cf41346761e4.s3tc.ctex::
+door_double_brown_right.png::CompressedTexture2D::5498185342350433839::1779869957::1779881277::1::::<><><>0<>0<>0a54a08d9ee23630c9919bd52ada1668<>res://godot/imported/door_double_brown_right.png-2cd584947ef4353d3ada638e46cad486.s3tc.ctex::
+electrical_junctionbox_small.png::CompressedTexture2D::8642178340855565915::1779869957::1779881277::1::::<><><>0<>0<>b461eef796afdcaffe3a296f3105f523<>res://godot/imported/electrical_junctionbox_small.png-de8584078b3ed91240d14322cbd37b6d.s3tc.ctex::
+gutter_brown_01.jpg::CompressedTexture2D::5983064780215958375::1779869957::1779881277::1::::<><><>0<>0<>9293b17bd6495b138d4c2eae72bf0a95<>res://godot/imported/gutter_brown_01.jpg-9d0ee7b70eb8d375143db2459d69eabf.s3tc.ctex::
+gutter_brown_bottom.jpg::CompressedTexture2D::4428905178782344148::1779869957::1779881277::1::::<><><>0<>0<>37ca6e07b77c1206ea3fedde73866644<>res://godot/imported/gutter_brown_bottom.jpg-ff9bc29c1ebfd0a1d7abfe9d2947603f.s3tc.ctex::
+metal_grungy_tall_01.jpg::CompressedTexture2D::3643397198029607525::1779869957::1779881277::1::::<><><>0<>0<>0d65f161ad420ecf5ab92460f453ffcf<>res://godot/imported/metal_grungy_tall_01.jpg-c4b5410572b06723d44b4a3767406574.s3tc.ctex::
+panel_electric.png::CompressedTexture2D::3043968448149978559::1779869957::1779881277::1::::<><><>0<>0<>2ed89b7540d0f153a11566328aabb5b3<>res://godot/imported/panel_electric.png-df233acd2065dc86399d51b2b79e8fb2.s3tc.ctex::
+propane_storage.png::CompressedTexture2D::4419974462759532016::1779869957::1779881277::1::::<><><>0<>0<>520ccd4bd0331fe509376913e0cf6fb5<>res://godot/imported/propane_storage.png-c8174e788892adb30fb4168c2be7f88c.s3tc.ctex::
+sign_no_smoking_01.png::CompressedTexture2D::4964466046515003684::1779869957::1779881277::1::::<><><>0<>0<>f5400f5f2f5857335a47be563a460253<>res://godot/imported/sign_no_smoking_01.png-ec7adc41700ac6f59332311feb86d8d6.s3tc.ctex::
+vent.png::CompressedTexture2D::8646292488375735715::1779869957::1779881277::1::::<><><>0<>0<>32cd248ce9d298d87f39e28178710c7c<>res://godot/imported/vent.png-f2538eee4e9e29fdf85ca4edda6d95d4.s3tc.ctex::
+window_modern.png::CompressedTexture2D::5807688221372176426::1779869957::1779881277::1::::<><><>0<>0<>84371541dcaa6162510d60a28fb178c5<>res://godot/imported/window_modern.png-6261d57783dc2ed541df99b001c65ddc.s3tc.ctex::
+wood_pallet.png::CompressedTexture2D::7177756345406943120::1779869957::1779881277::1::::<><><>0<>0<>5db54bbae0aee89e5e50824888146418<>res://godot/imported/wood_pallet.png-b79cc34998ac335dd064c1a831a59e66.s3tc.ctex::
+wood_planks_2.png::CompressedTexture2D::3608388857494029131::1779869957::1779881277::1::::<><><>0<>0<>1a2211634697060ad7f714a49f5bd1e6<>res://godot/imported/wood_planks_2.png-a944b657593940eb32e77dc9ef77c90b.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/models/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/models/glb/::1779881271
+house1.glb::PackedScene::2847970311399368633::1778587396::1779881271::1::::<><><>0<>0<>6f22fd99b66c16594881aa98d899f8db<>res://godot/imported/house1.glb-6cef1f9247f132d77a0e27dbaf48892f.scn::
+house5.glb::PackedScene::1794746308808443608::1778587396::1779881271::1::::<><><>0<>0<>dac333eb1d120a3127dd7f62e7604fa8<>res://godot/imported/house5.glb-893da29f6a63dbe31148bf50ef0d25c7.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/models/obj/::1779881258
+house2.obj::Mesh::9194621154254616769::1778587396::1779881258::1::::<><><>0<>0<>24b0998fe8024e2abf25123753555e63<>res://godot/imported/house2.obj-62160602d4ea088cf4036844798ec690.mesh<*>res://godot/imported/house2.obj-62160602d4ea088cf4036844798ec690.mesh::
+house3.obj::Mesh::2164272969596459310::1778587396::1779881258::1::::<><><>0<>0<>deb75ac5d3a210ccfa560488df6cda20<>res://godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh<*>res://godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/textures/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/textures/256x256/::1779881258
+house1_tex2.png::CompressedTexture2D::312375630049509682::1778587396::1779881258::1::::<><><>0<>0<>72b5bf82f876ed828c2361f08aee4654<>res://godot/imported/house1_tex2.png-bd09026e75432efcb7e84a3cff2b1521.ctex::
+house2_tex1.png::CompressedTexture2D::2867462957411332191::1778587396::1779881258::1::::<><><>0<>0<>9f745add53683e04e5f41ac22ba7e7bc<>res://godot/imported/house2_tex1.png-bba46a6b60445b7f33e6b774f1bfdbb9.ctex::
+house4_tex3.png::CompressedTexture2D::1749253519571688421::1778587396::1779881258::1::::<><><>0<>0<>cde708c789587741f111116a2a0d5173<>res://godot/imported/house4_tex3.png-bd95914de7b8fa4ac976819ab569afea.ctex::
+house5_tex1.png::CompressedTexture2D::1820491798336352502::1778587396::1779881258::1::::<><><>0<>0<>b0085509281ea5345fcffacd72cc2fff<>res://godot/imported/house5_tex1.png-3a88459c0d4d50f131d70a37e7019ae2.ctex::
+house5_tex3.png::CompressedTexture2D::5026784860017100054::1778587396::1779881258::1::::<><><>0<>0<>fe9e0f7f6634e60a2efe89265f60ab4e<>res://godot/imported/house5_tex3.png-040afc95781eefc59de2d22139173597.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/textures/512x512/::1779881258
+house1_tex2.png::CompressedTexture2D::7614641885058595362::1778587396::1779881258::1::::<><><>0<>0<>6dd31a0db1ac278fc7259730cb738f18<>res://godot/imported/house1_tex2.png-c6db0dcbdc1a4db4bc5f7bc29799af69.ctex::
+house2_tex3.png::CompressedTexture2D::8700937424991555958::1778587396::1779881258::1::::<><><>0<>0<>62b33820199101032d01d6181b686782<>res://godot/imported/house2_tex3.png-8645fedeabba41d9977aa86fa3d7adcd.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/textures/1024x1024/::1779881258
+house1_tex2.png::CompressedTexture2D::8438427040859263440::1778587396::1779881258::1::::<><><>0<>0<>1f706053a46274e4ed676ec7dea3f4c2<>res://godot/imported/house1_tex2.png-365bbff66dc6cce5e1b52d286e27eb78.ctex::
+house3_tex3.png::CompressedTexture2D::325410765968348991::1778587396::1779881258::1::::<><><>0<>0<>610a5c23435c0cfaf10a6c315a46d4ad<>res://godot/imported/house3_tex3.png-690e3a70c27c2779c79fa5a715d13f94.ctex::
+house5_tex2.png::CompressedTexture2D::7942201918221526962::1778587396::1779881258::1::::<><><>0<>0<>4fe1756cd9beb6e7b88d8fd5d16dfe87<>res://godot/imported/house5_tex2.png-84b670fa2ef9292632095e795bde98e0.ctex::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/doors/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/doors/double_doors/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/doors/single_doors/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/floors/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/misc/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/misc/stairs/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/misc/window_planks/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/misc/window_shutters/::1779881270
+shutters_single_open_01.fbx::PackedScene::2016848470977029994::1778587396::1779881270::1::::<><><>0<>0<>edd267ba0bf34ef4792eeb309cc38eab<>res://godot/imported/shutters_single_open_01.fbx-4e365058cc478eb48dd29839112986b9.scn::
+shutters_small_single_closed_01.fbx::PackedScene::2135650694471154791::1778587396::1779881270::1::::<><><>0<>0<>05c64df332acc3028ff2bb397956ca02<>res://godot/imported/shutters_small_single_closed_01.fbx-d3c73d620f68c971238aed9e80f91c3d.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/railings/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_01/::1779881270
+roof_01_middle.fbx::PackedScene::7959224572972631520::1778587396::1779881270::1::::<><><>0<>0<>61a8f8c89388817b910c13a8b0156bc1<>res://godot/imported/roof_01_middle.fbx-608718a4a28f1a1c2005f3c7488c48aa.scn::
+roof_01_small_L.fbx::PackedScene::7922069674921838419::1778587396::1779881270::1::::<><><>0<>0<>828601d91f4e318e79dcb16b8c5d674d<>res://godot/imported/roof_01_small_L.fbx-a0e8ea34954ec878d1b89bea239b9d40.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_03/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_04/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_05/::1779881261
+roof_05_L.fbx::PackedScene::20641974907401294::1778587396::1779881261::1::::<><><>0<>0<>ec1b6bc0c56b97d326216ba9adfd72c6<>res://godot/imported/roof_05_L.fbx-1b406a2c7084f86e2c0cb0c8b72c181f.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_06/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_08/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_09/::1779881261
+roof_09_L.fbx::PackedScene::5274642876081754239::1778587396::1779881261::1::::<><><>0<>0<>c102a4790f4c356219fa64bcac2185bf<>res://godot/imported/roof_09_L.fbx-9c3982e32722f930fc97389cacf44c0b.scn::
+roof_09_middle.fbx::PackedScene::1137495902221675397::1778587396::1779881261::1::::<><><>0<>0<>d2aeaa9878555f5c9a27eff257e8e612<>res://godot/imported/roof_09_middle.fbx-214c1608b0a268ea4e0ffb2303f8ac47.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_10/::1779881261
+roof_10_R.fbx::PackedScene::3890014111073030746::1778587396::1779881261::1::::<><><>0<>0<>9fd998ff45131b42ffec6db416de303f<>res://godot/imported/roof_10_R.fbx-55303463a670ecc226847ad6aaf696db.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_11/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_13/::1779881261
+roof_13_middle.fbx::PackedScene::1347881631298847015::1778587396::1779881261::1::::<><><>0<>0<>bb73b0e22c7eba5d3d4559643dc7a124<>res://godot/imported/roof_13_middle.fbx-eedc1faee3e79a863cac41301f897c2e.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/walls/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/windows/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/windows/double_windows/::1779881260
+window_double_04.fbx::PackedScene::3475779209643953070::1778587396::1779881260::1::::<><><>0<>0<>5175bcf3653d28b82b861fefb6473da5<>res://godot/imported/window_double_04.fbx-330abe48ac26095b4fbb03f1631f3b3f.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/windows/single_windows/::1779881260
+window_single_01.fbx::PackedScene::4645604347741669528::1778587396::1779881260::1::::<><><>0<>0<>e135f2b1029377e0359ad5efcc757ae4<>res://godot/imported/window_single_01.fbx-b3ebf2829c3dbaf250cd3d7195d2bde2.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/windows/small_single_windows/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/skyscraper_pack/::1778587396
+::res://marsupial/materials/retro3d-assets/Buildings/skyscraper_pack/models/::1779881260
+building_07.2.fbx::PackedScene::7597963981387302812::1778587396::1779881260::1::::<><><>0<>0<>fa5d83b3ca182637be199db5e94aa011<>res://godot/imported/building_07.2.fbx-0a53b9ba3241b5f1551312732bd9d116.scn::
+::res://marsupial/materials/retro3d-assets/Buildings/skyscraper_pack/textures/::1779881258
+building_08.png::CompressedTexture2D::4674567293476629233::1778587396::1779881258::1::::<><><>0<>0<>02160357efc66fc3e166dff40d61b2d4<>res://godot/imported/building_08.png-61407279eb8ed653b13c0d02f36db4e2.ctex::
+::res://marsupial/materials/retro3d-assets/Characters/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/adultman__/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/adultman__/FBX_mixamo/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/Arms/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/Base Humanoid Mesh/::1779881256
+Overlapping.png::CompressedTexture2D::3701831265681075153::1778587396::1779881256::1::::<><><>0<>0<>df98a0714e952194f68c37a14e156c9c<>res://godot/imported/Overlapping.png-564ec8e99906839030a0bfa966f0622c.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Characters/Character_03/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/Character_05/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/Character_08/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/Creature/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/GermanPoliceOfficer_v1.2/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/hat/::1779881256
+cap.jpg::CompressedTexture2D::7791669511203376814::1778587396::1779881256::1::::<><><>0<>0<>20b2d69594fa1355495aaa1909d922d5<>res://godot/imported/cap.jpg-30baa8af0c928702df515c5f87bed068.ctex::
+::res://marsupial/materials/retro3d-assets/Characters/Killer_01/::1779881267
+Killer_01.fbx::PackedScene::5035374254641896045::1778587396::1779881267::1::::<><><>0<>0<>ecb148f7ffce84454cd779058aab0475<>res://godot/imported/Killer_01.fbx-dbc13b9552e0260077567d835e4dfe8e.scn::
+::res://marsupial/materials/retro3d-assets/Characters/knight/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/Mr_Smiles/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/Police_Officer_BLEND/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/Police_Officer_FBX/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/Police_Officer_FBX/Animation/::1779881267
+GermanPoliceOfficer_anim_run.fbx::PackedScene::1728922729297535153::1778587396::1779881267::1::::<><><>0<>0<>cd0996aeff59c9307b54c5f155c637f1<>res://godot/imported/GermanPoliceOfficer_anim_run.fbx-d36429409c819eaefecedb5b93782ab3.scn::
+::res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/Police_Officer_FOR_MIXAMO/::1778587396
+::res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/Textures/::1779881256
+PoliceCar.jpg::CompressedTexture2D::5296196219017099610::1778587396::1779881256::1::::<><><>0<>0<>bfbdbf7d3e9d082fc0f0e3b5bb0c0bc6<>res://godot/imported/PoliceCar.jpg-898daff8de941760a5fbdc32720b7af4.ctex::
+::res://marsupial/materials/retro3d-assets/Characters/Wendigos/::1779881256
+W3.png::CompressedTexture2D::2208957585703804841::1778587396::1779881256::1::::<><><>0<>0<>1b79109f270e91e922ee0d585101a660<>res://godot/imported/W3.png-b6e8c822de05a93a8eceb083773be929.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Concrete/::1778587396
+::res://marsupial/materials/retro3d-assets/Concrete/Materials/::1779881256
+concrete_13.jpg::CompressedTexture2D::3736527369304617351::1778587396::1779881256::1::::<><><>0<>0<>15558d8d1d4a5b1ea6b639b3632efa75<>res://godot/imported/concrete_13.jpg-1efdbcb7cb3f12b66aa0194ad1595ade.ctex::
+concrete_16.jpg::CompressedTexture2D::1666575215583047716::1778587396::1779881256::1::::<><><>0<>0<>a8694cd1960f590c4f104962e38d52f5<>res://godot/imported/concrete_16.jpg-50896570eef47496d914d8c716ef2019.ctex::
+concrete_tile_01.jpg::CompressedTexture2D::7992769572616917756::1778587396::1779881256::1::::<><><>0<>0<>49667e0545518cae6a54ab4cc975e1ce<>res://godot/imported/concrete_tile_01.jpg-3bfb3e0b856c8185c261aa997f663b88.ctex::
+conrete_painted_blue_dirty_02.png.png::CompressedTexture2D::5107793604711522203::1778587396::1779881256::1::::<><><>0<>0<>c31a334f73f23064f891414fa4e9c4ef<>res://godot/imported/conrete_painted_blue_dirty_02.png.png-cf0a628592cfbe0f189ec090142b2db7.ctex::
+::res://marsupial/materials/retro3d-assets/Doors/::1779881267
+door_pushbar.blend::PackedScene::7406557733715626703::1778587396::1779881267::1::::<><><>0<>0<>2adca7a408a43c7a1f5d33f82f535de6<>res://godot/imported/door_pushbar.blend-f665a4c56e7f0d51210a6191bebbc017.scn::
+::res://marsupial/materials/retro3d-assets/Doors/Materials/::1779881256
+door_double_brown_left.png::CompressedTexture2D::6176278475176629034::1778587396::1779881256::1::::<><><>0<>0<>d70e903c5717d2d4111908b4b6b9814a<>res://godot/imported/door_double_brown_left.png-48575817c8fcf090181d45610bbe4786.ctex::
+door_store_01.png::CompressedTexture2D::5356625161901852968::1778587396::1779881256::1::::<><><>0<>0<>aef6fc037736b526cfe8f691b0e758d8<>res://godot/imported/door_store_01.png-d3ffd4e205168272f265a2164453eadc.ctex::
+::res://marsupial/materials/retro3d-assets/Electrical/::1778587396
+::res://marsupial/materials/retro3d-assets/Electrical/Materials/::1779881256
+electrical_wires_group_3.png::CompressedTexture2D::4867083648556965951::1778587396::1779881256::1::::<><><>0<>0<>b9b212493c895c6347f4ae5cce4e8fbf<>res://godot/imported/electrical_wires_group_3.png-e20c9b0e81f88aefc0e03f4fafb53830.ctex::
+electrical_wires_plain.png::CompressedTexture2D::241992328926721822::1778587396::1779881256::1::::<><><>0<>0<>a354c1b80d3eb127c9a76951e2030a30<>res://godot/imported/electrical_wires_plain.png-e8306ba3c51fd1c88b649d7b5cb1a056.ctex::
+::res://marsupial/materials/retro3d-assets/Floor/::1778587396
+::res://marsupial/materials/retro3d-assets/Floor/Materials/::1779881256
+carpet_lightgray_02.png::CompressedTexture2D::5693717356346105347::1778587396::1779881256::1::::<><><>0<>0<>b08d6884ef79e325a6d8a93e015fe532<>res://godot/imported/carpet_lightgray_02.png-bc8a80151d2a05bb2a0650162400d01a.ctex::
+::res://marsupial/materials/retro3d-assets/Food/::1779881262
+drink_can_soda_2.blend::PackedScene::2402627063711391687::1778587396::1779881262::1::::<><><>0<>0<>58d433adc43d785201ef4c2098739d44<>res://godot/imported/drink_can_soda_2.blend-51d51dabbf8e36e57e0d91f73b42844b.scn::
+drink_can_soda_2.glb::PackedScene::5596765921432420077::1778587396::1779881262::1::::<><><>0<>0<>286901ae1185d2df95d196aa14710e31<>res://godot/imported/drink_can_soda_2.glb-2ad1bd425108907a56f339b4a7e2532c.scn::
+food_canned_soup_4.blend::PackedScene::255880356979835655::1778587396::1779881262::1::::<><><>0<>0<>0060dae9d0c57ea7f7a005089b7c7736<>res://godot/imported/food_canned_soup_4.blend-a97f554eef75a436845b94dee9544e4e.scn::
+food_canned_soup_8.blend::PackedScene::2121181912384061616::1778587396::1779881262::1::::<><><>0<>0<>1bc0d4630a7def5e308b08ef107a700f<>res://godot/imported/food_canned_soup_8.blend-3fe7e449d6097c39dc144d3f41ef2002.scn::
+::res://marsupial/materials/retro3d-assets/Food/Materials/::1779881256
+drink_can_soda_3.png::CompressedTexture2D::3850738419373995064::1778587396::1779881256::1::::<><><>0<>0<>af59829a8984b931c085d6f617c74f3f<>res://godot/imported/drink_can_soda_3.png-49211904df1066917b2cb4afc181c8fd.ctex::
+food_baking_flour.png::CompressedTexture2D::4567046925814455189::1778587396::1779881256::1::::<><><>0<>0<>bcf69109d26b6ace6d08879be79a75c8<>res://godot/imported/food_baking_flour.png-f72804814dec15090e6c29618cd8a3d3.ctex::
+food_box_02.jpg::CompressedTexture2D::2888264986838803129::1778587396::1779881256::1::::<><><>0<>0<>e5e8d7cfbe52c011765c9ff3a2f96ef4<>res://godot/imported/food_box_02.jpg-85a8aa11c60662459d0ac466bf5eb0f2.ctex::
+food_cereal_1.png::CompressedTexture2D::7556278366325565445::1778587396::1779881256::1::::<><><>0<>0<>05d98a8a84a43f0c0c435cb02cfc1ba4<>res://godot/imported/food_cereal_1.png-f630d6a5a3760e88b33fa497f58e814f.ctex::
+food_cereal_3.png::CompressedTexture2D::1197915706479566837::1778587396::1779881256::1::::<><><>0<>0<>0f762826b55730d24bff90a28bbe564e<>res://godot/imported/food_cereal_3.png-b5ed95869ab7311311d3a59f37f8418e.ctex::
+food_cereal_4.png::CompressedTexture2D::4906863141971184111::1778587396::1779881256::1::::<><><>0<>0<>dff0402e98369b119a10e0f70d1e0167<>res://godot/imported/food_cereal_4.png-93b38657de6a8184cb911be054febe0b.ctex::
+::res://marsupial/materials/retro3d-assets/Furniture/::1779881267
+armchair_0.jpg::CompressedTexture2D::8165383293339511173::1778587396::1779881256::1::::<><><>0<>0<>18ec92e50e67e70076041701e1fdf13d<>res://godot/imported/armchair_0.jpg-3b90da8733000004d48aae4b652ca4df.ctex::
+armchair_3.jpg::CompressedTexture2D::3981514414766027773::1778587396::1779881256::1::::<><><>0<>0<>09644576524714e497f5918970db1a31<>res://godot/imported/armchair_3.jpg-fd9e7f73cb02f5497cdb6a8b4002ad2b.ctex::
+armchair_9.jpg::CompressedTexture2D::1729454269553024764::1778587396::1779881256::1::::<><><>0<>0<>3820c695a5b94391b7b929ec6ae5011c<>res://godot/imported/armchair_9.jpg-962643369e23a16bf315294582f05bb0.ctex::
+armchair_18.jpg::CompressedTexture2D::4353287353002645780::1778587396::1779881257::1::::<><><>0<>0<>d6f3e6a070e8a4f313996c455991927e<>res://godot/imported/armchair_18.jpg-62450272cd158d42512541ca7d849c89.ctex::
+armchair_19.jpg::CompressedTexture2D::261063221382136129::1778587396::1779881257::1::::<><><>0<>0<>50fb2df1c797412aa7d2907aac6a53e1<>res://godot/imported/armchair_19.jpg-8bb27b1e696b422faa2723ec1249f815.ctex::
+chairs.glb::PackedScene::1819865545837245731::1778587396::1779881267::1::::<><><>0<>0<>15c2e3861d08bc8cfcf89046a217d951<>res://godot/imported/chairs.glb-d90f949082790d250b9fc2eff9b1a3e8.scn::uid://cju310sjxexlv::::res://marsupial/materials/retro3d-assets/Furniture/chairs_0.jpg<>uid://llkfne32yurp::::res://marsupial/materials/retro3d-assets/Furniture/chairs_1.jpg<>uid://cr2h5x3ahaiq3::::res://marsupial/materials/retro3d-assets/Furniture/chairs_2.jpg<>uid://c01rd3hj0kps5::::res://marsupial/materials/retro3d-assets/Furniture/chairs_3.jpg<>uid://bnvaavdyq3l27::::res://marsupial/materials/retro3d-assets/Furniture/chairs_4.jpg<>uid://bv5a6e485toff::::res://marsupial/materials/retro3d-assets/Furniture/chairs_5.jpg<>uid://5whfhdcli6q0::::res://marsupial/materials/retro3d-assets/Furniture/chairs_6.jpg<>uid://caet2qdoke6f::::res://marsupial/materials/retro3d-assets/Furniture/chairs_7.jpg<>uid://bbfanifrvpud2::::res://marsupial/materials/retro3d-assets/Furniture/chairs_8.jpg<>uid://c2klma68cwkth::::res://marsupial/materials/retro3d-assets/Furniture/chairs_9.jpg<>uid://nemcq5fxhbb2::::res://marsupial/materials/retro3d-assets/Furniture/chairs_10.jpg<>uid://b2bjrpr61ia0l::::res://marsupial/materials/retro3d-assets/Furniture/chairs_11.jpg<>uid://baic3u5f6klku::::res://marsupial/materials/retro3d-assets/Furniture/chairs_12.jpg<>uid://dkhceeu2usbre::::res://marsupial/materials/retro3d-assets/Furniture/chairs_13.jpg<>uid://b2yq6omqbnopo::::res://marsupial/materials/retro3d-assets/Furniture/chairs_14.jpg<>uid://dsiy2yrnkje2k::::res://marsupial/materials/retro3d-assets/Furniture/chairs_15.jpg<>uid://cg5eamm8g3xjd::::res://marsupial/materials/retro3d-assets/Furniture/chairs_16.png<>uid://baht67t3lyc3s::::res://marsupial/materials/retro3d-assets/Furniture/chairs_17.jpg<>uid://cr01uafau164s::::res://marsupial/materials/retro3d-assets/Furniture/chairs_18.jpg<>uid://csr40m6tv1wka::::res://marsupial/materials/retro3d-assets/Furniture/chairs_19.jpg<>uid://cgk2wkef235a2::::res://marsupial/materials/retro3d-assets/Furniture/chairs_20.jpg<>uid://dpnch63fm8142::::res://marsupial/materials/retro3d-assets/Furniture/chairs_21.jpg
+chairs_0.jpg::CompressedTexture2D::5447576362978749207::1779869951::1779881257::1::::<><><>0<>0<>21df94043a33f1d0c14f2d85bbd9d36a<>res://godot/imported/chairs_0.jpg-8d6b34eaf30075d34bfdee350f1fac35.s3tc.ctex::
+chairs_1.jpg::CompressedTexture2D::795402224502212369::1779869951::1779881257::1::::<><><>0<>0<>c1e0f66307aa1d8f4e586d3bb3e4ccd4<>res://godot/imported/chairs_1.jpg-4b4ad39e6cab7d32373bb3d01f6915b8.s3tc.ctex::
+chairs_2.jpg::CompressedTexture2D::6022269752659819852::1779869951::1779881257::1::::<><><>0<>0<>1b0f10645f37724bc404e24b4b2b4cbc<>res://godot/imported/chairs_2.jpg-cfffc632f8302cb520a0a01d39dbd4c4.s3tc.ctex::
+chairs_3.jpg::CompressedTexture2D::6582275308111483646::1778587396::1779881257::1::::<><><>0<>0<>3aef56e9dca313319422dd281303d266<>res://godot/imported/chairs_3.jpg-1b0f78ac180017e2c2462d37647844ff.s3tc.ctex::
+chairs_4.jpg::CompressedTexture2D::3342228692560489346::1779869951::1779881257::1::::<><><>0<>0<>628b24fc5337c8e440fc007dd14d41fb<>res://godot/imported/chairs_4.jpg-4df4b1fc1b84bbaf0573dac3a001608b.s3tc.ctex::
+chairs_5.jpg::CompressedTexture2D::3922373348757577023::1779869951::1779881257::1::::<><><>0<>0<>a97856e7879c4838e7f6ccf0b99478c5<>res://godot/imported/chairs_5.jpg-a43c12229c0c324f230673cdf1be4327.s3tc.ctex::
+chairs_6.jpg::CompressedTexture2D::2151515940052961957::1779869951::1779881257::1::::<><><>0<>0<>e3f311c3326a185f1f10e19eb045b03f<>res://godot/imported/chairs_6.jpg-120b6c9fe1ec1048f390715b2f25584a.s3tc.ctex::
+chairs_7.jpg::CompressedTexture2D::140655928334061891::1779869951::1779881257::1::::<><><>0<>0<>d42fee53346374f62eb80587b2e59cd8<>res://godot/imported/chairs_7.jpg-9cd1280aff80d4780485a38bdf3439ee.s3tc.ctex::
+chairs_8.jpg::CompressedTexture2D::2466955060134097273::1779869951::1779881257::1::::<><><>0<>0<>34dd0aa717eaab2b3cbd95b3c4c1167b<>res://godot/imported/chairs_8.jpg-acd52af26437350dac737c54be06211b.s3tc.ctex::
+chairs_9.jpg::CompressedTexture2D::6689273288992819557::1779869951::1779881257::1::::<><><>0<>0<>c6061cd61f13ef82fe10d08e060e81e6<>res://godot/imported/chairs_9.jpg-60db3df25eb046c43b35ec39c0f0bee2.s3tc.ctex::
+chairs_10.jpg::CompressedTexture2D::921445540787591433::1779869952::1779881257::1::::<><><>0<>0<>2b7e11eb504c0437bb471a9c59e8fb89<>res://godot/imported/chairs_10.jpg-439ef4479997a3f78f81be92b888ada7.s3tc.ctex::
+chairs_11.jpg::CompressedTexture2D::4284161466660802013::1779869952::1779881257::1::::<><><>0<>0<>cca8e852c7de6ef7f791e23b46922172<>res://godot/imported/chairs_11.jpg-889f34521ba4fe862dff2886a745212b.s3tc.ctex::
+chairs_12.jpg::CompressedTexture2D::2403108239020594292::1779869952::1779881257::1::::<><><>0<>0<>366865a4bbff8c6dd4f408a900e8c00e<>res://godot/imported/chairs_12.jpg-c7f6087f643bab3cd3c639c6f6daf8fb.s3tc.ctex::
+chairs_13.jpg::CompressedTexture2D::7875729951142879226::1779869952::1779881257::1::::<><><>0<>0<>c2f6a24340c1a4e9aedd5200df5686b0<>res://godot/imported/chairs_13.jpg-44a4f98c651a257ec6778520fe605b8c.s3tc.ctex::
+chairs_14.jpg::CompressedTexture2D::4332092114106111036::1778587396::1779881257::1::::<><><>0<>0<>5e6ed358fc53bd132f83df7b12326a91<>res://godot/imported/chairs_14.jpg-ead1be310936c37f84cd160f58d61e53.s3tc.ctex::
+chairs_15.jpg::CompressedTexture2D::8440682970284653304::1779869952::1779881257::1::::<><><>0<>0<>5b6a961cc1a4a7d85b9162c8228449a1<>res://godot/imported/chairs_15.jpg-1990835f9470f16348773e3a20b857e6.s3tc.ctex::
+chairs_16.png::CompressedTexture2D::5256149280133624689::1779869952::1779881257::1::::<><><>0<>0<>4d6d262aef57df4020022914ad6bd774<>res://godot/imported/chairs_16.png-273b736af0e16b487a5f73ecaa57c801.s3tc.ctex::
+chairs_17.jpg::CompressedTexture2D::2402082021831460738::1778587396::1779881257::1::::<><><>0<>0<>092f8bef04736a890adba9f40033bc20<>res://godot/imported/chairs_17.jpg-5d48c1cf42b352a80f7415f5956764af.s3tc.ctex::
+chairs_18.jpg::CompressedTexture2D::6019275518526080568::1778587396::1779881257::1::::<><><>0<>0<>20b23ea0b1c91c0b5c8b0c94f5edbee2<>res://godot/imported/chairs_18.jpg-d7ea24ac49ed75f3f13e03da6d2743d5.s3tc.ctex::
+chairs_19.jpg::CompressedTexture2D::6073141091389173484::1778587396::1779881257::1::::<><><>0<>0<>7b626eaf37a1b36557f93b97380811d7<>res://godot/imported/chairs_19.jpg-2f82c58d1e8cc834251dd4dbd59d4642.s3tc.ctex::
+chairs_20.jpg::CompressedTexture2D::5216297384702708931::1779869952::1779881257::1::::<><><>0<>0<>fe56421dc0815cd8ddb1aafffdf15808<>res://godot/imported/chairs_20.jpg-46c941b46909feb5ae4f677e2881e8f3.s3tc.ctex::
+chairs_21.jpg::CompressedTexture2D::8239067222718352581::1779869952::1779881257::1::::<><><>0<>0<>245fbdbf89b4b6f5e7b60f560b858cdc<>res://godot/imported/chairs_21.jpg-9e4153d91ea5992261e7c64b45cc3313.s3tc.ctex::
+deds_others_4.jpg::CompressedTexture2D::3318194247951685653::1778587396::1779881257::1::::<><><>0<>0<>29836116f6a507d20b383b17c93a9a5d<>res://godot/imported/deds_others_4.jpg-f3549b0859b0660b204b85fe9553781b.ctex::
+deds_others_18.jpg::CompressedTexture2D::7166836325629689502::1778587396::1779881257::1::::<><><>0<>0<>5e2fe4f45daf0bc7523dfa9f4cc8a471<>res://godot/imported/deds_others_18.jpg-d8b106f98f9faa9a7ad049b58d9f5157.ctex::
+deds_others_20.jpg::CompressedTexture2D::7304814263226756284::1778587396::1779881257::1::::<><><>0<>0<>43303e5631d8742778ea0fdc62bafbf1<>res://godot/imported/deds_others_20.jpg-8aa84d15aef9d3f5af9d589de76e6dcb.ctex::
+deds_others_32.png::CompressedTexture2D::8599652247669247160::1778587396::1779881257::1::::<><><>0<>0<>078c44778cb22e7d37d93374ea75f251<>res://godot/imported/deds_others_32.png-1bec53cc65fd3edd725ed162367ce2f5.ctex::
+electronics_kitchen_0.jpg::CompressedTexture2D::7559462591020700486::1778587396::1779881257::1::::<><><>0<>0<>1e5356674fb5d3acce159fc9b208ca4d<>res://godot/imported/electronics_kitchen_0.jpg-b83bd30f9386cfd156e9ef8e3650c384.ctex::
+electronics_kitchen_4.jpg::CompressedTexture2D::7058675067467608128::1778587396::1779881257::1::::<><><>0<>0<>7df36a286cbfafb05b636154d7f2ab10<>res://godot/imported/electronics_kitchen_4.jpg-e860b718ab594d9ff38c07d18d9da463.ctex::
+::res://marsupial/materials/retro3d-assets/Furniture/Armchair/::1778587396
+::res://marsupial/materials/retro3d-assets/Furniture/Armchair/Textures/::1779881256
+Fabric_16.jpg::CompressedTexture2D::8480792854714985915::1778587396::1779881256::1::::<><><>0<>0<>69453079733a7dd30a7d306b21f9c59d<>res://godot/imported/Fabric_16.jpg-9b36c643f2d570305735048a96dc472f.ctex::
+Metal.jpg.001.jpg::CompressedTexture2D::2863577270105002881::1778587396::1779881256::1::::<><><>0<>0<>9dcfbe608e7247114de44129cdeccd15<>res://godot/imported/Metal.jpg.001.jpg-1f042d1c3213edcaf5f32f7b8c91b4c0.ctex::
+::res://marsupial/materials/retro3d-assets/Furniture/Cabinet/::1779881261
+Cabinet.blend::PackedScene::4121427852082471062::1778587396::1779881261::1::::<><><>0<>0<>bcf6105d54581ff83d5f96f33beabd8c<>res://godot/imported/Cabinet.blend-a89c65a5efe44a3f31a82c1221913e8f.scn::
+::res://marsupial/materials/retro3d-assets/Furniture/Chairs/::1778587396
+::res://marsupial/materials/retro3d-assets/Furniture/Chairs/Models/::1779881261
+Chairs.fbx::PackedScene::8610940842846542901::1778587396::1779881261::1::::<><><>0<>0<>a2137fdd02a488645b1285c1f9f7f623<>res://godot/imported/Chairs.fbx-74429d0bc02d5bd1da3203deb0f7b163.scn::
+::res://marsupial/materials/retro3d-assets/Furniture/Chairs/Textures/::1778587396
+::res://marsupial/materials/retro3d-assets/Furniture/Electronics_kitchen/::1779881256
+PSX5.png::CompressedTexture2D::5886454084304336886::1778587396::1779881256::1::::<><><>0<>0<>c85f71a260ca2c151f313c296fe1ad4f<>res://godot/imported/PSX5.png-3c277fc7265a4ca35a8b88abf8982555.ctex::
+::res://marsupial/materials/retro3d-assets/Furniture/Electronics_kitchen/Textures/::1778587396
+::res://marsupial/materials/retro3d-assets/Furniture/PSX Vase Model/::1778587396
+Licence.txt::TextFile::-1::1778587396::0::1::::<><><>0<>0<><>::
+::res://marsupial/materials/retro3d-assets/Furniture/Shelves/::1778587396
+::res://marsupial/materials/retro3d-assets/Furniture/Shelves/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Furniture/uncomfortable-yellow-chair/::1778587396
+::res://marsupial/materials/retro3d-assets/Gems/::1779881268
+blue_gemstone_pile.blend::PackedScene::1643878483219756165::1778587396::1779881268::1::::<><><>0<>0<>56292f0c1f05161bc55fb44be7b89d86<>res://godot/imported/blue_gemstone_pile.blend-6d8aaa4962da3e1df65cd88dd7a32ac7.scn::
+::res://marsupial/materials/retro3d-assets/Gems/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Ground/::1778587396
+::res://marsupial/materials/retro3d-assets/Ground/Materials/::1779881257
+dirt_muddy_1.jpg::CompressedTexture2D::2597351935363611358::1778587396::1779881257::1::::<><><>0<>0<>3b5d34bf5238a2a177d626dd03924116<>res://godot/imported/dirt_muddy_1.jpg-9e427bf5cfc4ec37f3699618b71a3fcf.ctex::
+gravel_10.jpg::CompressedTexture2D::4150123371391152744::1778587396::1779881257::1::::<><><>0<>0<>b2c40ff835685a402c98adc9071f93c2<>res://godot/imported/gravel_10.jpg-22175771161456650410c9bd1c7cb073.ctex::
+gravel_11.jpg::CompressedTexture2D::1051680043363307696::1778587396::1779881257::1::::<><><>0<>0<>2fe5633e6a201bc63e9c3b94003e7e92<>res://godot/imported/gravel_11.jpg-1a3881d47ed621d21ab6b48839b5e7aa.ctex::
+ice_09.jpg::CompressedTexture2D::91340843711281767::1778587396::1779881257::1::::<><><>0<>0<>d8e45c8360095cdaa6a60cb1bb4ed3ea<>res://godot/imported/ice_09.jpg-76cbbd8f92ca6f030c18512df90a0ecb.ctex::
+rocks_01.png::CompressedTexture2D::8584902131203727141::1778587396::1779881257::1::::<><><>0<>0<>1e2978a57bfac127b5a5d0920c6ffe4a<>res://godot/imported/rocks_01.png-7131e36110675cf5237dfb8b43589b53.ctex::
+snow_footprints.jpg::CompressedTexture2D::9009391945692404400::1778587396::1779881257::1::::<><><>0<>0<>dbcc7dd29b731b450f4c5740d9bdace9<>res://godot/imported/snow_footprints.jpg-43564ba06a7e39472eba2bc231317b3a.ctex::
+snow_grass_06.jpg::CompressedTexture2D::1743899498602688414::1778587396::1779881257::1::::<><><>0<>0<>b07e3588d0b109f7e1e821265ceb9abe<>res://godot/imported/snow_grass_06.jpg-08f8322f28b8d58dd65bc36622a66784.ctex::
+::res://marsupial/materials/retro3d-assets/Industrial/::1779881267
+manhole_cover.blend::PackedScene::7139067901531551019::1778587396::1779881267::1::::<><><>0<>0<>4e84652a4dc5dee380dab365fc5b2a2a<>res://godot/imported/manhole_cover.blend-4bd90330cc027d26fd674f1bcfcbc9a0.scn::uid://ccwhy1acwijed::::res://marsupial/materials/retro3d-assets/Industrial/textures/manhole_cover_3.png<>uid://tks08ca17q47::::res://marsupial/materials/retro3d-assets/Industrial/textures/manhole_cover_4.png
+::res://marsupial/materials/retro3d-assets/Industrial/3D Retro Plumbing & Wiring/::1779881272
+Pipe Valve.blend::PackedScene::3807717648318803469::1778587396::1779881272::1::::<><><>0<>0<>026be8fd788ffc381434f9eea96c8142<>res://godot/imported/Pipe Valve.blend-7a1f80382a6a0a5b5705ba375259f707.scn::
+::res://marsupial/materials/retro3d-assets/Industrial/lift chain hook/::1778587396
+::res://marsupial/materials/retro3d-assets/Industrial/Materials/::1779881257
+valve_wheel.png::CompressedTexture2D::4306505898494306902::1778587396::1779881257::1::::<><><>0<>0<>6eb4a755e7fd28754ab6a9efab9f5391<>res://godot/imported/valve_wheel.png-264d0c03102520e973ee341239ef7a90.ctex::
+::res://marsupial/materials/retro3d-assets/Industrial/Shacks Shanties Sheds and Gantries 0001/::1779881272
+Shack A.blend::PackedScene::1690061854643555630::1778587396::1779881272::1::::<><><>0<>0<>685ddee29745e9fa39525c9c8e620ff7<>res://godot/imported/Shack A.blend-fadbc1cb7f37294780aace3bf01b8012.scn::
+::res://marsupial/materials/retro3d-assets/Industrial/textures/::1779881277
+manhole_cover_3.png::CompressedTexture2D::4959104608982363663::1779869958::1779881277::1::::<><><>0<>0<>280926f245b06498bcd7e9ba431cbf91<>res://godot/imported/manhole_cover_3.png-308697d13d9d7beb2564c8bcbec75ef2.s3tc.ctex::
+manhole_cover_4.png::CompressedTexture2D::1355371093776817370::1779869958::1779881277::1::::<><><>0<>0<>f8f79b22b0fb50b4bacc83355ef35370<>res://godot/imported/manhole_cover_4.png-5a21f0e6be700b5dc3358e0adf0adacc.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Industrial/traffic_cone/::1778587396
+::res://marsupial/materials/retro3d-assets/Industrial/traffic_cone/cone.fbm/::1779881257
+conetex.png::CompressedTexture2D::1101783335157898432::1778587396::1779881257::1::::<><><>0<>0<>bb3384ecef653cb49f318123d2363cd3<>res://godot/imported/conetex.png-552bcab33a794f84e6108e66a1612e80.ctex::
+::res://marsupial/materials/retro3d-assets/Large_kits/::1778587396
+::res://marsupial/materials/retro3d-assets/Large_kits/3D Retro Medieval Fantasy Kit/::1778587396
+::res://marsupial/materials/retro3d-assets/Large_kits/3D Retro Medieval Fantasy Kit/Textures/::1778587396
+::res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/::1778587396
+::res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/Models/::1779881264
+models.dae::PackedScene::825624712319666223::1778587396::1779881264::1::::<><><>0<>0<>6ff8a5476dc58501647d2cf35b3a21e6<>res://godot/imported/models.dae-8c304446c9efe61ad22888f0769e589c.scn::
+::res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/Texture/::1779881257
+Auto2.jpg::CompressedTexture2D::5751098473272632970::1778587396::1779881257::1::::<><><>0<>0<>82603f9ccc150e683744fb9a74b8cc46<>res://godot/imported/Auto2.jpg-bd333b2fca19feee05fe18fa70303b63.ctex::
+Auto.jpg::CompressedTexture2D::1255148192168002557::1778587396::1779881257::1::::<><><>0<>0<>b6340606c7adbedb28e68c1c160675b5<>res://godot/imported/Auto.jpg-81cf11e8bef612d2e13cd41d2dd9bccd.ctex::
+Boxs_04.jpg::CompressedTexture2D::5851572582840325316::1778587396::1779881257::1::::<><><>0<>0<>14425e32b3e41c766417c4812909e6fc<>res://godot/imported/Boxs_04.jpg-2a087243b3d6024a4be1c305f8aaad2d.ctex::
+Branch_02.png::CompressedTexture2D::8344814715779464224::1778587396::1779881257::1::::<><><>0<>0<>b54a02c6d5a97896492ba32f5a2828e0<>res://godot/imported/Branch_02.png-473ce57de28d4eaee5ad3d8576867284.ctex::
+Cardboard.jpg::CompressedTexture2D::6617545479603722589::1778587396::1779881257::1::::<><><>0<>0<>b574f58197850caef738964869259843<>res://godot/imported/Cardboard.jpg-6440197df4705046b109ca2aaf3923ff.ctex::
+Deposits_01.jpg::CompressedTexture2D::8141564797516699950::1778587396::1779881257::1::::<><><>0<>0<>a0808ca44e59f46108d56a3f7b66bc7b<>res://godot/imported/Deposits_01.jpg-54306049ef0ff311fe8c4a7e6555abef.ctex::
+Deposits_02.jpg::CompressedTexture2D::977022352638142953::1778587396::1779881257::1::::<><><>0<>0<>7ef4d1fc0ac82da4cde648294094579c<>res://godot/imported/Deposits_02.jpg-cc03114f1619a2dcae74c330568b1972.ctex::
+Fabric_02.jpg::CompressedTexture2D::2136921486241878697::1778587396::1779881257::1::::<><><>0<>0<>ad7f0cf2fdfdfa9cdf8a7928814aed63<>res://godot/imported/Fabric_02.jpg-dd906b00aecfa5ee947003de1e2dd1ef.ctex::
+Medidor.png::CompressedTexture2D::1628964505760265292::1778587396::1779881257::1::::<><><>0<>0<>f91441b782b220cba80588a609a920f4<>res://godot/imported/Medidor.png-a205ee32411709189ebd3200ec887775.ctex::
+Metal_03.jpg::CompressedTexture2D::3314916832059102740::1778587396::1779881257::1::::<><><>0<>0<>8a68552cbe5b746316f641e6eb86bcbc<>res://godot/imported/Metal_03.jpg-04501c66802ed50e6738f0155e974118.ctex::
+Metal_08.jpg::CompressedTexture2D::2414453504679600673::1778587396::1779881257::1::::<><><>0<>0<>7fbb24467fc9dc66913c52a547a16c1c<>res://godot/imported/Metal_08.jpg-349560d922ec413d0736d879a307951e.ctex::
+Metal_09.jpg::CompressedTexture2D::210687716492812779::1778587396::1779881257::1::::<><><>0<>0<>9e9617188dc5e32f5851e52d1883ad86<>res://godot/imported/Metal_09.jpg-8616fee958f63fe2d085ace130a690f5.ctex::
+Metal_10.jpg::CompressedTexture2D::6265243380022021946::1778587396::1779881257::1::::<><><>0<>0<>eb4f5a0f13a3dc9672a5cf7503470785<>res://godot/imported/Metal_10.jpg-bfbcdc077c85dc472cd229b6e389a6c5.ctex::
+Plastic.jpg::CompressedTexture2D::8863281657294555729::1778587396::1779881257::1::::<><><>0<>0<>07801c1f3d04bcc22305874c9443dcc5<>res://godot/imported/Plastic.jpg-0ee7efc004c3b3b119c771511b65f7f8.ctex::
+Wood_09.jpg::CompressedTexture2D::3150575804415715549::1778587396::1779881257::1::::<><><>0<>0<>6886eba668028d369c7a8d23e43976e7<>res://godot/imported/Wood_09.jpg-5548d3575bf39fe9603369bde9ecb80f.ctex::
+Wood_12.jpg::CompressedTexture2D::534128371190376520::1778587396::1779881257::1::::<><><>0<>0<>2ec20f1380e6f9dffec00a7932aad84b<>res://godot/imported/Wood_12.jpg-cd4122eb14366ee93f979294c5ccee48.ctex::
+::res://marsupial/materials/retro3d-assets/Metal/::1778587396
+::res://marsupial/materials/retro3d-assets/Metal/Materials/::1779881257
+metal_diamondplate_03.jpg::CompressedTexture2D::7759251948835038035::1778587396::1779881257::1::::<><><>0<>0<>65f3fc87ec366885d3b65bfb8b575f26<>res://godot/imported/metal_diamondplate_03.jpg-a787ce383cbbccc901ba2ccd9a375838.ctex::
+metal_threads_01.jpg::CompressedTexture2D::5627390418351133953::1778587396::1779881257::1::::<><><>0<>0<>a0925446d9b90719dd6d52ea78d9e76c<>res://godot/imported/metal_threads_01.jpg-a314bf39cdfef8c58f87c3d9f73f4116.ctex::
+metal_threads_02.jpg::CompressedTexture2D::5687325065426012664::1778587396::1779881257::1::::<><><>0<>0<>739fcc425646299561514322148cacf8<>res://godot/imported/metal_threads_02.jpg-b89e847e27542e431c68fc965bc1799a.ctex::
+::res://marsupial/materials/retro3d-assets/Misc/::1778587396
+::res://marsupial/materials/retro3d-assets/Misc/Colors/::1779881257
+color_green.png::CompressedTexture2D::2071125445647576946::1778587396::1779881257::1::::<><><>0<>0<>b76d8e6d950a1543f87a172708a44884<>res://godot/imported/color_green.png-0903ed7619540dd3ed487d720aef35ef.ctex::
+::res://marsupial/materials/retro3d-assets/Misc/Materials/::1779881257
+bolt_head_01.png::CompressedTexture2D::3758581266512408384::1778587396::1779881257::1::::<><><>0<>0<>909c02103b79815a2c0d4543a9418a12<>res://godot/imported/bolt_head_01.png-54770706f643761ef478ce0ad4a50a1c.ctex::
+caution_tape_3.png::CompressedTexture2D::1192072142868037163::1778587396::1779881257::1::::<><><>0<>0<>96ec1148a809a84cce063817cfd4ec2b<>res://godot/imported/caution_tape_3.png-59ddddbb02126a04a1a10c0902b2ba58.ctex::
+misc_dirty_02.jpg::CompressedTexture2D::6467395293605851025::1778587396::1779881257::1::::<><><>0<>0<>366c7090da70eb54e8a19722380133e7<>res://godot/imported/misc_dirty_02.jpg-17082953741d84f047c5c97c750ba6f6.ctex::
+misc_grunge_02.jpg::CompressedTexture2D::1297660428519327651::1778587396::1779881257::1::::<><><>0<>0<>6343054e75fec970e8829127c728e743<>res://godot/imported/misc_grunge_02.jpg-1fe5e9fdd111562a592aa44899c6f6f8.ctex::
+outlet.jpg::CompressedTexture2D::3620722633081098160::1778587396::1779881256::1::::<><><>0<>0<>20a022bdfc5bf7289dde12e03adf931c<>res://godot/imported/outlet.jpg-c0dd8738d371c2c7b5c488fb5639a4f8.ctex::
+slime_green_01.jpg::CompressedTexture2D::7616924463903181743::1778587396::1779881256::1::::<><><>0<>0<>c126b1b130c111ebd3b7000a8de5ab7a<>res://godot/imported/slime_green_01.jpg-7dc74d0bfe33796c1677996e6f021137.ctex::
+tarp_02.jpg::CompressedTexture2D::3599568104393048095::1778587396::1779881256::1::::<><><>0<>0<>9d78baa0c98354f7c6ea2a466353b0b5<>res://godot/imported/tarp_02.jpg-a3ece230cd66f270712f3ea65e56981d.ctex::
+vent_06.jpg::CompressedTexture2D::3447104925985399726::1778587396::1779881256::1::::<><><>0<>0<>b5182d8e4b5518c87695c6260b0f7cfa<>res://godot/imported/vent_06.jpg-596911f494fbb51a0b76dc0f75df0656.ctex::
+::res://marsupial/materials/retro3d-assets/Nature/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/alpaca_model/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Arboles/::1779881270
+Arboles low poy.dae::PackedScene::2666938058303761458::1778587396::1779881270::1::::<><><>0<>0<>1b68a8488b38856afc1e66e802343538<>res://godot/imported/Arboles low poy.dae-903dadaf259481786853f2a20ce8bcb8.scn::
+::res://marsupial/materials/retro3d-assets/Nature/bat_black/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/bat_brown/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/bat_grey/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Bush and tree 1/::1779881270
+bush_04.blend::PackedScene::5375879734783202829::1778587396::1779881270::1::::<><><>0<>0<>ecb02121e86cd763e313f20d2d62e9a1<>res://godot/imported/bush_04.blend-8ca8342eccdfdad0c25dfcdefe2c1d1e.scn::uid://bknmdesfk13ey::::res://marsupial/materials/retro3d-assets/Nature/Bush and tree 1/textures/bush_04.png
+bush_05.blend::PackedScene::3956758741311144236::1778587396::1779881270::1::::<><><>0<>0<>644eca7a2a8953093d042cc2f7107301<>res://godot/imported/bush_05.blend-edf6f0b300bf4d6dafd99159062a374f.scn::uid://csl15fg1fv75b::::res://marsupial/materials/retro3d-assets/Nature/Bush and tree 1/textures/bush_05.png
+::res://marsupial/materials/retro3d-assets/Nature/Bush and tree 1/textures/::1779881277
+bush_04.png::CompressedTexture2D::3115880230312589216::1779869952::1779881277::1::::<><><>0<>0<>9f453d6c5986ade5f7c93fa2dae87089<>res://godot/imported/bush_04.png-40d724858961c531159bc491ecd2210c.s3tc.ctex::
+bush_05.png::CompressedTexture2D::6060581196868960821::1779869953::1779881277::1::::<><><>0<>0<>9894cf054efae01ce7134585c71bf10d<>res://godot/imported/bush_05.png-cd3e0d148c1fabad3dbeb8978b01780a.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Nature/Camping Survival gear/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Camping Survival gear/Models/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Camping Survival gear/Textures/::1779881257
+Antiseptic.png::CompressedTexture2D::1132215986157335571::1778587396::1779881257::1::::<><><>0<>0<>8e329cdc3d736c6618fca45d917fc950<>res://godot/imported/Antiseptic.png-04e48f02cdae6205c65428f0cd53c037.ctex::
+Axe.png::CompressedTexture2D::3046024226058507711::1778587396::1779881257::1::::<><><>0<>0<>7906b09e6a6a3992730ce702ca8ba488<>res://godot/imported/Axe.png-38b1f688bdebb03debbf6224342695a6.ctex::
+sleeping_bag_01.png::CompressedTexture2D::3093865660169670459::1778587396::1779881257::1::::<><><>0<>0<>8e889d551f8c09d9c8fd9778b00c5120<>res://godot/imported/sleeping_bag_01.png-c21b2e4db3cd1ae28b1a9fb467f06687.ctex::
+::res://marsupial/materials/retro3d-assets/Nature/capybara_model/::1779881258
+capybara.obj::Mesh::3597643934602042497::1778587396::1779881258::1::::<><><>0<>0<>a39b8ece724868fe59534dbcbbbfe849<>res://godot/imported/capybara.obj-fc62f55ce16b2e9eb722e15c812ba530.mesh<*>res://godot/imported/capybara.obj-fc62f55ce16b2e9eb722e15c812ba530.mesh::
+::res://marsupial/materials/retro3d-assets/Nature/exports/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/exports/rocks/::1779881256
+rock_rock_lowres.png::CompressedTexture2D::6580866328896711492::1778587396::1779881256::1::::<><><>0<>0<>4f049453d902dac6237cde75c4eeab01<>res://godot/imported/rock_rock_lowres.png-fd1602aba3fbd12d60eaddff95397b00.ctex::
+::res://marsupial/materials/retro3d-assets/Nature/exports/trees/::1779881270
+pine_tree.glb::PackedScene::2977985786612348762::1778587396::1779881270::1::::<><><>0<>0<>96c1210de40972e1460bf4e5fdb36104<>res://godot/imported/pine_tree.glb-292d533cd375682ff44e5cfed9604209.scn::uid://cc5yowlt1bh3k::::res://marsupial/materials/retro3d-assets/Nature/exports/trees/pine_tree_pine_lowres.png
+pine_tree_pine_lowres.png::CompressedTexture2D::4976633769629741734::1779869954::1779881257::1::::<><><>0<>0<>147811ed940f322eb9e3da3cd8d74516<>res://godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/fences/::1779881269
+fence1_08.fbx::PackedScene::752077191480765648::1778587396::1779881269::1::::<><><>0<>0<>93b680f0c63a67eca4742ee277722e37<>res://godot/imported/fence1_08.fbx-96f571ea783df00838b120674dabafe5.scn::
+fence2_single_gate.fbx::PackedScene::3332695616127356889::1778587396::1779881269::1::::<><><>0<>0<>0e885909f74a7bdaf980516f640d8387<>res://godot/imported/fence2_single_gate.fbx-771afde437741c99e824d78e79098a5d.scn::
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/flowers/::1779881269
+flowerbed5_1x2.fbx::PackedScene::8495880223037568272::1778587396::1779881269::1::::<><><>0<>0<>36dfe698d48d0986c4a22aa6b30ebfb8<>res://godot/imported/flowerbed5_1x2.fbx-c654ba1a856a2e9d0b8aebc94143b2a0.scn::
+flowerbed_2x2_empty.fbx::PackedScene::1872930435645328524::1778587396::1779881269::1::::<><><>0<>0<>cbf7066a9d3eca66104366e91817d045<>res://godot/imported/flowerbed_2x2_empty.fbx-78b5006953da97ed20c395088e1ac552.scn::
+vase5.fbx::PackedScene::1605804864481924296::1778587396::1779881269::1::::<><><>0<>0<>4b83001ce0dd841ae8b15730855be504<>res://godot/imported/vase5.fbx-3f97ea8083e8a1e6aa61ea9ba0867b5d.scn::
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/stone/::1779881269
+fountain02_round_water.fbx::PackedScene::302036261446534712::1778587396::1779881269::1::::<><><>0<>0<>ffd68a8d309f959803448f4b32fdba27<>res://godot/imported/fountain02_round_water.fbx-0d52215857537987e2afe0f7dc3b92ed.scn::
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/modular_hedge/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/modular_hedge/basic/::1779881268
+basic_4x2.fbx::PackedScene::2083370796870470114::1778587396::1779881268::1::::<><><>0<>0<>c72539acd912722a3501d61f3c50e99e<>res://godot/imported/basic_4x2.fbx-ee5c32994734734d3ef12931904bb8e3.scn::
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/modular_hedge/diagonal/::1779881268
+diagonal_1x2.fbx::PackedScene::6740801265978080543::1778587396::1779881268::1::::<><><>0<>0<>d441442d6fa98b91edcea1a0b5353dba<>res://godot/imported/diagonal_1x2.fbx-9cf408dfe2fd3dc3c6a28c2d54a0ba75.scn::
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/modular_hedge/round/::1779881268
+round_2x1_01.fbx::PackedScene::5817557329981371442::1778587396::1779881268::1::::<><><>0<>0<>911991d1d37733e54f749fbde84b70e9<>res://godot/imported/round_2x1_01.fbx-7e7bd2831632a9945cf6374e342a9343.scn::
+round_5x3_01.fbx::PackedScene::988214168738486618::1778587396::1779881268::1::::<><><>0<>0<>87974fee36f25f27e1c94e3028f95426<>res://godot/imported/round_5x3_01.fbx-c4e411bcf072bc694c405ec357ed0b61.scn::
+::res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/modular_hedge/triangle/::1779881268
+triangle_3x3.fbx::PackedScene::2572958744828757674::1778587396::1779881268::1::::<><><>0<>0<>c5ae4da30dc3c930d21dbbc67ef32398<>res://godot/imported/triangle_3x3.fbx-c8e20b6337dfd99b986bb59cc44784b4.scn::
+::res://marsupial/materials/retro3d-assets/Nature/Materials/::1779881257
+bark_3.png::CompressedTexture2D::4614613685778061706::1778587396::1779881256::1::::<><><>0<>0<>459bdb49daf344c89b95a666e8f5df0c<>res://godot/imported/bark_3.png-117b6542cf28d7e67721b58cb25164d1.ctex::
+branches.png::CompressedTexture2D::7095594568946599183::1778587396::1779881257::1::::<><><>0<>0<>c3d4830eedc8f7cbc1a5cc152b24cd95<>res://godot/imported/branches.png-da25cdaa712428e60d0ef26e4f6865d1.ctex::
+::res://marsupial/materials/retro3d-assets/Nature/Trees/::1779881268
+Trees.dae::PackedScene::6082445644540467850::1778587396::1779881268::1::::<><><>0<>0<>a5f629e4d1d64fe2dfd2d3282f2881ec<>res://godot/imported/Trees.dae-4143bbc2ca944fd59cc95b8c5564563b.scn::uid://vx77vnkv1267::::res://marsupial/materials/retro3d-assets/Nature/Trees/Wood_09.jpg
+Wood_1.jpg::CompressedTexture2D::1074084116552103772::1778587396::1779881257::1::::<><><>0<>0<>6bccdcc8b13660b9294b8e98fe53d323<>res://godot/imported/Wood_1.jpg-95998c13000af0f6d4ff443bcbd57071.ctex::
+Wood_09.jpg::CompressedTexture2D::1523447617471820362::1778587396::1779881257::1::::<><><>0<>0<>b0f966efa068edb27bb7b4adb2c0f786<>res://godot/imported/Wood_09.jpg-6455b034247e3b5d2ad4c3b3b2b4f3c0.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Nature/tree_pack_1.1/::1778587396
+::res://marsupial/materials/retro3d-assets/Nature/tree_pack_1.1/models/::1779881268
+tree04.fbx::PackedScene::4325613096060318351::1778587396::1779881268::1::::<><><>0<>0<>ce8c7ec70de83405508ef23754850fb0<>res://godot/imported/tree04.fbx-51c22dcc09e0fcb8fa51e0995c174c65.scn::
+tree07.fbx::PackedScene::6302188494424169411::1778587396::1779881268::1::::<><><>0<>0<>c857d9b13a21fe957e5bc797121927bf<>res://godot/imported/tree07.fbx-41f1f3f633c164f069d3c18c0bd3b75a.scn::
+tree25.fbx::PackedScene::5040865708889956467::1778587396::1779881268::1::::<><><>0<>0<>2981cb9cf4336ea924259aa3c2e98a2e<>res://godot/imported/tree25.fbx-3a6eb7e75f343c84e2d5ec3bbc4b018f.scn::
+::res://marsupial/materials/retro3d-assets/Nature/tree_pack_1.1/textures/::1779881257
+tree13.png::CompressedTexture2D::816402090334284965::1778587396::1779881257::1::::<><><>0<>0<>6af7dc42ce0d4f9e45bc8606f1cef6d4<>res://godot/imported/tree13.png-193d8dbf0a0284210db61c20691f2ac5.ctex::
+tree18.png::CompressedTexture2D::3126340242122788452::1778587396::1779881257::1::::<><><>0<>0<>7fb07fef91dd9b84c649f71ef61456a2<>res://godot/imported/tree18.png-4851ecb99a72b1490c9c64ebf9b9e97c.ctex::
+tree26.png::CompressedTexture2D::8091872696357101167::1778587396::1779881257::1::::<><><>0<>0<>aad8db5f8dfe16589fbd4d01a77dc08b<>res://godot/imported/tree26.png-18f2cd15d8aa2780b1c2ea0024064f3e.ctex::
+tree35.png::CompressedTexture2D::1535545885573404921::1778587396::1779881257::1::::<><><>0<>0<>44ca4142c538db2c91719575bf294c8f<>res://godot/imported/tree35.png-72a6591fa7e712a78c25bd239622ccf5.ctex::
+::res://marsupial/materials/retro3d-assets/Panels/::1779881272
+panel_misc.blend::PackedScene::1651819342978517863::1778587396::1779881272::1::::<><><>0<>0<>1d0a75c9a369d65e6f70cca52695dd5b<>res://godot/imported/panel_misc.blend-a6edfa6025eb5786f14d8a56e9320fff.scn::
+::res://marsupial/materials/retro3d-assets/Panels/Materials/::1779881257
+gauge_pressure.png::CompressedTexture2D::3385454941743917367::1778587396::1779881257::1::::<><><>0<>0<>c87fc0eaf7549ed2bd4a5910ba2d80b7<>res://godot/imported/gauge_pressure.png-b3f2889c86ddbe8948b6c907119c5c54.ctex::
+panel_thermostat.png::CompressedTexture2D::5544464691421391222::1778587396::1779881256::1::::<><><>0<>0<>30336ce4c31e3303e7129a3ace3ba455<>res://godot/imported/panel_thermostat.png-eaf19f0c147ee8eaf0a29e8060163747.ctex::
+::res://marsupial/materials/retro3d-assets/Panels/textures/::1779881256
+panel_misc.png::CompressedTexture2D::4634194938388586057::1779869955::1779881256::1::::<><><>0<>0<>216106ce48d43f8dc76f6a90ea406fda<>res://godot/imported/panel_misc.png-40d5af5b7d28bcca9e6a5a3f3ce3c44d.ctex::
+::res://marsupial/materials/retro3d-assets/Papers/::1778587396
+::res://marsupial/materials/retro3d-assets/Papers/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/png/::1779881257
+Brick_1.png::CompressedTexture2D::6233729105230830219::1778587396::1779881256::1::::<><><>0<>0<>318925ec455a8322db895351d2a25c63<>res://godot/imported/Brick_1.png-4224ee4e90b0b46fcc8af5ff441fdb12.ctex::
+CRATE_1F.png::CompressedTexture2D::941535422652010606::1778587396::1779881256::1::::<><><>0<>0<>fa0d063efd8c872541ad351690b318ea<>res://godot/imported/CRATE_1F.png-60bb6b3064026f3d26d8f62ccb0302ea.ctex::
+CRATE_1H.png::CompressedTexture2D::5891565757351221105::1778587396::1779881256::1::::<><><>0<>0<>1015517676ae5080f777b01db0bc35c3<>res://godot/imported/CRATE_1H.png-2ff0cda851fbbfa928cb7a5c553ad264.ctex::
+CRATE_1M.png::CompressedTexture2D::2143352819970042414::1778587396::1779881256::1::::<><><>0<>0<>e9e1e958f7e2ef6cea2da1ac57fcb319<>res://godot/imported/CRATE_1M.png-f68de30d0b35a754054f2f4a57e33c1f.ctex::
+CRATE_1N.png::CompressedTexture2D::6490952931343066477::1778587396::1779881256::1::::<><><>0<>0<>dd907bef67b9ea3c9267d033c12abf2c<>res://godot/imported/CRATE_1N.png-812a4528fe8d5185f649552dd033ca7f.ctex::
+CRATE_2D.png::CompressedTexture2D::6089918314883468112::1778587396::1779881256::1::::<><><>0<>0<>76ab1c87c9b431c4c362f8454204c590<>res://godot/imported/CRATE_2D.png-422695a46a08a3ae2ea18b72c9727576.ctex::
+Dead_Ground.png::CompressedTexture2D::8201573954668530297::1778587396::1779881256::1::::<><><>0<>0<>213c09c2e020a121827996c3289f9d2d<>res://godot/imported/Dead_Ground.png-c01ae78d8d0860bf002f3cf49b898cb3.ctex::
+FLOOR_1A.png::CompressedTexture2D::8606382568357504481::1778587396::1779881256::1::::<><><>0<>0<>a015443ddec7210b141554dc5410ef67<>res://godot/imported/FLOOR_1A.png-739471fc2cca1442e1c24031de0b0ddd.ctex::
+HEDGE_1C.png::CompressedTexture2D::3421370124193531505::1778587396::1779881256::1::::<><><>0<>0<>3d6d497b49315997be40c5ad666659af<>res://godot/imported/HEDGE_1C.png-0b9320adb33e75c2149fc227fb6c4d35.ctex::
+LAB_3B.png::CompressedTexture2D::4746195226035095661::1778587396::1779881256::1::::<><><>0<>0<>d7ea748b6d4f6a978c8e4c312c4503a3<>res://godot/imported/LAB_3B.png-c6cb52217128e48878f7a405f76c44de.ctex::
+LIGHT_1C.png::CompressedTexture2D::7892545666613655849::1778587396::1779881256::1::::<><><>0<>0<>de6af9d0bd4ce93622405acba92f0447<>res://godot/imported/LIGHT_1C.png-8cd9caf9d5e2657c46ac3bd58e6b8872.ctex::
+PIPES_1B.png::CompressedTexture2D::5928005400156072639::1778587396::1779881256::1::::<><><>0<>0<>15a83099ce0227acbb0ceea25f8ed3dd<>res://godot/imported/PIPES_1B.png-baab4423c4a146250436f8a552a51f9b.ctex::
+PIPES_2A.png::CompressedTexture2D::3152793311416740616::1778587396::1779881256::1::::<><><>0<>0<>a0fffd3979ba39165d63469c8043980c<>res://godot/imported/PIPES_2A.png-12ff7a777c026d45cc552bc216c65dcc.ctex::
+STEEL_2A.png::CompressedTexture2D::4260428570007055953::1778587396::1779881256::1::::<><><>0<>0<>8f243bfade166ba81629c3cb26149060<>res://godot/imported/STEEL_2A.png-eddfd5f2b605e11e2e4d68ed960f01e7.ctex::
+SUPPORT_3A.png::CompressedTexture2D::5946121008638141393::1778587396::1779881256::1::::<><><>0<>0<>a5e96608764add9d15170ca824978fa5<>res://godot/imported/SUPPORT_3A.png-be4ddf5a7eee905f77bb08aa3c16a36b.ctex::
+SUPPORT_7A.png::CompressedTexture2D::8483197097213260337::1778587396::1779881256::1::::<><><>0<>0<>13234648b3fd6934468e35da1e63f865<>res://godot/imported/SUPPORT_7A.png-4d1e3cff8f33001bf95e39ee79449fa1.ctex::
+TECH_1A.png::CompressedTexture2D::8786543089916245425::1778587396::1779881256::1::::<><><>0<>0<>e4bb3fdc04fed86b15b59589d68bc247<>res://godot/imported/TECH_1A.png-7c42a5e9e8c720f2f5a0621d13bc0dfd.ctex::
+TILE_1F.png::CompressedTexture2D::2495110200190823017::1778587396::1779881256::1::::<><><>0<>0<>1d8256009a74885989b26a8006e28e5c<>res://godot/imported/TILE_1F.png-3b60f69a4922d266291cc8bc1299febf.ctex::
+TILE_2B.png::CompressedTexture2D::6040578226715793302::1778587396::1779881256::1::::<><><>0<>0<>1e37f7bc34ff2d603d7ca9c70eecce01<>res://godot/imported/TILE_2B.png-8249667821d8d3ebf764dd35abefe0f5.ctex::
+TILE_3E.png::CompressedTexture2D::4974266664952253422::1778587396::1779881257::1::::<><><>0<>0<>084cda05b725b807eadbba19d679066a<>res://godot/imported/TILE_3E.png-ee70c350265d1d59c7f293b2a327a7f5.ctex::
+TILE_3F.png::CompressedTexture2D::818525275783539703::1778587396::1779881257::1::::<><><>0<>0<>d08ed59c3d5435b29ea4dd9fdaf25dd3<>res://godot/imported/TILE_3F.png-af9748511795be797827da5eae561a92.ctex::
+::res://marsupial/materials/retro3d-assets/Products/::1778587396
+::res://marsupial/materials/retro3d-assets/Products/Comida low poly/::1778587396
+::res://marsupial/materials/retro3d-assets/Products/Foods/::1778587396
+::res://marsupial/materials/retro3d-assets/Products/Foods/Textures/::1779881257
+Foods_02.jpg::CompressedTexture2D::5358961567593881408::1778587396::1779881257::1::::<><><>0<>0<>f5d570ca612625707b8896bc7ee2d2eb<>res://godot/imported/Foods_02.jpg-72260fb93ce90f5051c55f467c852247.ctex::
+::res://marsupial/materials/retro3d-assets/Products/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Products/Vending Machines/::1779881257
+M (3).png::CompressedTexture2D::2717081572700357618::1778587396::1779881257::1::::<><><>0<>0<>41da71ae47e76412df167c65bbe19637<>res://godot/imported/M (3).png-9d693bd07b696880860b86a751eadd0d.ctex::
+M (7).png::CompressedTexture2D::7466961354361547952::1778587396::1779881257::1::::<><><>0<>0<>56d4e166c09f1115640fbf6a7a6fc649<>res://godot/imported/M (7).png-6d4a1d3feb8d9ef51a63253a6d0194d8.ctex::
+::res://marsupial/materials/retro3d-assets/Road/::1778587396
+::res://marsupial/materials/retro3d-assets/Road/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Road/Roads/::1778587396
+::res://marsupial/materials/retro3d-assets/Road/Roads/Models/::1779881257
+T (6).jpg::CompressedTexture2D::5014001631389492113::1778587396::1779881257::1::::<><><>0<>0<>f91111175cdda445e94ef2308d774e03<>res://godot/imported/T (6).jpg-408e412f980899b2d5d685711fd3f3db.ctex::
+T (16).jpg::CompressedTexture2D::5762426135923517556::1778587396::1779881257::1::::<><><>0<>0<>2f8c2f55bfe7086d9c2fd1055e341ce6<>res://godot/imported/T (16).jpg-a7e581205c83760753a267f973c7ccd8.ctex::
+::res://marsupial/materials/retro3d-assets/Road/Roads/Textures/::1779881257
+Ar (1).png::CompressedTexture2D::8841899941010730560::1778587396::1779881257::1::::<><><>0<>0<>59f70b88f8c5be16c920a99811292ff1<>res://godot/imported/Ar (1).png-a92d88421128a45e8c87edf90cd7551e.ctex::
+Ar (4).png::CompressedTexture2D::7274984088729791345::1778587396::1779881257::1::::<><><>0<>0<>81f03f33472a4077947d31201de3a5b7<>res://godot/imported/Ar (4).png-645a602a54358bd4d4d3e00b222a017a.ctex::
+Ar (5).png::CompressedTexture2D::5144036095756025190::1778587396::1779881257::1::::<><><>0<>0<>247877d9998faa07b3f3ec5d4a039b62<>res://godot/imported/Ar (5).png-758fcef6c38438a5b5d799a31280cd1d.ctex::
+T (11).jpg::CompressedTexture2D::5906685394680982474::1778587396::1779881257::1::::<><><>0<>0<>0f9ec48f1bbba9914b14e6bca5546369<>res://godot/imported/T (11).jpg-98356415fc79456486c826b74bc26293.ctex::
+::res://marsupial/materials/retro3d-assets/Road/Road_barriers/::1778587396
+::res://marsupial/materials/retro3d-assets/Road/Road_barriers/Models/::1779881261
+road_barrier_broken.fbx::PackedScene::8295219574625734502::1778587396::1779881261::1::::<><><>0<>0<>6d4d6313efad733265dffc5ac9ce791c<>res://godot/imported/road_barrier_broken.fbx-d30acadd42e649467675cc7edbc46077.scn::
+::res://marsupial/materials/retro3d-assets/Road/Road_barriers/Textures/::1778587396
+::res://marsupial/materials/retro3d-assets/Road/Rocas/::1778587396
+::res://marsupial/materials/retro3d-assets/Rocks/::1778587396
+::res://marsupial/materials/retro3d-assets/Rocks/Materials/::1779881257
+cobblestone.png::CompressedTexture2D::3221907436826022387::1778587396::1779881257::1::::<><><>0<>0<>9aa31006fd77f59f6f615a9191aaea60<>res://godot/imported/cobblestone.png-f05469285008ecb15fc794ad50572f86.ctex::
+rock_gravel_2.png::CompressedTexture2D::4968937479546021026::1778587396::1779881257::1::::<><><>0<>0<>74038ec1aa6c936aac8aa6260db9f9ce<>res://godot/imported/rock_gravel_2.png-43cdb9a8e6d985569c629a3a51ecec45.ctex::
+rock_gravel_3.png::CompressedTexture2D::3479448106233142052::1778587396::1779881257::1::::<><><>0<>0<>b866a3a82537ec90562cfaf45bf7e725<>res://godot/imported/rock_gravel_3.png-7dd14e512c42d181518769f8a251e349.ctex::
+::res://marsupial/materials/retro3d-assets/Roof/::1778587396
+::res://marsupial/materials/retro3d-assets/Roof/Materials/::1779881257
+shingles_02.jpg::CompressedTexture2D::3168882510888011301::1778587396::1779881257::1::::<><><>0<>0<>937cccc434c1df866d38cee51622edf3<>res://godot/imported/shingles_02.jpg-8c9498840f5ac74c05df2900ef9ad364.ctex::
+::res://marsupial/materials/retro3d-assets/Signs/::1779881260
+sign_nosmoking.blend::PackedScene::1642275601185213872::1778587396::1779881260::1::::<><><>0<>0<>6a94060484097892957c24453e8292f5<>res://godot/imported/sign_nosmoking.blend-528eb1214968e6740c0988b08e5546eb.scn::
+sign_reserved_parking.blend::PackedScene::1157032116776735225::1778587396::1779881260::1::::<><><>0<>0<>752dc6d1fdaec6714afd6fd609a0d0d4<>res://godot/imported/sign_reserved_parking.blend-40b1aebca8b1f9302cc3883cb433aea0.scn::
+::res://marsupial/materials/retro3d-assets/Signs/Materials/::1779881257
+sign_hazard_01.png::CompressedTexture2D::7672810157452517315::1778587396::1779881257::1::::<><><>0<>0<>6f54bc5ef5cf6952623f41287cb48d6e<>res://godot/imported/sign_hazard_01.png-efdc9ec244371fcf4288b27ceaecbdf0.ctex::
+sign_no_parking_01.png::CompressedTexture2D::6399750345377661045::1778587396::1779881257::1::::<><><>0<>0<>a57799a9174886cf53b7af0a12911516<>res://godot/imported/sign_no_parking_01.png-ed52a2cf472a5d51a6110c2038793a79.ctex::
+sign_no_smoking_01.png::CompressedTexture2D::3946416605191220412::1778587396::1779881257::1::::<><><>0<>0<>8b8ff9009efdc17b10271c3e8fd97318<>res://godot/imported/sign_no_smoking_01.png-d7f64c63847ff9b3f969d4b60c253c19.ctex::
+sign_plaque_01.jpg::CompressedTexture2D::3946485320476371378::1778587396::1779881257::1::::<><><>0<>0<>e2ddf29143333d2581181dcf7439dfa0<>res://godot/imported/sign_plaque_01.jpg-577f619d8fc3587aa9ebe96de921e9fe.ctex::
+::res://marsupial/materials/retro3d-assets/Signs/textures/::1779881257
+sign_reserved_parking.png::CompressedTexture2D::236852696393677814::1779869938::1779881257::1::::<><><>0<>0<>13d42a90321619b07a6cf0042c1fa8d4<>res://godot/imported/sign_reserved_parking.png-87cb7e6573802337168526b2dd96bfb6.ctex::
+::res://marsupial/materials/retro3d-assets/Tech/::1779881257
+monitores_5.png::CompressedTexture2D::6955980060117395511::1778587396::1779881257::1::::<><><>0<>0<>7edc879443bb2f882d23e2a9cfee3d1b<>res://godot/imported/monitores_5.png-2a18eb5e7f84be7d018eca9fd54bc118.ctex::
+monitores_13.png::CompressedTexture2D::6749532765440213160::1778587396::1779881257::1::::<><><>0<>0<>16262e2730a1e8ecdc9998172e05f45d<>res://godot/imported/monitores_13.png-12a63ea4fcb9f083390f060da7065269.ctex::
+::res://marsupial/materials/retro3d-assets/Tech/Entertainment/::1778587396
+::res://marsupial/materials/retro3d-assets/Tech/Entertainment/Textures/::1779881257
+Metal.jpg.001.jpg::CompressedTexture2D::5852864695983278868::1778587396::1779881257::1::::<><><>0<>0<>91df69fe109943326424a68294552e6f<>res://godot/imported/Metal.jpg.001.jpg-4e67910a419ae7b3e1424f9aa6b1dd4d.ctex::
+::res://marsupial/materials/retro3d-assets/Tech/radio/::1778587396
+::res://marsupial/materials/retro3d-assets/Tech/radio2/::1778587396
+::res://marsupial/materials/retro3d-assets/Tech/rotary_phone/::1778587396
+::res://marsupial/materials/retro3d-assets/Tiles/::1778587396
+::res://marsupial/materials/retro3d-assets/Tiles/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Tools/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/Dieselpunk Tanks/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/forklift/::1779881267
+forklift.glb::PackedScene::8847474357955971627::1778587396::1779881267::1::::<><><>0<>0<>69effcc66739e71e0c6650f46025a906<>res://godot/imported/forklift.glb-d2123dfd0368f68cba216b9d95e94cbc.scn::uid://dfyta6ejfh5vv::::res://marsupial/materials/retro3d-assets/Vehicles/forklift/forklift_forkliftt_cc0.png
+forklift_forkliftt_cc0.png::CompressedTexture2D::7560906593048445695::1779869935::1779881257::1::::<><><>0<>0<>9b118c3fbecc54040ae4b2ac6836edfd<>res://godot/imported/forklift_forkliftt_cc0.png-95511561f602e525f7dca404d085cd8f.s3tc.ctex::
+::res://marsupial/materials/retro3d-assets/Vehicles/Materials/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 01/::1779881258
+Car.obj::Mesh::5114445338311100826::1778587396::1779881258::1::::<><><>0<>0<>a4d199bc42714e3d55776af38e7d2a6f<>res://godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh<*>res://godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh::
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 02/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 03/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 04/::1779881257
+car4_lightgrey.png::CompressedTexture2D::7580196628947530864::1778587396::1779881257::1::::<><><>0<>0<>35b4f3162eed731a1bf6679a92bc2208<>res://godot/imported/car4_lightgrey.png-5d0e0107761bc5cbf946084b2a20b97c.ctex::
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 05/::1779881258
+Car5.obj::Mesh::4241389511470392322::1778587396::1779881258::1::::<><><>0<>0<>7ddebc673eb842143639bcd62c77aa52<>res://godot/imported/Car5.obj-37a82815a78279cb7254884bbb751bcc.mesh<*>res://godot/imported/Car5.obj-37a82815a78279cb7254884bbb751bcc.mesh::
+car5.png::CompressedTexture2D::102466674123793967::1778587396::1779881257::1::::<><><>0<>0<>3f7c44546dc92055d902c6912e88c5cc<>res://godot/imported/car5.png-3671471f5b04e38df7372be33e979b31.ctex::
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 07/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Shadow (3D)/::1778587396
+::res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Sound effects/::1779881256
+Car_Engine_Start_Up.ogg::AudioStreamOggVorbis::2234552533947687300::1778587396::1779881256::1::::<><><>0<>0<>f0d3eaa5d27d988e667a64408047437b<>res://godot/imported/Car_Engine_Start_Up.ogg-1e4f82de219d9e88243c68bfbcbcc5f1.oggvorbisstr::
+::res://marsupial/materials/retro3d-assets/Vehicles/Train and Railway/::1778587396
+::res://marsupial/materials/retro3d-assets/Video_games/::1778587396
+::res://marsupial/materials/retro3d-assets/Video_games/Free_PSX_Case_Template/::1778587396
+::res://marsupial/materials/retro3d-assets/Video_games/Free_PSX_Case_Template/Blank Templates/::1778587396
+::res://marsupial/materials/retro3d-assets/Video_games/Free_PSX_Case_Template/Example Art/::1778587396
+::res://marsupial/materials/retro3d-assets/Walls/::1778587396
+::res://marsupial/materials/retro3d-assets/Walls/Materials/::1779881257
+siding_white_02.jpg::CompressedTexture2D::6079429399544317415::1778587396::1779881257::1::::<><><>0<>0<>8f69cc4129ead4e2ca4c0d901728920d<>res://godot/imported/siding_white_02.jpg-9154061c99354af078d3a6b2cb2fa0e3.ctex::
+wall_halfconcrete_02.png::CompressedTexture2D::648644437123451996::1778587396::1779881257::1::::<><><>0<>0<>8a66d9cf50186249423b4de005141098<>res://godot/imported/wall_halfconcrete_02.png-2005c3b48086074c123150a5df42d5cb.ctex::
+wall_halfconcrete_04.png::CompressedTexture2D::5330434098520514347::1778587396::1779881257::1::::<><><>0<>0<>c54d13452872c0f138cc6334a6931fc8<>res://godot/imported/wall_halfconcrete_04.png-a78a162f969c642589a8e4f90bdb9b57.ctex::
+::res://marsupial/materials/retro3d-assets/Water/::1779881257
+water_waves.png::CompressedTexture2D::8906755226696054778::1778587396::1779881257::1::::<><><>0<>0<>acfb7ec4adfc3cd4d1a74c640d79076f<>res://godot/imported/water_waves.png-16e81dbae2de34fcdfaab7dcf60e4550.ctex::
+::res://marsupial/materials/retro3d-assets/Weapons/::1778587396
+::res://marsupial/materials/retro3d-assets/Weapons/Guns/::1778587396
+::res://marsupial/materials/retro3d-assets/Weapons/Guns/You see Ivan Pack/::1778587396
+::res://marsupial/materials/retro3d-assets/Weapons/Guns/You see Ivan Pack/textures/::1779881257
+sniper.png::CompressedTexture2D::4155084941751188716::1778587396::1779881257::1::::<><><>0<>0<>be2aef80e910b21901dd0399141b0950<>res://godot/imported/sniper.png-b0eb247eb523df3ea729b98757916c43.ctex::
+::res://marsupial/materials/retro3d-assets/Weapons/Heavy Weapons Pack/::1779881262
+weaponPack.blend::PackedScene::917481236078726982::1778587396::1779881262::1::::<><><>0<>0<>a484a3c6abf4822ea3a9db565f450f7f<>res://godot/imported/weaponPack.blend-7a9d8c88543e5e35b75366a835b42248.scn::
+::res://marsupial/materials/retro3d-assets/Weapons/MedievalWeaponsPack/::1778587396
+::res://marsupial/materials/retro3d-assets/Windows/::1778587396
+::res://marsupial/materials/retro3d-assets/Windows/Materials/::1779881257
+window_boarded.png::CompressedTexture2D::8108063708764984807::1778587396::1779881257::1::::<><><>0<>0<>877d6f3a82a336795c1bab16fac81a6a<>res://godot/imported/window_boarded.png-9cb1c3436ecbf5c7fe26d9a6b9cf8e1a.ctex::
+window_modern_02.jpg::CompressedTexture2D::5791623672133249536::1778587396::1779881257::1::::<><><>0<>0<>cc952b168b5f1692524f84d9823478e2<>res://godot/imported/window_modern_02.jpg-219def821a5ee7954bd1e7b2661e0f0c.ctex::
+window_modern_04.jpg::CompressedTexture2D::6536837449824356004::1778587396::1779881257::1::::<><><>0<>0<>81cc63e0a33f5c6505cd79dc69029acb<>res://godot/imported/window_modern_04.jpg-aee828d3e10ad2a0cb67db820ccd699c.ctex::
+window_wood_old_02.jpg::CompressedTexture2D::1132255157672316975::1778587396::1779881257::1::::<><><>0<>0<>4ce987982f2288a49a691e74f32cd4ae<>res://godot/imported/window_wood_old_02.jpg-c87f2ac2c58cff87f87fec446533cfe8.ctex::
+::res://marsupial/materials/retro3d-assets/Wood/::1778587396
+::res://marsupial/materials/retro3d-assets/Wood/Materials/::1779881257
+wood_plank_charred.jpg::CompressedTexture2D::4081341215124811212::1778587396::1779881257::1::::<><><>0<>0<>3187ee9c108ba4a5bb3895fc0c146f08<>res://godot/imported/wood_plank_charred.jpg-e8b6851686a7642c5131628457b63740.ctex::
+wood_plywood.png::CompressedTexture2D::4342551465435519470::1778587396::1779881257::1::::<><><>0<>0<>f48787d14b9d90b8cc28e638797db327<>res://godot/imported/wood_plywood.png-61c73239153ba5f91caf4f19323bb2e5.ctex::
+wood_plywood_green.png::CompressedTexture2D::6095697758715926352::1778587396::1779881257::1::::<><><>0<>0<>744894466db39d8ed73d05ac9b91a611<>res://godot/imported/wood_plywood_green.png-c3c2ff4034012afb9dfefdc961da392e.ctex::
+wood_plywood_red.png::CompressedTexture2D::552814176259239213::1778587396::1779881257::1::::<><><>0<>0<>a8c25316ae510b06d4952278a7917eb2<>res://godot/imported/wood_plywood_red.png-b381a32761aa05c285e576cbb8b35dc7.ctex::
+wood_pole_01.jpg::CompressedTexture2D::1879734009486806920::1778587396::1779881257::1::::<><><>0<>0<>3140dca08179889c48f240f7741c70b3<>res://godot/imported/wood_pole_01.jpg-d95f1caf83de092f865db59251f74aa9.ctex::
+wood_rustic_2.png::CompressedTexture2D::4242882307539750653::1778587396::1779881257::1::::<><><>0<>0<>913214aeb0c112e0ccd5627c145a6ba5<>res://godot/imported/wood_rustic_2.png-0d9b2d7471c2ac5d688aa247be7d59bc.ctex::
+::res://marsupial/materials/textures/::1778587396
+::res://marsupial/models/::1778587396
+::res://marsupial/models/archive/::1778587396
+::res://marsupial/models/props/::1778587396
+::res://marsupial/models/props/colorado_barrier/::1779881258
+colorado_barrier.obj::Mesh::2145009495507001459::1778587396::1779881258::1::::<><><>0<>0<>2621d5a95a1dd5bf6a49c9d3c34eef31<>res://godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh<*>res://godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh::
+::res://marsupial/models/props/filing_cabinet/::1778587396
+::res://marsupial/models/props/lightbulb_01/::1779881258
+lightbulb_01.fbx::PackedScene::3403032876597296244::1778587396::1779881258::1::::<><><>0<>0<>ee5e7e98dcb0b3d210504673b3726666<>res://godot/imported/lightbulb_01.fbx-4cd0adaf818c36e09b9e0948d4244183.scn::
+::res://marsupial/models/props/lightbulb_01 (2)/::1779881260
+lightbulb_01.glb::PackedScene::1644496278729582420::1778587396::1779881260::1::::<><><>0<>0<>b2fed970931f7323255d5a16d2fdba1e<>res://godot/imported/lightbulb_01.glb-fb8dcce0fd5f4b83b23766b4e6f72f2d.scn::
+::res://marsupial/ringtail/::1779882103
+::res://marsupial/scripts/::1779869925
+player.gd::GDScript::800596539545263734::1778587396::0::1::::<>CharacterBody3D<><>0<>0<><>::
+::res://rust/::1778680845
+README.md::TextFile::-1::1778587396::0::1::::<><><>0<>0<><>::
+::res://rust/playground/::1778764240
+::res://rust/playground/guessing_game/::1778764275
+Cargo.toml::TextFile::-1::1778764240::0::1::::<><><>0<>0<><>::
+::res://rust/playground/guessing_game/src/::1778764668
+::res://rust/playground/guessing_game/target/::1778764276
+::res://rust/playground/guessing_game/target/debug/::1778764275
+::res://rust/playground/guessing_game/target/debug/build/::1778764275
+::res://rust/playground/guessing_game/target/debug/deps/::1778764704
+::res://rust/playground/guessing_game/target/debug/examples/::1778764275
+::res://rust/playground/guessing_game/target/debug/incremental/::1778764704
+::res://rust/playground/guessing_game/target/debug/incremental/guessing_game-0sipgs0w3h14k/::1778764704
+::res://rust/playground/guessing_game/target/debug/incremental/guessing_game-0sipgs0w3h14k/s-hiip82qzvz-1czk7rc-working/::1778764704
+::res://rust/playground/guessing_game/target/debug/incremental/guessing_game-376y9tuydbqr3/::1778764619
+::res://rust/playground/guessing_game/target/debug/incremental/guessing_game-376y9tuydbqr3/s-hiip6nvcxj-1bv0tdy-working/::1778764619
+::res://rust/playground/hello_world/::1778681185
+Cargo.toml::TextFile::-1::1778681158::0::1::::<><><>0<>0<><>::
+::res://rust/playground/hello_world/src/::1778681158
+::res://rust/playground/hello_world/target/::1778681185
+::res://rust/playground/hello_world/target/debug/::1778681185
+::res://rust/playground/hello_world/target/debug/build/::1778681185
+::res://rust/playground/hello_world/target/debug/deps/::1778681185
+::res://rust/playground/hello_world/target/debug/examples/::1778681185
+::res://rust/playground/hello_world/target/debug/incremental/::1778681185
+::res://rust/playground/hello_world/target/debug/incremental/hello_world-0oaw1y4moltm0/::1778681185
+::res://rust/playground/hello_world/target/debug/incremental/hello_world-0oaw1y4moltm0/s-hihmutpwqg-019rls9-f3kcm16lznv72tom75qi5den9/::1778681185
+::res://rust/rhizome/::1778680865
+Cargo.toml::TextFile::-1::1778680865::0::1::::<><><>0<>0<><>::
+::res://rust/rhizome/src/::1778680865

@@ -1,0 +1,32 @@
+[gd_scene format=3 uid="uid://dh1f8df2hgfmh"]
+
+[ext_resource type="Script" uid="uid://dsrlmeom7ug3q" path="res://marsupial/scripts/mouse_capture.gd" id="1_y2uns"]
+
+[sub_resource type="PlaceholderMesh" id="PlaceholderMesh_3oxip"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_2e2fy"]
+size = Vector3(0.4, 1.7, 0.4)
+
+[node name="vessel" type="Node3D" unique_id=1038943822]
+
+[node name="form" type="CharacterBody3D" parent="." unique_id=1343581209]
+
+[node name="shape" type="MeshInstance3D" parent="form" unique_id=1564224999]
+mesh = SubResource("PlaceholderMesh_3oxip")
+
+[node name="touch" type="CollisionShape3D" parent="form" unique_id=318972937]
+unique_name_in_owner = true
+auto_translate_mode = 2
+shape = SubResource("BoxShape3D_2e2fy")
+debug_color = Color(1, 0, 0, 1)
+debug_fill = false
+
+[node name="head" type="Node3D" parent="." unique_id=60005165]
+
+[node name="eyes" type="Camera3D" parent="head" unique_id=482402541]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.7, 0)
+
+[node name="organs" type="Node3D" parent="." unique_id=1803697758]
+
+[node name="mouse_capture" type="Node3D" parent="organs" unique_id=1641961165]
+script = ExtResource("1_y2uns")

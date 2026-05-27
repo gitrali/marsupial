@@ -1,0 +1,14 @@
+Node3D
+Camera3D
+MeshInstance3D
+CollisionShape3D
+CharacterBody3D
+WorldEnvironment
+Button
+MarginContainer
+Label
+RichTextLabel
+FlowContainer
+Panel
+CenterContainer
+Container

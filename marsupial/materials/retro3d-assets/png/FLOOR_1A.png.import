@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duu84mgyjictd"
-path="res://.godot/imported/FLOOR_1A.png-739471fc2cca1442e1c24031de0b0ddd.ctex"
+path="res://godot/imported/FLOOR_1A.png-739471fc2cca1442e1c24031de0b0ddd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/png/FLOOR_1A.png"
-dest_files=["res://.godot/imported/FLOOR_1A.png-739471fc2cca1442e1c24031de0b0ddd.ctex"]
+dest_files=["res://godot/imported/FLOOR_1A.png-739471fc2cca1442e1c24031de0b0ddd.ctex"]
 
 [params]
 

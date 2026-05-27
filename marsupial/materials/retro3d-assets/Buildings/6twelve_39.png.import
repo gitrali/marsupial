@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://barxvfxtaogjx"
-path.s3tc="res://.godot/imported/6twelve_39.png-8d198f5c3eed8ae96c3c3c12a960ef42.s3tc.ctex"
+path.s3tc="res://godot/imported/6twelve_39.png-8d198f5c3eed8ae96c3c3c12a960ef42.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/6twelve_39.png"
-dest_files=["res://.godot/imported/6twelve_39.png-8d198f5c3eed8ae96c3c3c12a960ef42.s3tc.ctex"]
+dest_files=["res://godot/imported/6twelve_39.png-8d198f5c3eed8ae96c3c3c12a960ef42.s3tc.ctex"]
 
 [params]
 
