@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cl0d6gc44xss0"
-path="res://godot/imported/drink_can_soda_2.glb-2ad1bd425108907a56f339b4a7e2532c.scn"
+path="res://.godot/imported/drink_can_soda_2.glb-2ad1bd425108907a56f339b4a7e2532c.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Food/drink_can_soda_2.glb"
-dest_files=["res://godot/imported/drink_can_soda_2.glb-2ad1bd425108907a56f339b4a7e2532c.scn"]
+dest_files=["res://.godot/imported/drink_can_soda_2.glb-2ad1bd425108907a56f339b4a7e2532c.scn"]
 
 [params]
 

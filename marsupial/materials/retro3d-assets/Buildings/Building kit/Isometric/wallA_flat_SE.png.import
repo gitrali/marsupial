@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coru1ulebg0bp"
-path="res://godot/imported/wallA_flat_SE.png-9cdb92c0210fb89a5161534b5c88bb24.ctex"
+path="res://.godot/imported/wallA_flat_SE.png-9cdb92c0210fb89a5161534b5c88bb24.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Isometric/wallA_flat_SE.png"
-dest_files=["res://godot/imported/wallA_flat_SE.png-9cdb92c0210fb89a5161534b5c88bb24.ctex"]
+dest_files=["res://.godot/imported/wallA_flat_SE.png-9cdb92c0210fb89a5161534b5c88bb24.ctex"]
 
 [params]
 

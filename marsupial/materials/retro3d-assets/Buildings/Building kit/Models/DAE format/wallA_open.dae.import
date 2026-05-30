@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://co2targj608fg"
-path="res://godot/imported/wallA_open.dae-4a1e7e82fbaa67186c2b5c192ff194b4.scn"
+path="res://.godot/imported/wallA_open.dae-4a1e7e82fbaa67186c2b5c192ff194b4.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/DAE format/wallA_open.dae"
-dest_files=["res://godot/imported/wallA_open.dae-4a1e7e82fbaa67186c2b5c192ff194b4.scn"]
+dest_files=["res://.godot/imported/wallA_open.dae-4a1e7e82fbaa67186c2b5c192ff194b4.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://3an2bl0j6dlo"
-path="res://godot/imported/roadAsphalt_damaged.glb-b95933e0094185b2c376c582a7c6283c.scn"
+path="res://.godot/imported/roadAsphalt_damaged.glb-b95933e0094185b2c376c582a7c6283c.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/roadAsphalt_damaged.glb"
-dest_files=["res://godot/imported/roadAsphalt_damaged.glb-b95933e0094185b2c376c582a7c6283c.scn"]
+dest_files=["res://.godot/imported/roadAsphalt_damaged.glb-b95933e0094185b2c376c582a7c6283c.scn"]
 
 [params]
 

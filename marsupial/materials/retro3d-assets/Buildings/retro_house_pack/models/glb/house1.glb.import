@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bgttwjdtk7hgr"
-path="res://godot/imported/house1.glb-6cef1f9247f132d77a0e27dbaf48892f.scn"
+path="res://.godot/imported/house1.glb-6cef1f9247f132d77a0e27dbaf48892f.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/models/glb/house1.glb"
-dest_files=["res://godot/imported/house1.glb-6cef1f9247f132d77a0e27dbaf48892f.scn"]
+dest_files=["res://.godot/imported/house1.glb-6cef1f9247f132d77a0e27dbaf48892f.scn"]
 
 [params]
 

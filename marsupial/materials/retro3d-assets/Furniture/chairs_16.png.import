@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cg5eamm8g3xjd"
-path.s3tc="res://godot/imported/chairs_16.png-273b736af0e16b487a5f73ecaa57c801.s3tc.ctex"
+path.s3tc="res://.godot/imported/chairs_16.png-273b736af0e16b487a5f73ecaa57c801.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Furniture/chairs_16.png"
-dest_files=["res://godot/imported/chairs_16.png-273b736af0e16b487a5f73ecaa57c801.s3tc.ctex"]
+dest_files=["res://.godot/imported/chairs_16.png-273b736af0e16b487a5f73ecaa57c801.s3tc.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://qqqfdkn5p75f"
-path="res://godot/imported/sign_reserved_parking.blend-40b1aebca8b1f9302cc3883cb433aea0.scn"
+path="res://.godot/imported/sign_reserved_parking.blend-40b1aebca8b1f9302cc3883cb433aea0.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Signs/sign_reserved_parking.blend"
-dest_files=["res://godot/imported/sign_reserved_parking.blend-40b1aebca8b1f9302cc3883cb433aea0.scn"]
+dest_files=["res://.godot/imported/sign_reserved_parking.blend-40b1aebca8b1f9302cc3883cb433aea0.scn"]
 
 [params]
 

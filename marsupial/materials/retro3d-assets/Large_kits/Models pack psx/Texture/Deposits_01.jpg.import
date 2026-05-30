@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dn83naolkjiu5"
-path="res://godot/imported/Deposits_01.jpg-54306049ef0ff311fe8c4a7e6555abef.ctex"
+path="res://.godot/imported/Deposits_01.jpg-54306049ef0ff311fe8c4a7e6555abef.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/Texture/Deposits_01.jpg"
-dest_files=["res://godot/imported/Deposits_01.jpg-54306049ef0ff311fe8c4a7e6555abef.ctex"]
+dest_files=["res://.godot/imported/Deposits_01.jpg-54306049ef0ff311fe8c4a7e6555abef.ctex"]
 
 [params]
 

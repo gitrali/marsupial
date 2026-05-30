@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://edwrlx8ychdg"
-path="res://godot/imported/wallSteps_typeA_concrete.png-3c11b82c4cfee96f14993f16b3435e5c.ctex"
+path="res://.godot/imported/wallSteps_typeA_concrete.png-3c11b82c4cfee96f14993f16b3435e5c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallSteps_typeA_concrete.png"
-dest_files=["res://godot/imported/wallSteps_typeA_concrete.png-3c11b82c4cfee96f14993f16b3435e5c.ctex"]
+dest_files=["res://.godot/imported/wallSteps_typeA_concrete.png-3c11b82c4cfee96f14993f16b3435e5c.ctex"]
 
 [params]
 

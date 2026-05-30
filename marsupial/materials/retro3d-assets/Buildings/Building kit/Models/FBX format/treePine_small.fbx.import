@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bqel0luuxbs6f"
-path="res://godot/imported/treePine_small.fbx-15068bbe21e710bb8f2bdd871830cf39.scn"
+path="res://.godot/imported/treePine_small.fbx-15068bbe21e710bb8f2bdd871830cf39.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/FBX format/treePine_small.fbx"
-dest_files=["res://godot/imported/treePine_small.fbx-15068bbe21e710bb8f2bdd871830cf39.scn"]
+dest_files=["res://.godot/imported/treePine_small.fbx-15068bbe21e710bb8f2bdd871830cf39.scn"]
 
 [params]
 

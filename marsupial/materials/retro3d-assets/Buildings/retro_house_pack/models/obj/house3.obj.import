@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://53ni3drr7n1w"
-path="res://godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh"
+path="res://.godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh"
 
 [deps]
 
-files=["res://godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh"]
+files=["res://.godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh"]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/models/obj/house3.obj"
-dest_files=["res://godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh", "res://godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh"]
+dest_files=["res://.godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh", "res://.godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh"]
 
 [params]
 

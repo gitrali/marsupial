@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0vt00gntbjou"
-path="res://godot/imported/Hand_dryer.png-72fc78aab0dba02c8a095b069a07e6b1.ctex"
+path="res://.godot/imported/Hand_dryer.png-72fc78aab0dba02c8a095b069a07e6b1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/DINER/Textures/Hand_dryer.png"
-dest_files=["res://godot/imported/Hand_dryer.png-72fc78aab0dba02c8a095b069a07e6b1.ctex"]
+dest_files=["res://.godot/imported/Hand_dryer.png-72fc78aab0dba02c8a095b069a07e6b1.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yv04hf04md77"
-path="res://godot/imported/armchair_9.jpg-962643369e23a16bf315294582f05bb0.ctex"
+path="res://.godot/imported/armchair_9.jpg-962643369e23a16bf315294582f05bb0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Furniture/armchair_9.jpg"
-dest_files=["res://godot/imported/armchair_9.jpg-962643369e23a16bf315294582f05bb0.ctex"]
+dest_files=["res://.godot/imported/armchair_9.jpg-962643369e23a16bf315294582f05bb0.ctex"]
 
 [params]
 

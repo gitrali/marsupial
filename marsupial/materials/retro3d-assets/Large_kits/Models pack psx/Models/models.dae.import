@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://l066hwjdxukd"
-path="res://godot/imported/models.dae-8c304446c9efe61ad22888f0769e589c.scn"
+path="res://.godot/imported/models.dae-8c304446c9efe61ad22888f0769e589c.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/Models/models.dae"
-dest_files=["res://godot/imported/models.dae-8c304446c9efe61ad22888f0769e589c.scn"]
+dest_files=["res://.godot/imported/models.dae-8c304446c9efe61ad22888f0769e589c.scn"]
 
 [params]
 

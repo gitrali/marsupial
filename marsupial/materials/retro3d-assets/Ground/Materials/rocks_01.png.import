@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dukuc355oio10"
-path="res://godot/imported/rocks_01.png-7131e36110675cf5237dfb8b43589b53.ctex"
+path="res://.godot/imported/rocks_01.png-7131e36110675cf5237dfb8b43589b53.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Ground/Materials/rocks_01.png"
-dest_files=["res://godot/imported/rocks_01.png-7131e36110675cf5237dfb8b43589b53.ctex"]
+dest_files=["res://.godot/imported/rocks_01.png-7131e36110675cf5237dfb8b43589b53.ctex"]
 
 [params]
 

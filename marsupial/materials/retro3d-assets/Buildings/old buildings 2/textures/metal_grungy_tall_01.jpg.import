@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br55hp18j7l5n"
-path.s3tc="res://godot/imported/metal_grungy_tall_01.jpg-c4b5410572b06723d44b4a3767406574.s3tc.ctex"
+path.s3tc="res://.godot/imported/metal_grungy_tall_01.jpg-c4b5410572b06723d44b4a3767406574.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/metal_grungy_tall_01.jpg"
-dest_files=["res://godot/imported/metal_grungy_tall_01.jpg-c4b5410572b06723d44b4a3767406574.s3tc.ctex"]
+dest_files=["res://.godot/imported/metal_grungy_tall_01.jpg-c4b5410572b06723d44b4a3767406574.s3tc.ctex"]
 
 [params]
 

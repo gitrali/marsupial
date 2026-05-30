@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brt51jlb57fvs"
-path="res://godot/imported/outlet.jpg-c0dd8738d371c2c7b5c488fb5639a4f8.ctex"
+path="res://.godot/imported/outlet.jpg-c0dd8738d371c2c7b5c488fb5639a4f8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Misc/Materials/outlet.jpg"
-dest_files=["res://godot/imported/outlet.jpg-c0dd8738d371c2c7b5c488fb5639a4f8.ctex"]
+dest_files=["res://.godot/imported/outlet.jpg-c0dd8738d371c2c7b5c488fb5639a4f8.ctex"]
 
 [params]
 

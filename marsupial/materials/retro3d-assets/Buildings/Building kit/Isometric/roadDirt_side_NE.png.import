@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c33yn3g8frrdn"
-path="res://godot/imported/roadDirt_side_NE.png-3ad69745931d3780a9a4f344a414a1fd.ctex"
+path="res://.godot/imported/roadDirt_side_NE.png-3ad69745931d3780a9a4f344a414a1fd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Isometric/roadDirt_side_NE.png"
-dest_files=["res://godot/imported/roadDirt_side_NE.png-3ad69745931d3780a9a4f344a414a1fd.ctex"]
+dest_files=["res://.godot/imported/roadDirt_side_NE.png-3ad69745931d3780a9a4f344a414a1fd.ctex"]
 
 [params]
 

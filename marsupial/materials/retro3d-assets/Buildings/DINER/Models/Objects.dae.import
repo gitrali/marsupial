@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cbjki7bdt648w"
-path="res://godot/imported/Objects.dae-1d05291d68d3a9bcc3c1ea9dd9075735.scn"
+path="res://.godot/imported/Objects.dae-1d05291d68d3a9bcc3c1ea9dd9075735.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/DINER/Models/Objects.dae"
-dest_files=["res://godot/imported/Objects.dae-1d05291d68d3a9bcc3c1ea9dd9075735.scn"]
+dest_files=["res://.godot/imported/Objects.dae-1d05291d68d3a9bcc3c1ea9dd9075735.scn"]
 
 [params]
 

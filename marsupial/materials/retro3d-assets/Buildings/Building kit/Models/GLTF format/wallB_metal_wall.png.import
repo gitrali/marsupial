@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw2d0ryk0686u"
-path.s3tc="res://godot/imported/wallB_metal_wall.png-ef529cdaff92fb3c68053c47af2a2ec6.s3tc.ctex"
+path.s3tc="res://.godot/imported/wallB_metal_wall.png-ef529cdaff92fb3c68053c47af2a2ec6.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallB_metal_wall.png"
-dest_files=["res://godot/imported/wallB_metal_wall.png-ef529cdaff92fb3c68053c47af2a2ec6.s3tc.ctex"]
+dest_files=["res://.godot/imported/wallB_metal_wall.png-ef529cdaff92fb3c68053c47af2a2ec6.s3tc.ctex"]
 
 [params]
 

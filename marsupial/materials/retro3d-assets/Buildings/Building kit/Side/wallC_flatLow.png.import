@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du0nvm4f4rvuc"
-path="res://godot/imported/wallC_flatLow.png-28415e2ac557b6b168aeb96aae1187e3.ctex"
+path="res://.godot/imported/wallC_flatLow.png-28415e2ac557b6b168aeb96aae1187e3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Side/wallC_flatLow.png"
-dest_files=["res://godot/imported/wallC_flatLow.png-28415e2ac557b6b168aeb96aae1187e3.ctex"]
+dest_files=["res://.godot/imported/wallC_flatLow.png-28415e2ac557b6b168aeb96aae1187e3.ctex"]
 
 [params]
 

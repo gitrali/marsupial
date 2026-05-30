@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpmsssu45srhc"
-path="res://godot/imported/Boxs_04.jpg-2a087243b3d6024a4be1c305f8aaad2d.ctex"
+path="res://.godot/imported/Boxs_04.jpg-2a087243b3d6024a4be1c305f8aaad2d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/Texture/Boxs_04.jpg"
-dest_files=["res://godot/imported/Boxs_04.jpg-2a087243b3d6024a4be1c305f8aaad2d.ctex"]
+dest_files=["res://.godot/imported/Boxs_04.jpg-2a087243b3d6024a4be1c305f8aaad2d.ctex"]
 
 [params]
 

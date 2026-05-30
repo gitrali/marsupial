@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cvs3ta7vbyf1n"
-path="res://godot/imported/treePine_small.dae-dc3bb7c271125816cf67e15a6220f1fd.scn"
+path="res://.godot/imported/treePine_small.dae-dc3bb7c271125816cf67e15a6220f1fd.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/DAE format/treePine_small.dae"
-dest_files=["res://godot/imported/treePine_small.dae-dc3bb7c271125816cf67e15a6220f1fd.scn"]
+dest_files=["res://.godot/imported/treePine_small.dae-dc3bb7c271125816cf67e15a6220f1fd.scn"]
 
 [params]
 

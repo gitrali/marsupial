@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc2f1cubj0lho"
-path.s3tc="res://godot/imported/door_double_brown_left.png-8e2fec2441732abf1c14cf41346761e4.s3tc.ctex"
+path.s3tc="res://.godot/imported/door_double_brown_left.png-8e2fec2441732abf1c14cf41346761e4.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/door_double_brown_left.png"
-dest_files=["res://godot/imported/door_double_brown_left.png-8e2fec2441732abf1c14cf41346761e4.s3tc.ctex"]
+dest_files=["res://.godot/imported/door_double_brown_left.png-8e2fec2441732abf1c14cf41346761e4.s3tc.ctex"]
 
 [params]
 

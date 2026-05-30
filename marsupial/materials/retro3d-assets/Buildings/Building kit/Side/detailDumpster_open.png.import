@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxie3u3iw2ucr"
-path="res://godot/imported/detailDumpster_open.png-ee5f1edc086f04351a676c5441e46916.ctex"
+path="res://.godot/imported/detailDumpster_open.png-ee5f1edc086f04351a676c5441e46916.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Side/detailDumpster_open.png"
-dest_files=["res://godot/imported/detailDumpster_open.png-ee5f1edc086f04351a676c5441e46916.ctex"]
+dest_files=["res://.godot/imported/detailDumpster_open.png-ee5f1edc086f04351a676c5441e46916.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqptnatp0xbn0"
-path="res://godot/imported/PIPES_1B.png-baab4423c4a146250436f8a552a51f9b.ctex"
+path="res://.godot/imported/PIPES_1B.png-baab4423c4a146250436f8a552a51f9b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/png/PIPES_1B.png"
-dest_files=["res://godot/imported/PIPES_1B.png-baab4423c4a146250436f8a552a51f9b.ctex"]
+dest_files=["res://.godot/imported/PIPES_1B.png-baab4423c4a146250436f8a552a51f9b.ctex"]
 
 [params]
 

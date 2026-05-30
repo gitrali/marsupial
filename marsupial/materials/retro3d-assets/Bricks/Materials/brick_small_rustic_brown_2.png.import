@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5mbqbkw12jtj"
-path="res://godot/imported/brick_small_rustic_brown_2.png-6472b6a4f8e5cd305aeb0c8a2ba9a473.ctex"
+path="res://.godot/imported/brick_small_rustic_brown_2.png-6472b6a4f8e5cd305aeb0c8a2ba9a473.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Bricks/Materials/brick_small_rustic_brown_2.png"
-dest_files=["res://godot/imported/brick_small_rustic_brown_2.png-6472b6a4f8e5cd305aeb0c8a2ba9a473.ctex"]
+dest_files=["res://.godot/imported/brick_small_rustic_brown_2.png-6472b6a4f8e5cd305aeb0c8a2ba9a473.ctex"]
 
 [params]
 

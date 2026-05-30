@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddr16n4tksfv8"
-path="res://godot/imported/door_pushbar.blend-f665a4c56e7f0d51210a6191bebbc017.scn"
+path="res://.godot/imported/door_pushbar.blend-f665a4c56e7f0d51210a6191bebbc017.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Doors/door_pushbar.blend"
-dest_files=["res://godot/imported/door_pushbar.blend-f665a4c56e7f0d51210a6191bebbc017.scn"]
+dest_files=["res://.godot/imported/door_pushbar.blend-f665a4c56e7f0d51210a6191bebbc017.scn"]
 
 [params]
 

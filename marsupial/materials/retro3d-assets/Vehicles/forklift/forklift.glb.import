@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dyb1u0he5o8xj"
-path="res://godot/imported/forklift.glb-d2123dfd0368f68cba216b9d95e94cbc.scn"
+path="res://.godot/imported/forklift.glb-d2123dfd0368f68cba216b9d95e94cbc.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Vehicles/forklift/forklift.glb"
-dest_files=["res://godot/imported/forklift.glb-d2123dfd0368f68cba216b9d95e94cbc.scn"]
+dest_files=["res://.godot/imported/forklift.glb-d2123dfd0368f68cba216b9d95e94cbc.scn"]
 
 [params]
 

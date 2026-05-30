@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://duxg644yvosdh"
-path="res://godot/imported/Chairs.fbx-74429d0bc02d5bd1da3203deb0f7b163.scn"
+path="res://.godot/imported/Chairs.fbx-74429d0bc02d5bd1da3203deb0f7b163.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Furniture/Chairs/Models/Chairs.fbx"
-dest_files=["res://godot/imported/Chairs.fbx-74429d0bc02d5bd1da3203deb0f7b163.scn"]
+dest_files=["res://.godot/imported/Chairs.fbx-74429d0bc02d5bd1da3203deb0f7b163.scn"]
 
 [params]
 

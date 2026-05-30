@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://ce4qfxvd2xi8q"
-path="res://godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh"
+path="res://.godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh"
 
 [deps]
 
-files=["res://godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh"]
+files=["res://.godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh"]
 
 source_file="res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 01/Car.obj"
-dest_files=["res://godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh", "res://godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh"]
+dest_files=["res://.godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh", "res://.godot/imported/Car.obj-d6efe38414098e6bfcd1301ace872118.mesh"]
 
 [params]
 

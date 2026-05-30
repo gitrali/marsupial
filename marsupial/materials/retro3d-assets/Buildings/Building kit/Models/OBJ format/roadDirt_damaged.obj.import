@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://dkve0ogufbpv1"
-path="res://godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh"
+path="res://.godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh"
 
 [deps]
 
-files=["res://godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh"]
+files=["res://.godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh"]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/roadDirt_damaged.obj"
-dest_files=["res://godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh", "res://godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh"]
+dest_files=["res://.godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh", "res://.godot/imported/roadDirt_damaged.obj-7e0b70f86264a3b915d03f8f2640904d.mesh"]
 
 [params]
 

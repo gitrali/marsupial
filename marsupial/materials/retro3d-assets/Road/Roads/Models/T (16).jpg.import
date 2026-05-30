@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://codmk068n0s25"
-path="res://godot/imported/T (16).jpg-a7e581205c83760753a267f973c7ccd8.ctex"
+path="res://.godot/imported/T (16).jpg-a7e581205c83760753a267f973c7ccd8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Road/Roads/Models/T (16).jpg"
-dest_files=["res://godot/imported/T (16).jpg-a7e581205c83760753a267f973c7ccd8.ctex"]
+dest_files=["res://.godot/imported/T (16).jpg-a7e581205c83760753a267f973c7ccd8.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkphcrtbjgtq4"
-path="res://godot/imported/LIGHT_1C.png-8cd9caf9d5e2657c46ac3bd58e6b8872.ctex"
+path="res://.godot/imported/LIGHT_1C.png-8cd9caf9d5e2657c46ac3bd58e6b8872.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/png/LIGHT_1C.png"
-dest_files=["res://godot/imported/LIGHT_1C.png-8cd9caf9d5e2657c46ac3bd58e6b8872.ctex"]
+dest_files=["res://.godot/imported/LIGHT_1C.png-8cd9caf9d5e2657c46ac3bd58e6b8872.ctex"]
 
 [params]
 

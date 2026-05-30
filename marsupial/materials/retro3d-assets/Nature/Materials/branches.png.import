@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8dfn2gmkrn6v"
-path="res://godot/imported/branches.png-da25cdaa712428e60d0ef26e4f6865d1.ctex"
+path="res://.godot/imported/branches.png-da25cdaa712428e60d0ef26e4f6865d1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Materials/branches.png"
-dest_files=["res://godot/imported/branches.png-da25cdaa712428e60d0ef26e4f6865d1.ctex"]
+dest_files=["res://.godot/imported/branches.png-da25cdaa712428e60d0ef26e4f6865d1.ctex"]
 
 [params]
 

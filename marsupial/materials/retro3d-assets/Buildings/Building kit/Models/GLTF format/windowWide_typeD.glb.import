@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dfckkv2ahn8gm"
-path="res://godot/imported/windowWide_typeD.glb-bb41fe7275d497d52662bd5a733a42a3.scn"
+path="res://.godot/imported/windowWide_typeD.glb-bb41fe7275d497d52662bd5a733a42a3.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/windowWide_typeD.glb"
-dest_files=["res://godot/imported/windowWide_typeD.glb-bb41fe7275d497d52662bd5a733a42a3.scn"]
+dest_files=["res://.godot/imported/windowWide_typeD.glb-bb41fe7275d497d52662bd5a733a42a3.scn"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc5yowlt1bh3k"
-path.s3tc="res://godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.s3tc.ctex"
+path.s3tc="res://.godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/exports/trees/pine_tree_pine_lowres.png"
-dest_files=["res://godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.s3tc.ctex"]
+dest_files=["res://.godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.s3tc.ctex"]
 
 [params]
 

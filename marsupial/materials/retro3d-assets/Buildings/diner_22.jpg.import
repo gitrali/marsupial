@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl71lenyo8ubf"
-path.s3tc="res://godot/imported/diner_22.jpg-0cd55b93531f8002f0b6d8f1ce28bbe4.s3tc.ctex"
+path.s3tc="res://.godot/imported/diner_22.jpg-0cd55b93531f8002f0b6d8f1ce28bbe4.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/diner_22.jpg"
-dest_files=["res://godot/imported/diner_22.jpg-0cd55b93531f8002f0b6d8f1ce28bbe4.s3tc.ctex"]
+dest_files=["res://.godot/imported/diner_22.jpg-0cd55b93531f8002f0b6d8f1ce28bbe4.s3tc.ctex"]
 
 [params]
 

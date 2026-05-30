@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://xuuhaaatj8s2"
-path="res://godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh"
+path="res://.godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh"
 
 [deps]
 
-files=["res://godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh"]
+files=["res://.godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh"]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/detailBarrier_typeA.obj"
-dest_files=["res://godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh", "res://godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh"]
+dest_files=["res://.godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh", "res://.godot/imported/detailBarrier_typeA.obj-4775858676a0eafc71fe8dd5c53319ea.mesh"]
 
 [params]
 

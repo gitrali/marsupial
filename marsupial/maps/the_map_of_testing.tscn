@@ -1,11 +1,11 @@
 [gd_scene format=3 uid="uid://c1uicryrfn8pb"]
 
 [ext_resource type="Texture2D" uid="uid://ctfurmjeixihb" path="res://marsupial/materials/prototype textures (THANKS KENNY!!)/PNG/Dark/texture_04.png" id="1_4a88b"]
-[ext_resource type="Texture2D" uid="uid://d14s41v5pnxpn" path="res://splash.png" id="2_6gix8"]
+[ext_resource type="Texture2D" uid="uid://d14s41v5pnxpn" path="res://marsupial/splash.png" id="2_6gix8"]
 [ext_resource type="Texture2D" uid="uid://cc5yowlt1bh3k" path="res://marsupial/materials/retro3d-assets/Nature/exports/trees/pine_tree_pine_lowres.png" id="2_kn42s"]
 [ext_resource type="ArrayMesh" uid="uid://ce4qfxvd2xi8q" path="res://marsupial/materials/retro3d-assets/Vehicles/PSX_Style_Cars_by_GGBot_(September2022)/Car 01/Car.obj" id="3_kn42s"]
 [ext_resource type="ArrayMesh" uid="uid://bpoh46a6jorpm" path="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/detailBricks_typeA.obj" id="4_2alsn"]
-[ext_resource type="Texture2D" uid="uid://86v0lvve46on" path="res://icon.png" id="5_8dt5h"]
+[ext_resource type="Texture2D" uid="uid://86v0lvve46on" path="res://marsupial/icon.png" id="5_8dt5h"]
 [ext_resource type="ArrayMesh" uid="uid://briyw1q6d3ybp" path="res://marsupial/materials/retro3d-assets/Nature/capybara_model/capybara.obj" id="6_55sxy"]
 
 [sub_resource type="Environment" id="Environment_6gix8"]

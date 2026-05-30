@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc4tpexaumocs"
-path="res://godot/imported/TILE_3E.png-ee70c350265d1d59c7f293b2a327a7f5.ctex"
+path="res://.godot/imported/TILE_3E.png-ee70c350265d1d59c7f293b2a327a7f5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/png/TILE_3E.png"
-dest_files=["res://godot/imported/TILE_3E.png-ee70c350265d1d59c7f293b2a327a7f5.ctex"]
+dest_files=["res://.godot/imported/TILE_3E.png-ee70c350265d1d59c7f293b2a327a7f5.ctex"]
 
 [params]
 

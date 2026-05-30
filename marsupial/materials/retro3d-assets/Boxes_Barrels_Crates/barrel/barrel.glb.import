@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgy5xbltqqahq"
-path="res://godot/imported/barrel.glb-ed599c9c46f2a8ee65c92d4f2c6657cf.scn"
+path="res://.godot/imported/barrel.glb-ed599c9c46f2a8ee65c92d4f2c6657cf.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/barrel/barrel.glb"
-dest_files=["res://godot/imported/barrel.glb-ed599c9c46f2a8ee65c92d4f2c6657cf.scn"]
+dest_files=["res://.godot/imported/barrel.glb-ed599c9c46f2a8ee65c92d4f2c6657cf.scn"]
 
 [params]
 

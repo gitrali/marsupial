@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://byypkxwc1gi8e"
-path="res://godot/imported/Cabinet.blend-a89c65a5efe44a3f31a82c1221913e8f.scn"
+path="res://.godot/imported/Cabinet.blend-a89c65a5efe44a3f31a82c1221913e8f.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Furniture/Cabinet/Cabinet.blend"
-dest_files=["res://godot/imported/Cabinet.blend-a89c65a5efe44a3f31a82c1221913e8f.scn"]
+dest_files=["res://.godot/imported/Cabinet.blend-a89c65a5efe44a3f31a82c1221913e8f.scn"]
 
 [params]
 

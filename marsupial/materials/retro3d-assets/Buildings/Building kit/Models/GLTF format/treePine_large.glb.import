@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://btsgkkgwg4jfw"
-path="res://godot/imported/treePine_large.glb-321d6a2ac266b9f2747e605945b73fcf.scn"
+path="res://.godot/imported/treePine_large.glb-321d6a2ac266b9f2747e605945b73fcf.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/treePine_large.glb"
-dest_files=["res://godot/imported/treePine_large.glb-321d6a2ac266b9f2747e605945b73fcf.scn"]
+dest_files=["res://.godot/imported/treePine_large.glb-321d6a2ac266b9f2747e605945b73fcf.scn"]
 
 [params]
 

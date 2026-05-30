@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cd0f44ktk5mj2"
-path="res://godot/imported/Killer_01.fbx-dbc13b9552e0260077567d835e4dfe8e.scn"
+path="res://.godot/imported/Killer_01.fbx-dbc13b9552e0260077567d835e4dfe8e.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Characters/Killer_01/Killer_01.fbx"
-dest_files=["res://godot/imported/Killer_01.fbx-dbc13b9552e0260077567d835e4dfe8e.scn"]
+dest_files=["res://.godot/imported/Killer_01.fbx-dbc13b9552e0260077567d835e4dfe8e.scn"]
 
 [params]
 

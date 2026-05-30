@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://w44mvpyfvnr1"
-path="res://godot/imported/vase5.fbx-3f97ea8083e8a1e6aa61ea9ba0867b5d.scn"
+path="res://.godot/imported/vase5.fbx-3f97ea8083e8a1e6aa61ea9ba0867b5d.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/flowers/vase5.fbx"
-dest_files=["res://godot/imported/vase5.fbx-3f97ea8083e8a1e6aa61ea9ba0867b5d.scn"]
+dest_files=["res://.godot/imported/vase5.fbx-3f97ea8083e8a1e6aa61ea9ba0867b5d.scn"]
 
 [params]
 

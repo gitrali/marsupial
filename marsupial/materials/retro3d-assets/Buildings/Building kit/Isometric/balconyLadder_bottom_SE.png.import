@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://pwyy2ddiev7c"
-path="res://godot/imported/balconyLadder_bottom_SE.png-14d4e22ac882791f320ee861d2714dad.ctex"
+path="res://.godot/imported/balconyLadder_bottom_SE.png-14d4e22ac882791f320ee861d2714dad.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Isometric/balconyLadder_bottom_SE.png"
-dest_files=["res://godot/imported/balconyLadder_bottom_SE.png-14d4e22ac882791f320ee861d2714dad.ctex"]
+dest_files=["res://.godot/imported/balconyLadder_bottom_SE.png-14d4e22ac882791f320ee861d2714dad.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xsfhucomuau6"
-path="res://godot/imported/panel_misc.blend-a6edfa6025eb5786f14d8a56e9320fff.scn"
+path="res://.godot/imported/panel_misc.blend-a6edfa6025eb5786f14d8a56e9320fff.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Panels/panel_misc.blend"
-dest_files=["res://godot/imported/panel_misc.blend-a6edfa6025eb5786f14d8a56e9320fff.scn"]
+dest_files=["res://.godot/imported/panel_misc.blend-a6edfa6025eb5786f14d8a56e9320fff.scn"]
 
 [params]
 

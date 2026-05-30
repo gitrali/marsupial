@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://lwo7ycjobn74"
-path="res://godot/imported/wallB_roof_roof_plates.png-8d4cef08b3237103519493c195bbe3cd.ctex"
+path="res://.godot/imported/wallB_roof_roof_plates.png-8d4cef08b3237103519493c195bbe3cd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallB_roof_roof_plates.png"
-dest_files=["res://godot/imported/wallB_roof_roof_plates.png-8d4cef08b3237103519493c195bbe3cd.ctex"]
+dest_files=["res://.godot/imported/wallB_roof_roof_plates.png-8d4cef08b3237103519493c195bbe3cd.ctex"]
 
 [params]
 

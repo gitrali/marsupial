@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vx77vnkv1267"
-path.s3tc="res://godot/imported/Wood_09.jpg-6455b034247e3b5d2ad4c3b3b2b4f3c0.s3tc.ctex"
+path.s3tc="res://.godot/imported/Wood_09.jpg-6455b034247e3b5d2ad4c3b3b2b4f3c0.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Trees/Wood_09.jpg"
-dest_files=["res://godot/imported/Wood_09.jpg-6455b034247e3b5d2ad4c3b3b2b4f3c0.s3tc.ctex"]
+dest_files=["res://.godot/imported/Wood_09.jpg-6455b034247e3b5d2ad4c3b3b2b4f3c0.s3tc.ctex"]
 
 [params]
 

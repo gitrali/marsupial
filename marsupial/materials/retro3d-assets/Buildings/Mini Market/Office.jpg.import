@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b383esln6j04a"
-path="res://godot/imported/Office.jpg-53beeb90c8b0482064debfedeca11827.ctex"
+path="res://.godot/imported/Office.jpg-53beeb90c8b0482064debfedeca11827.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Mini Market/Office.jpg"
-dest_files=["res://godot/imported/Office.jpg-53beeb90c8b0482064debfedeca11827.ctex"]
+dest_files=["res://.godot/imported/Office.jpg-53beeb90c8b0482064debfedeca11827.ctex"]
 
 [params]
 

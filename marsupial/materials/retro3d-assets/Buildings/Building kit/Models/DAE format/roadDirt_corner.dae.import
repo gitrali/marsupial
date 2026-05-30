@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://u5tq2hei3e12"
-path="res://godot/imported/roadDirt_corner.dae-17d7d16b94f006856886ae398a9afe2b.scn"
+path="res://.godot/imported/roadDirt_corner.dae-17d7d16b94f006856886ae398a9afe2b.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/DAE format/roadDirt_corner.dae"
-dest_files=["res://godot/imported/roadDirt_corner.dae-17d7d16b94f006856886ae398a9afe2b.scn"]
+dest_files=["res://.godot/imported/roadDirt_corner.dae-17d7d16b94f006856886ae398a9afe2b.scn"]
 
 [params]
 

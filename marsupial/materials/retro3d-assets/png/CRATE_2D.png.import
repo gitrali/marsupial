@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs1acha0o7n57"
-path="res://godot/imported/CRATE_2D.png-422695a46a08a3ae2ea18b72c9727576.ctex"
+path="res://.godot/imported/CRATE_2D.png-422695a46a08a3ae2ea18b72c9727576.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/png/CRATE_2D.png"
-dest_files=["res://godot/imported/CRATE_2D.png-422695a46a08a3ae2ea18b72c9727576.ctex"]
+dest_files=["res://.godot/imported/CRATE_2D.png-422695a46a08a3ae2ea18b72c9727576.ctex"]
 
 [params]
 

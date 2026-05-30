@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxgjc0uc8id50"
-path="res://godot/imported/TECH_1A.png-7c42a5e9e8c720f2f5a0621d13bc0dfd.ctex"
+path="res://.godot/imported/TECH_1A.png-7c42a5e9e8c720f2f5a0621d13bc0dfd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/png/TECH_1A.png"
-dest_files=["res://godot/imported/TECH_1A.png-7c42a5e9e8c720f2f5a0621d13bc0dfd.ctex"]
+dest_files=["res://.godot/imported/TECH_1A.png-7c42a5e9e8c720f2f5a0621d13bc0dfd.ctex"]
 
 [params]
 

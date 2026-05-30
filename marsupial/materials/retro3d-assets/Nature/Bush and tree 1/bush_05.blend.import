@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bwmxidtjndb4g"
-path="res://godot/imported/bush_05.blend-edf6f0b300bf4d6dafd99159062a374f.scn"
+path="res://.godot/imported/bush_05.blend-edf6f0b300bf4d6dafd99159062a374f.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Bush and tree 1/bush_05.blend"
-dest_files=["res://godot/imported/bush_05.blend-edf6f0b300bf4d6dafd99159062a374f.scn"]
+dest_files=["res://.godot/imported/bush_05.blend-edf6f0b300bf4d6dafd99159062a374f.scn"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://blyelocqt04y0"
-path.s3tc="res://godot/imported/texture_05.svg-96e68fc1137e043db99f72b68bdc8d37.s3tc.ctex"
+path.s3tc="res://.godot/imported/texture_05.svg-96e68fc1137e043db99f72b68bdc8d37.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/prototype textures (THANKS KENNY!!)/Vector/texture_05.svg"
-dest_files=["res://godot/imported/texture_05.svg-96e68fc1137e043db99f72b68bdc8d37.s3tc.ctex"]
+dest_files=["res://.godot/imported/texture_05.svg-96e68fc1137e043db99f72b68bdc8d37.s3tc.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buye0uxfv18i1"
-path.s3tc="res://godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.s3tc.ctex"
+path.s3tc="res://.godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/roadAsphalt_damaged_asphalt.png"
-dest_files=["res://godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.s3tc.ctex"]
+dest_files=["res://.godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.s3tc.ctex"]
 
 [params]
 

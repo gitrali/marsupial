@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1juailr1amuf"
-path="res://godot/imported/Cardboard.jpg-6440197df4705046b109ca2aaf3923ff.ctex"
+path="res://.godot/imported/Cardboard.jpg-6440197df4705046b109ca2aaf3923ff.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/Texture/Cardboard.jpg"
-dest_files=["res://godot/imported/Cardboard.jpg-6440197df4705046b109ca2aaf3923ff.ctex"]
+dest_files=["res://.godot/imported/Cardboard.jpg-6440197df4705046b109ca2aaf3923ff.ctex"]
 
 [params]
 

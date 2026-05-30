@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dgirmelvcjqpw"
-path="res://godot/imported/building_07.2.fbx-0a53b9ba3241b5f1551312732bd9d116.scn"
+path="res://.godot/imported/building_07.2.fbx-0a53b9ba3241b5f1551312732bd9d116.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/skyscraper_pack/models/building_07.2.fbx"
-dest_files=["res://godot/imported/building_07.2.fbx-0a53b9ba3241b5f1551312732bd9d116.scn"]
+dest_files=["res://.godot/imported/building_07.2.fbx-0a53b9ba3241b5f1551312732bd9d116.scn"]
 
 [params]
 

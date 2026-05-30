@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://kqxbrxovai0d"
-path="res://godot/imported/box_01.blend-f5325f32c6e1d2af53e078fc2d2b7be3.scn"
+path="res://.godot/imported/box_01.blend-f5325f32c6e1d2af53e078fc2d2b7be3.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/Boxes/box_01.blend"
-dest_files=["res://godot/imported/box_01.blend-f5325f32c6e1d2af53e078fc2d2b7be3.scn"]
+dest_files=["res://.godot/imported/box_01.blend-f5325f32c6e1d2af53e078fc2d2b7be3.scn"]
 
 [params]
 

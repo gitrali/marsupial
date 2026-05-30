@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://btn2c4i5hwte6"
-path="res://godot/imported/diner.glb-d53e9ce124e2a44d6dece74378467962.scn"
+path="res://.godot/imported/diner.glb-d53e9ce124e2a44d6dece74378467962.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/diner.glb"
-dest_files=["res://godot/imported/diner.glb-d53e9ce124e2a44d6dece74378467962.scn"]
+dest_files=["res://.godot/imported/diner.glb-d53e9ce124e2a44d6dece74378467962.scn"]
 
 [params]
 

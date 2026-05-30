@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bnqnalorjjpt6"
-path="res://godot/imported/fence2_single_gate.fbx-771afde437741c99e824d78e79098a5d.scn"
+path="res://.godot/imported/fence2_single_gate.fbx-771afde437741c99e824d78e79098a5d.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/fences/fence2_single_gate.fbx"
-dest_files=["res://godot/imported/fence2_single_gate.fbx-771afde437741c99e824d78e79098a5d.scn"]
+dest_files=["res://.godot/imported/fence2_single_gate.fbx-771afde437741c99e824d78e79098a5d.scn"]
 
 [params]
 

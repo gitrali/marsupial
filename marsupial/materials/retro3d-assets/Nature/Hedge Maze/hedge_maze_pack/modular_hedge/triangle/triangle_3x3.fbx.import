@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bcwmiwlk8vij7"
-path="res://godot/imported/triangle_3x3.fbx-c8e20b6337dfd99b986bb59cc44784b4.scn"
+path="res://.godot/imported/triangle_3x3.fbx-c8e20b6337dfd99b986bb59cc44784b4.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/modular_hedge/triangle/triangle_3x3.fbx"
-dest_files=["res://godot/imported/triangle_3x3.fbx-c8e20b6337dfd99b986bb59cc44784b4.scn"]
+dest_files=["res://.godot/imported/triangle_3x3.fbx-c8e20b6337dfd99b986bb59cc44784b4.scn"]
 
 [params]
 

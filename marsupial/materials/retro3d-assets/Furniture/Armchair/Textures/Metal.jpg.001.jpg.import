@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bg2ex1l5wumvh"
-path="res://godot/imported/Metal.jpg.001.jpg-1f042d1c3213edcaf5f32f7b8c91b4c0.ctex"
+path="res://.godot/imported/Metal.jpg.001.jpg-1f042d1c3213edcaf5f32f7b8c91b4c0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Furniture/Armchair/Textures/Metal.jpg.001.jpg"
-dest_files=["res://godot/imported/Metal.jpg.001.jpg-1f042d1c3213edcaf5f32f7b8c91b4c0.ctex"]
+dest_files=["res://.godot/imported/Metal.jpg.001.jpg-1f042d1c3213edcaf5f32f7b8c91b4c0.ctex"]
 
 [params]
 

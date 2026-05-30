@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://co0j1nvinhwec"
-path.s3tc="res://godot/imported/window_modern.png-6261d57783dc2ed541df99b001c65ddc.s3tc.ctex"
+path.s3tc="res://.godot/imported/window_modern.png-6261d57783dc2ed541df99b001c65ddc.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/window_modern.png"
-dest_files=["res://godot/imported/window_modern.png-6261d57783dc2ed541df99b001c65ddc.s3tc.ctex"]
+dest_files=["res://.godot/imported/window_modern.png-6261d57783dc2ed541df99b001c65ddc.s3tc.ctex"]
 
 [params]
 

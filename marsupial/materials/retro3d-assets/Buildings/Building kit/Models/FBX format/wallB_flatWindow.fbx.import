@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddor3rw0rqac5"
-path="res://godot/imported/wallB_flatWindow.fbx-929d60bd85108d9ad20a5475f27bb5e7.scn"
+path="res://.godot/imported/wallB_flatWindow.fbx-929d60bd85108d9ad20a5475f27bb5e7.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/FBX format/wallB_flatWindow.fbx"
-dest_files=["res://godot/imported/wallB_flatWindow.fbx-929d60bd85108d9ad20a5475f27bb5e7.scn"]
+dest_files=["res://.godot/imported/wallB_flatWindow.fbx-929d60bd85108d9ad20a5475f27bb5e7.scn"]
 
 [params]
 

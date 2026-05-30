@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bij4x6a4pfqqa"
-path="res://godot/imported/balconyLadder_top.dae-2f671c1264bc8415b26a08015160341a.scn"
+path="res://.godot/imported/balconyLadder_top.dae-2f671c1264bc8415b26a08015160341a.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/DAE format/balconyLadder_top.dae"
-dest_files=["res://godot/imported/balconyLadder_top.dae-2f671c1264bc8415b26a08015160341a.scn"]
+dest_files=["res://.godot/imported/balconyLadder_top.dae-2f671c1264bc8415b26a08015160341a.scn"]
 
 [params]
 

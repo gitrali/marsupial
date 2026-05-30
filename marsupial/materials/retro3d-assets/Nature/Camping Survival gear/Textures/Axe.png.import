@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjnrtrrpogkg2"
-path="res://godot/imported/Axe.png-38b1f688bdebb03debbf6224342695a6.ctex"
+path="res://.godot/imported/Axe.png-38b1f688bdebb03debbf6224342695a6.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Camping Survival gear/Textures/Axe.png"
-dest_files=["res://godot/imported/Axe.png-38b1f688bdebb03debbf6224342695a6.ctex"]
+dest_files=["res://.godot/imported/Axe.png-38b1f688bdebb03debbf6224342695a6.ctex"]
 
 [params]
 

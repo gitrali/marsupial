@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drteb84ue81p0"
-path="res://godot/imported/refe.jpg-b9005f3edacd734dc725add4fe3e9244.ctex"
+path="res://.godot/imported/refe.jpg-b9005f3edacd734dc725add4fe3e9244.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Mini Market/refe.jpg"
-dest_files=["res://godot/imported/refe.jpg-b9005f3edacd734dc725add4fe3e9244.ctex"]
+dest_files=["res://.godot/imported/refe.jpg-b9005f3edacd734dc725add4fe3e9244.ctex"]
 
 [params]
 

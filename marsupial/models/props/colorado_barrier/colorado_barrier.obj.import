@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://5tb8056ie4pb"
-path="res://godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh"
+path="res://.godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh"
 
 [deps]
 
-files=["res://godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh"]
+files=["res://.godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh"]
 
 source_file="res://marsupial/models/props/colorado_barrier/colorado_barrier.obj"
-dest_files=["res://godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh", "res://godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh"]
+dest_files=["res://.godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh", "res://.godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://yegpty8obnkn"
-path="res://godot/imported/treePine_small_SW.png-47889a5014bb7bdc257a9b9ffea5e1c1.ctex"
+path="res://.godot/imported/treePine_small_SW.png-47889a5014bb7bdc257a9b9ffea5e1c1.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Isometric/treePine_small_SW.png"
-dest_files=["res://godot/imported/treePine_small_SW.png-47889a5014bb7bdc257a9b9ffea5e1c1.ctex"]
+dest_files=["res://.godot/imported/treePine_small_SW.png-47889a5014bb7bdc257a9b9ffea5e1c1.ctex"]
 
 [params]
 

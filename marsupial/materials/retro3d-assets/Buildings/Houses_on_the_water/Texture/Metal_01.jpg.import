@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqebn0ie7cdys"
-path="res://godot/imported/Metal_01.jpg-4a4f2e7071dbaf7e1575d0bca8b69569.ctex"
+path="res://.godot/imported/Metal_01.jpg-4a4f2e7071dbaf7e1575d0bca8b69569.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Houses_on_the_water/Texture/Metal_01.jpg"
-dest_files=["res://godot/imported/Metal_01.jpg-4a4f2e7071dbaf7e1575d0bca8b69569.ctex"]
+dest_files=["res://.godot/imported/Metal_01.jpg-4a4f2e7071dbaf7e1575d0bca8b69569.ctex"]
 
 [params]
 

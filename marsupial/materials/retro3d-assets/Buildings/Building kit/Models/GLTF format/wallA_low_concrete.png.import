@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxepxby3biyvf"
-path="res://godot/imported/wallA_low_concrete.png-3e7b8fce27daffbab8fca054cedba4ad.ctex"
+path="res://.godot/imported/wallA_low_concrete.png-3e7b8fce27daffbab8fca054cedba4ad.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA_low_concrete.png"
-dest_files=["res://godot/imported/wallA_low_concrete.png-3e7b8fce27daffbab8fca054cedba4ad.ctex"]
+dest_files=["res://.godot/imported/wallA_low_concrete.png-3e7b8fce27daffbab8fca054cedba4ad.ctex"]
 
 [params]
 

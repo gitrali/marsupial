@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c6dy2jqaauevp"
-path="res://godot/imported/wallA_roofDetailed.fbx-ce53c150b4dba28354b8632a0547a2d5.scn"
+path="res://.godot/imported/wallA_roofDetailed.fbx-ce53c150b4dba28354b8632a0547a2d5.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/FBX format/wallA_roofDetailed.fbx"
-dest_files=["res://godot/imported/wallA_roofDetailed.fbx-ce53c150b4dba28354b8632a0547a2d5.scn"]
+dest_files=["res://.godot/imported/wallA_roofDetailed.fbx-ce53c150b4dba28354b8632a0547a2d5.scn"]
 
 [params]
 

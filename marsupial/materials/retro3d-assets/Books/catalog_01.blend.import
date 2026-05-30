@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dfibaqphpxgl3"
-path="res://godot/imported/catalog_01.blend-8e4b301e98a07737b3f55c04c855c6bf.scn"
+path="res://.godot/imported/catalog_01.blend-8e4b301e98a07737b3f55c04c855c6bf.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Books/catalog_01.blend"
-dest_files=["res://godot/imported/catalog_01.blend-8e4b301e98a07737b3f55c04c855c6bf.scn"]
+dest_files=["res://.godot/imported/catalog_01.blend-8e4b301e98a07737b3f55c04c855c6bf.scn"]
 
 [params]
 

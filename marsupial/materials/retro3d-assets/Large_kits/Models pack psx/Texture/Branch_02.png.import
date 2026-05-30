@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq5j45le2nt1i"
-path="res://godot/imported/Branch_02.png-473ce57de28d4eaee5ad3d8576867284.ctex"
+path="res://.godot/imported/Branch_02.png-473ce57de28d4eaee5ad3d8576867284.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Large_kits/Models pack psx/Texture/Branch_02.png"
-dest_files=["res://godot/imported/Branch_02.png-473ce57de28d4eaee5ad3d8576867284.ctex"]
+dest_files=["res://.godot/imported/Branch_02.png-473ce57de28d4eaee5ad3d8576867284.ctex"]
 
 [params]
 

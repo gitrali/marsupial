@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcpmchms5y6y6"
-path="res://godot/imported/SideWalk_sidewalk_lowres.png-b5323c9135f3ef61609d8284c2368d39.ctex"
+path="res://.godot/imported/SideWalk_sidewalk_lowres.png-b5323c9135f3ef61609d8284c2368d39.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Old building 1/SideWalk_sidewalk_lowres.png"
-dest_files=["res://godot/imported/SideWalk_sidewalk_lowres.png-b5323c9135f3ef61609d8284c2368d39.ctex"]
+dest_files=["res://.godot/imported/SideWalk_sidewalk_lowres.png-b5323c9135f3ef61609d8284c2368d39.ctex"]
 
 [params]
 

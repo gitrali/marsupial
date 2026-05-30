@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bl5ylysmp7kn8"
-path="res://godot/imported/cobblestone.png-f05469285008ecb15fc794ad50572f86.ctex"
+path="res://.godot/imported/cobblestone.png-f05469285008ecb15fc794ad50572f86.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Rocks/Materials/cobblestone.png"
-dest_files=["res://godot/imported/cobblestone.png-f05469285008ecb15fc794ad50572f86.ctex"]
+dest_files=["res://.godot/imported/cobblestone.png-f05469285008ecb15fc794ad50572f86.ctex"]
 
 [params]
 

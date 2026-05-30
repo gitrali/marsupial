@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4dnok6082g1a"
-path.s3tc="res://godot/imported/gutter_brown_bottom.jpg-ff9bc29c1ebfd0a1d7abfe9d2947603f.s3tc.ctex"
+path.s3tc="res://.godot/imported/gutter_brown_bottom.jpg-ff9bc29c1ebfd0a1d7abfe9d2947603f.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/gutter_brown_bottom.jpg"
-dest_files=["res://godot/imported/gutter_brown_bottom.jpg-ff9bc29c1ebfd0a1d7abfe9d2947603f.s3tc.ctex"]
+dest_files=["res://.godot/imported/gutter_brown_bottom.jpg-ff9bc29c1ebfd0a1d7abfe9d2947603f.s3tc.ctex"]
 
 [params]
 

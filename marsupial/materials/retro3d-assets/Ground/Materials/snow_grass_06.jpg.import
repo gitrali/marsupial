@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y301gckxtb31"
-path="res://godot/imported/snow_grass_06.jpg-08f8322f28b8d58dd65bc36622a66784.ctex"
+path="res://.godot/imported/snow_grass_06.jpg-08f8322f28b8d58dd65bc36622a66784.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Ground/Materials/snow_grass_06.jpg"
-dest_files=["res://godot/imported/snow_grass_06.jpg-08f8322f28b8d58dd65bc36622a66784.ctex"]
+dest_files=["res://.godot/imported/snow_grass_06.jpg-08f8322f28b8d58dd65bc36622a66784.ctex"]
 
 [params]
 

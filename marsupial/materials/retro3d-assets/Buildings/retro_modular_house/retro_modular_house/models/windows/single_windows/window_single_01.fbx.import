@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b7gmopfld6n57"
-path="res://godot/imported/window_single_01.fbx-b3ebf2829c3dbaf250cd3d7195d2bde2.scn"
+path="res://.godot/imported/window_single_01.fbx-b3ebf2829c3dbaf250cd3d7195d2bde2.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/windows/single_windows/window_single_01.fbx"
-dest_files=["res://godot/imported/window_single_01.fbx-b3ebf2829c3dbaf250cd3d7195d2bde2.scn"]
+dest_files=["res://.godot/imported/window_single_01.fbx-b3ebf2829c3dbaf250cd3d7195d2bde2.scn"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bksomqjrbc84g"
-path="res://godot/imported/tree18.png-4851ecb99a72b1490c9c64ebf9b9e97c.ctex"
+path="res://.godot/imported/tree18.png-4851ecb99a72b1490c9c64ebf9b9e97c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/tree_pack_1.1/textures/tree18.png"
-dest_files=["res://godot/imported/tree18.png-4851ecb99a72b1490c9c64ebf9b9e97c.ctex"]
+dest_files=["res://.godot/imported/tree18.png-4851ecb99a72b1490c9c64ebf9b9e97c.ctex"]
 
 [params]
 

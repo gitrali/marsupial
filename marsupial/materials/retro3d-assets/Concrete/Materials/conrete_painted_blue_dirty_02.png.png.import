@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ce1iu5i3mgc6f"
-path="res://godot/imported/conrete_painted_blue_dirty_02.png.png-cf0a628592cfbe0f189ec090142b2db7.ctex"
+path="res://.godot/imported/conrete_painted_blue_dirty_02.png.png-cf0a628592cfbe0f189ec090142b2db7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Concrete/Materials/conrete_painted_blue_dirty_02.png.png"
-dest_files=["res://godot/imported/conrete_painted_blue_dirty_02.png.png-cf0a628592cfbe0f189ec090142b2db7.ctex"]
+dest_files=["res://.godot/imported/conrete_painted_blue_dirty_02.png.png-cf0a628592cfbe0f189ec090142b2db7.ctex"]
 
 [params]
 

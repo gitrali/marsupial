@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://yvrdtdg48y46"
-path="res://godot/imported/GermanPoliceOfficer_anim_run.fbx-d36429409c819eaefecedb5b93782ab3.scn"
+path="res://.godot/imported/GermanPoliceOfficer_anim_run.fbx-d36429409c819eaefecedb5b93782ab3.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/Police_Officer_FBX/Animation/GermanPoliceOfficer_anim_run.fbx"
-dest_files=["res://godot/imported/GermanPoliceOfficer_anim_run.fbx-d36429409c819eaefecedb5b93782ab3.scn"]
+dest_files=["res://.godot/imported/GermanPoliceOfficer_anim_run.fbx-d36429409c819eaefecedb5b93782ab3.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://nco1t5j4l8le"
-path="res://godot/imported/weaponPack.blend-7a9d8c88543e5e35b75366a835b42248.scn"
+path="res://.godot/imported/weaponPack.blend-7a9d8c88543e5e35b75366a835b42248.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Weapons/Heavy Weapons Pack/weaponPack.blend"
-dest_files=["res://godot/imported/weaponPack.blend-7a9d8c88543e5e35b75366a835b42248.scn"]
+dest_files=["res://.godot/imported/weaponPack.blend-7a9d8c88543e5e35b75366a835b42248.scn"]
 
 [params]
 

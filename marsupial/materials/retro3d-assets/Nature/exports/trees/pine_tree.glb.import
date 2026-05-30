@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bios8xnbsmtbm"
-path="res://godot/imported/pine_tree.glb-292d533cd375682ff44e5cfed9604209.scn"
+path="res://.godot/imported/pine_tree.glb-292d533cd375682ff44e5cfed9604209.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/exports/trees/pine_tree.glb"
-dest_files=["res://godot/imported/pine_tree.glb-292d533cd375682ff44e5cfed9604209.scn"]
+dest_files=["res://.godot/imported/pine_tree.glb-292d533cd375682ff44e5cfed9604209.scn"]
 
 [params]
 

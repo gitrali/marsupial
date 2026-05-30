@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://1xi5jttv2arc"
-path="res://godot/imported/flowerbed_2x2_empty.fbx-78b5006953da97ed20c395088e1ac552.scn"
+path="res://.godot/imported/flowerbed_2x2_empty.fbx-78b5006953da97ed20c395088e1ac552.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/flowers/flowerbed_2x2_empty.fbx"
-dest_files=["res://godot/imported/flowerbed_2x2_empty.fbx-78b5006953da97ed20c395088e1ac552.scn"]
+dest_files=["res://.godot/imported/flowerbed_2x2_empty.fbx-78b5006953da97ed20c395088e1ac552.scn"]
 
 [params]
 

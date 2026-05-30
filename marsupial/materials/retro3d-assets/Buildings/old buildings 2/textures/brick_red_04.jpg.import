@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq4sq86bs804i"
-path.s3tc="res://godot/imported/brick_red_04.jpg-0d027277cf6426a52d41ef6143d9ac12.s3tc.ctex"
+path.s3tc="res://.godot/imported/brick_red_04.jpg-0d027277cf6426a52d41ef6143d9ac12.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/brick_red_04.jpg"
-dest_files=["res://godot/imported/brick_red_04.jpg-0d027277cf6426a52d41ef6143d9ac12.s3tc.ctex"]
+dest_files=["res://.godot/imported/brick_red_04.jpg-0d027277cf6426a52d41ef6143d9ac12.s3tc.ctex"]
 
 [params]
 

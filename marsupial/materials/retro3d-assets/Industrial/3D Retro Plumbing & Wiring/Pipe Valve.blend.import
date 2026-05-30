@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://buiqs2w862o8l"
-path="res://godot/imported/Pipe Valve.blend-7a1f80382a6a0a5b5705ba375259f707.scn"
+path="res://.godot/imported/Pipe Valve.blend-7a1f80382a6a0a5b5705ba375259f707.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Industrial/3D Retro Plumbing & Wiring/Pipe Valve.blend"
-dest_files=["res://godot/imported/Pipe Valve.blend-7a1f80382a6a0a5b5705ba375259f707.scn"]
+dest_files=["res://.godot/imported/Pipe Valve.blend-7a1f80382a6a0a5b5705ba375259f707.scn"]
 
 [params]
 

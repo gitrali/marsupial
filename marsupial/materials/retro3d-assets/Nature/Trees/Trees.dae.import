@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cswm8xys3rwuc"
-path="res://godot/imported/Trees.dae-4143bbc2ca944fd59cc95b8c5564563b.scn"
+path="res://.godot/imported/Trees.dae-4143bbc2ca944fd59cc95b8c5564563b.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Trees/Trees.dae"
-dest_files=["res://godot/imported/Trees.dae-4143bbc2ca944fd59cc95b8c5564563b.scn"]
+dest_files=["res://.godot/imported/Trees.dae-4143bbc2ca944fd59cc95b8c5564563b.scn"]
 
 [params]
 

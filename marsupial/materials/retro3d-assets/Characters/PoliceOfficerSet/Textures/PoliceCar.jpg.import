@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chprtwdqnco1o"
-path="res://godot/imported/PoliceCar.jpg-898daff8de941760a5fbdc32720b7af4.ctex"
+path="res://.godot/imported/PoliceCar.jpg-898daff8de941760a5fbdc32720b7af4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Characters/PoliceOfficerSet/Textures/PoliceCar.jpg"
-dest_files=["res://godot/imported/PoliceCar.jpg-898daff8de941760a5fbdc32720b7af4.ctex"]
+dest_files=["res://.godot/imported/PoliceCar.jpg-898daff8de941760a5fbdc32720b7af4.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brn6vwycr6sjj"
-path.s3tc="res://godot/imported/wood_planks_2.png-a944b657593940eb32e77dc9ef77c90b.s3tc.ctex"
+path.s3tc="res://.godot/imported/wood_planks_2.png-a944b657593940eb32e77dc9ef77c90b.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/wood_planks_2.png"
-dest_files=["res://godot/imported/wood_planks_2.png-a944b657593940eb32e77dc9ef77c90b.s3tc.ctex"]
+dest_files=["res://.godot/imported/wood_planks_2.png-a944b657593940eb32e77dc9ef77c90b.s3tc.ctex"]
 
 [params]
 

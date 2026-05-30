@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xoko53v2o77f"
-path="res://godot/imported/blue_gemstone_pile.blend-6d8aaa4962da3e1df65cd88dd7a32ac7.scn"
+path="res://.godot/imported/blue_gemstone_pile.blend-6d8aaa4962da3e1df65cd88dd7a32ac7.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Gems/blue_gemstone_pile.blend"
-dest_files=["res://godot/imported/blue_gemstone_pile.blend-6d8aaa4962da3e1df65cd88dd7a32ac7.scn"]
+dest_files=["res://.godot/imported/blue_gemstone_pile.blend-6d8aaa4962da3e1df65cd88dd7a32ac7.scn"]
 
 [params]
 

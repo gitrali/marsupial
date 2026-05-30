@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://rjfjn8drhrah"
-path="res://godot/imported/IndustrialBuilding.glb-a110146e46ac3a6f831ca50ffcecc192.scn"
+path="res://.godot/imported/IndustrialBuilding.glb-a110146e46ac3a6f831ca50ffcecc192.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Old building 1/IndustrialBuilding.glb"
-dest_files=["res://godot/imported/IndustrialBuilding.glb-a110146e46ac3a6f831ca50ffcecc192.scn"]
+dest_files=["res://.godot/imported/IndustrialBuilding.glb-a110146e46ac3a6f831ca50ffcecc192.scn"]
 
 [params]
 

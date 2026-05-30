@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dlfi51o46wfkk"
-path="res://godot/imported/house5_tex2.png-84b670fa2ef9292632095e795bde98e0.ctex"
+path="res://.godot/imported/house5_tex2.png-84b670fa2ef9292632095e795bde98e0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/retro_house_pack/textures/1024x1024/house5_tex2.png"
-dest_files=["res://godot/imported/house5_tex2.png-84b670fa2ef9292632095e795bde98e0.ctex"]
+dest_files=["res://.godot/imported/house5_tex2.png-84b670fa2ef9292632095e795bde98e0.ctex"]
 
 [params]
 

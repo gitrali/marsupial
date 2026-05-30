@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://3y8g12d2thv3"
-path="res://godot/imported/shutters_single_open_01.fbx-4e365058cc478eb48dd29839112986b9.scn"
+path="res://.godot/imported/shutters_single_open_01.fbx-4e365058cc478eb48dd29839112986b9.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/misc/window_shutters/shutters_single_open_01.fbx"
-dest_files=["res://godot/imported/shutters_single_open_01.fbx-4e365058cc478eb48dd29839112986b9.scn"]
+dest_files=["res://.godot/imported/shutters_single_open_01.fbx-4e365058cc478eb48dd29839112986b9.scn"]
 
 [params]
 

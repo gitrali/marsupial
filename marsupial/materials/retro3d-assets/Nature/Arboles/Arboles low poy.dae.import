@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bd85cyxhytncc"
-path="res://godot/imported/Arboles low poy.dae-903dadaf259481786853f2a20ce8bcb8.scn"
+path="res://.godot/imported/Arboles low poy.dae-903dadaf259481786853f2a20ce8bcb8.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Arboles/Arboles low poy.dae"
-dest_files=["res://godot/imported/Arboles low poy.dae-903dadaf259481786853f2a20ce8bcb8.scn"]
+dest_files=["res://.godot/imported/Arboles low poy.dae-903dadaf259481786853f2a20ce8bcb8.scn"]
 
 [params]
 

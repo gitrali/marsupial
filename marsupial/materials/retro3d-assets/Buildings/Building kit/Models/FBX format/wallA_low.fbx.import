@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cey47xgamk25p"
-path="res://godot/imported/wallA_low.fbx-44374bd052dd6adbb729708a2c00b446.scn"
+path="res://.godot/imported/wallA_low.fbx-44374bd052dd6adbb729708a2c00b446.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/FBX format/wallA_low.fbx"
-dest_files=["res://godot/imported/wallA_low.fbx-44374bd052dd6adbb729708a2c00b446.scn"]
+dest_files=["res://.godot/imported/wallA_low.fbx-44374bd052dd6adbb729708a2c00b446.scn"]
 
 [params]
 

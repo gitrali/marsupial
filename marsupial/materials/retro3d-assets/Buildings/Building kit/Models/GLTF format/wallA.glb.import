@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bxea6p28fev87"
-path="res://godot/imported/wallA.glb-59fdad9933ec9b35abd882465c0f7fc3.scn"
+path="res://.godot/imported/wallA.glb-59fdad9933ec9b35abd882465c0f7fc3.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA.glb"
-dest_files=["res://godot/imported/wallA.glb-59fdad9933ec9b35abd882465c0f7fc3.scn"]
+dest_files=["res://.godot/imported/wallA.glb-59fdad9933ec9b35abd882465c0f7fc3.scn"]
 
 [params]
 

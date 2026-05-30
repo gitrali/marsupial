@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bur5q5g2j21w"
-path="res://godot/imported/detailBarrierStrong_typeA_SW.png-af74eaca0b34c0cf650290ef04f4e09b.ctex"
+path="res://.godot/imported/detailBarrierStrong_typeA_SW.png-af74eaca0b34c0cf650290ef04f4e09b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Isometric/detailBarrierStrong_typeA_SW.png"
-dest_files=["res://godot/imported/detailBarrierStrong_typeA_SW.png-af74eaca0b34c0cf650290ef04f4e09b.ctex"]
+dest_files=["res://.godot/imported/detailBarrierStrong_typeA_SW.png-af74eaca0b34c0cf650290ef04f4e09b.ctex"]
 
 [params]
 

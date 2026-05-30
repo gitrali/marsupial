@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xnsbllgqhsui"
-path="res://godot/imported/sign_nosmoking.blend-528eb1214968e6740c0988b08e5546eb.scn"
+path="res://.godot/imported/sign_nosmoking.blend-528eb1214968e6740c0988b08e5546eb.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Signs/sign_nosmoking.blend"
-dest_files=["res://godot/imported/sign_nosmoking.blend-528eb1214968e6740c0988b08e5546eb.scn"]
+dest_files=["res://.godot/imported/sign_nosmoking.blend-528eb1214968e6740c0988b08e5546eb.scn"]
 
 [params]
 

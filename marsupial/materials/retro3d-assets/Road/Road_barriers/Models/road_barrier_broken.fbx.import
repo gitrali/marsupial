@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqgjb368656fa"
-path="res://godot/imported/road_barrier_broken.fbx-d30acadd42e649467675cc7edbc46077.scn"
+path="res://.godot/imported/road_barrier_broken.fbx-d30acadd42e649467675cc7edbc46077.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Road/Road_barriers/Models/road_barrier_broken.fbx"
-dest_files=["res://godot/imported/road_barrier_broken.fbx-d30acadd42e649467675cc7edbc46077.scn"]
+dest_files=["res://.godot/imported/road_barrier_broken.fbx-d30acadd42e649467675cc7edbc46077.scn"]
 
 [params]
 

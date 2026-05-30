@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmf7kerkp5msn"
-path="res://godot/imported/metal_threads_01.jpg-a314bf39cdfef8c58f87c3d9f73f4116.ctex"
+path="res://.godot/imported/metal_threads_01.jpg-a314bf39cdfef8c58f87c3d9f73f4116.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Metal/Materials/metal_threads_01.jpg"
-dest_files=["res://godot/imported/metal_threads_01.jpg-a314bf39cdfef8c58f87c3d9f73f4116.ctex"]
+dest_files=["res://.godot/imported/metal_threads_01.jpg-a314bf39cdfef8c58f87c3d9f73f4116.ctex"]
 
 [params]
 

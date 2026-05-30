@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ycxcpbaeu3a5"
-path="res://godot/imported/Shack A.blend-fadbc1cb7f37294780aace3bf01b8012.scn"
+path="res://.godot/imported/Shack A.blend-fadbc1cb7f37294780aace3bf01b8012.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Industrial/Shacks Shanties Sheds and Gantries 0001/Shack A.blend"
-dest_files=["res://godot/imported/Shack A.blend-fadbc1cb7f37294780aace3bf01b8012.scn"]
+dest_files=["res://.godot/imported/Shack A.blend-fadbc1cb7f37294780aace3bf01b8012.scn"]
 
 [params]
 

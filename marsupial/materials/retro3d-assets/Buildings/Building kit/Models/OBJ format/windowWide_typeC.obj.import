@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://c0bbe7np0lx4s"
-path="res://godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh"
+path="res://.godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh"
 
 [deps]
 
-files=["res://godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh"]
+files=["res://.godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh"]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/windowWide_typeC.obj"
-dest_files=["res://godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh", "res://godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh"]
+dest_files=["res://.godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh", "res://.godot/imported/windowWide_typeC.obj-8d0c5f67ceba67370dc7a2c8c3dd7f33.mesh"]
 
 [params]
 

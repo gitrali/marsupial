@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds3foiwrkq3ed"
-path="res://godot/imported/Fabric_16.jpg-9b36c643f2d570305735048a96dc472f.ctex"
+path="res://.godot/imported/Fabric_16.jpg-9b36c643f2d570305735048a96dc472f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Furniture/Armchair/Textures/Fabric_16.jpg"
-dest_files=["res://godot/imported/Fabric_16.jpg-9b36c643f2d570305735048a96dc472f.ctex"]
+dest_files=["res://.godot/imported/Fabric_16.jpg-9b36c643f2d570305735048a96dc472f.ctex"]
 
 [params]
 

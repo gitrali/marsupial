@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dv7ku1tu0glr"
-path="res://godot/imported/food_canned_soup_4.blend-a97f554eef75a436845b94dee9544e4e.scn"
+path="res://.godot/imported/food_canned_soup_4.blend-a97f554eef75a436845b94dee9544e4e.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Food/food_canned_soup_4.blend"
-dest_files=["res://godot/imported/food_canned_soup_4.blend-a97f554eef75a436845b94dee9544e4e.scn"]
+dest_files=["res://.godot/imported/food_canned_soup_4.blend-a97f554eef75a436845b94dee9544e4e.scn"]
 
 [params]
 

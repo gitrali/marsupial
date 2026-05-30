@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://utiv1t7nygbh"
-path="res://godot/imported/detailAwning_wide.glb-49a3bd9e7423ca3d68f0081ff564c6f9.scn"
+path="res://.godot/imported/detailAwning_wide.glb-49a3bd9e7423ca3d68f0081ff564c6f9.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/detailAwning_wide.glb"
-dest_files=["res://godot/imported/detailAwning_wide.glb-49a3bd9e7423ca3d68f0081ff564c6f9.scn"]
+dest_files=["res://.godot/imported/detailAwning_wide.glb-49a3bd9e7423ca3d68f0081ff564c6f9.scn"]
 
 [params]
 

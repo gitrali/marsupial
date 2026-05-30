@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b43aq0xhwwn6k"
-path="res://godot/imported/wallA_flatWindow_windows.png-f774fe06bfaadd9503e3e35f6c17cf13.ctex"
+path="res://.godot/imported/wallA_flatWindow_windows.png-f774fe06bfaadd9503e3e35f6c17cf13.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA_flatWindow_windows.png"
-dest_files=["res://godot/imported/wallA_flatWindow_windows.png-f774fe06bfaadd9503e3e35f6c17cf13.ctex"]
+dest_files=["res://.godot/imported/wallA_flatWindow_windows.png-f774fe06bfaadd9503e3e35f6c17cf13.ctex"]
 
 [params]
 

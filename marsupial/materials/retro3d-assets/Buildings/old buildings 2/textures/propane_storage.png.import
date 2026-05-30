@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b38cllxg4i11e"
-path.s3tc="res://godot/imported/propane_storage.png-c8174e788892adb30fb4168c2be7f88c.s3tc.ctex"
+path.s3tc="res://.godot/imported/propane_storage.png-c8174e788892adb30fb4168c2be7f88c.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,7 +12,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/old buildings 2/textures/propane_storage.png"
-dest_files=["res://godot/imported/propane_storage.png-c8174e788892adb30fb4168c2be7f88c.s3tc.ctex"]
+dest_files=["res://.godot/imported/propane_storage.png-c8174e788892adb30fb4168c2be7f88c.s3tc.ctex"]
 
 [params]
 

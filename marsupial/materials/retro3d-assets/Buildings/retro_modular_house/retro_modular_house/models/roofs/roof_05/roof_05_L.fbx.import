@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://j878xdm551s"
-path="res://godot/imported/roof_05_L.fbx-1b406a2c7084f86e2c0cb0c8b72c181f.scn"
+path="res://.godot/imported/roof_05_L.fbx-1b406a2c7084f86e2c0cb0c8b72c181f.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/retro_modular_house/retro_modular_house/models/roofs/roof_05/roof_05_L.fbx"
-dest_files=["res://godot/imported/roof_05_L.fbx-1b406a2c7084f86e2c0cb0c8b72c181f.scn"]
+dest_files=["res://.godot/imported/roof_05_L.fbx-1b406a2c7084f86e2c0cb0c8b72c181f.scn"]
 
 [params]
 

@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://b6grytq1csis6"
-path="res://godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh"
+path="res://.godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh"
 
 [deps]
 
-files=["res://godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh"]
+files=["res://.godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh"]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/OBJ format/wallA_door.obj"
-dest_files=["res://godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh", "res://godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh"]
+dest_files=["res://.godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh", "res://.godot/imported/wallA_door.obj-fe87faf46b1676f1489a67a1ab00dfbd.mesh"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c1xncy4yi1ukc"
-path="res://godot/imported/wallSteps_typeA.fbx-1b831838cd4fd3071124b26e3693afa9.scn"
+path="res://.godot/imported/wallSteps_typeA.fbx-1b831838cd4fd3071124b26e3693afa9.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/FBX format/wallSteps_typeA.fbx"
-dest_files=["res://godot/imported/wallSteps_typeA.fbx-1b831838cd4fd3071124b26e3693afa9.scn"]
+dest_files=["res://.godot/imported/wallSteps_typeA.fbx-1b831838cd4fd3071124b26e3693afa9.scn"]
 
 [params]
 

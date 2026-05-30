@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coefuurmu5q5x"
-path.s3tc="res://godot/imported/wallA_open_wall_lines.png-9c7f066f138748f2a44d3dd84549eb5f.s3tc.ctex"
+path.s3tc="res://.godot/imported/wallA_open_wall_lines.png-9c7f066f138748f2a44d3dd84549eb5f.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -15,7 +15,7 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/wallA_open_wall_lines.png"
-dest_files=["res://godot/imported/wallA_open_wall_lines.png-9c7f066f138748f2a44d3dd84549eb5f.s3tc.ctex"]
+dest_files=["res://.godot/imported/wallA_open_wall_lines.png-9c7f066f138748f2a44d3dd84549eb5f.s3tc.ctex"]
 
 [params]
 

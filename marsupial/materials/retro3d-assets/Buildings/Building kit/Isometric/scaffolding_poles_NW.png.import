@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp47is2xouxgb"
-path="res://godot/imported/scaffolding_poles_NW.png-a560af35012b4cff7910a8f662d36f99.ctex"
+path="res://.godot/imported/scaffolding_poles_NW.png-a560af35012b4cff7910a8f662d36f99.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Isometric/scaffolding_poles_NW.png"
-dest_files=["res://godot/imported/scaffolding_poles_NW.png-a560af35012b4cff7910a8f662d36f99.ctex"]
+dest_files=["res://.godot/imported/scaffolding_poles_NW.png-a560af35012b4cff7910a8f662d36f99.ctex"]
 
 [params]
 

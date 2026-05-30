@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4nfg5eoie5kc"
-path="res://godot/imported/Bush.png-04d9659034fc5d343e0769cd47c2cdbb.ctex"
+path="res://.godot/imported/Bush.png-04d9659034fc5d343e0769cd47c2cdbb.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/DINER/Textures/Bush.png"
-dest_files=["res://godot/imported/Bush.png-04d9659034fc5d343e0769cd47c2cdbb.ctex"]
+dest_files=["res://.godot/imported/Bush.png-04d9659034fc5d343e0769cd47c2cdbb.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2xh8uuwk8akr"
-path="res://godot/imported/Breads.png-b30e0011ed77e2d631275aea73e05e82.ctex"
+path="res://.godot/imported/Breads.png-b30e0011ed77e2d631275aea73e05e82.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/DINER/Textures/Breads.png"
-dest_files=["res://godot/imported/Breads.png-b30e0011ed77e2d631275aea73e05e82.ctex"]
+dest_files=["res://.godot/imported/Breads.png-b30e0011ed77e2d631275aea73e05e82.ctex"]
 
 [params]
 

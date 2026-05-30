@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://xouu4e581psu"
-path="res://godot/imported/lightbulb_01.glb-fb8dcce0fd5f4b83b23766b4e6f72f2d.scn"
+path="res://.godot/imported/lightbulb_01.glb-fb8dcce0fd5f4b83b23766b4e6f72f2d.scn"
 
 [deps]
 
 source_file="res://marsupial/models/props/lightbulb_01 (2)/lightbulb_01.glb"
-dest_files=["res://godot/imported/lightbulb_01.glb-fb8dcce0fd5f4b83b23766b4e6f72f2d.scn"]
+dest_files=["res://.godot/imported/lightbulb_01.glb-fb8dcce0fd5f4b83b23766b4e6f72f2d.scn"]
 
 [params]
 

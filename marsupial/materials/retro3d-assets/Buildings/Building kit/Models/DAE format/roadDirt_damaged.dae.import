@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cb5knmv53dh3t"
-path="res://godot/imported/roadDirt_damaged.dae-7e842f84da6077940add8339d0662b0c.scn"
+path="res://.godot/imported/roadDirt_damaged.dae-7e842f84da6077940add8339d0662b0c.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/DAE format/roadDirt_damaged.dae"
-dest_files=["res://godot/imported/roadDirt_damaged.dae-7e842f84da6077940add8339d0662b0c.scn"]
+dest_files=["res://.godot/imported/roadDirt_damaged.dae-7e842f84da6077940add8339d0662b0c.scn"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cil6kxb8jr2gq"
-path="res://godot/imported/Foods_02.jpg-72260fb93ce90f5051c55f467c852247.ctex"
+path="res://.godot/imported/Foods_02.jpg-72260fb93ce90f5051c55f467c852247.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Products/Foods/Textures/Foods_02.jpg"
-dest_files=["res://godot/imported/Foods_02.jpg-72260fb93ce90f5051c55f467c852247.ctex"]
+dest_files=["res://.godot/imported/Foods_02.jpg-72260fb93ce90f5051c55f467c852247.ctex"]
 
 [params]
 

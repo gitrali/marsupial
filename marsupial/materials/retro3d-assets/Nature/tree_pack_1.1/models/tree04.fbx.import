@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b2vmhlml5emlj"
-path="res://godot/imported/tree04.fbx-51c22dcc09e0fcb8fa51e0995c174c65.scn"
+path="res://.godot/imported/tree04.fbx-51c22dcc09e0fcb8fa51e0995c174c65.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/tree_pack_1.1/models/tree04.fbx"
-dest_files=["res://godot/imported/tree04.fbx-51c22dcc09e0fcb8fa51e0995c174c65.scn"]
+dest_files=["res://.godot/imported/tree04.fbx-51c22dcc09e0fcb8fa51e0995c174c65.scn"]
 
 [params]
 

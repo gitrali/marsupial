@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ekkq1aytsk7q"
-path="res://godot/imported/fountain02_round_water.fbx-0d52215857537987e2afe0f7dc3b92ed.scn"
+path="res://.godot/imported/fountain02_round_water.fbx-0d52215857537987e2afe0f7dc3b92ed.scn"
 
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/Hedge Maze/hedge_maze_pack/misc_models/stone/fountain02_round_water.fbx"
-dest_files=["res://godot/imported/fountain02_round_water.fbx-0d52215857537987e2afe0f7dc3b92ed.scn"]
+dest_files=["res://.godot/imported/fountain02_round_water.fbx-0d52215857537987e2afe0f7dc3b92ed.scn"]
 
 [params]
 

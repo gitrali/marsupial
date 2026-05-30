@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bp0i020howx2u"
-path="res://godot/imported/crosshair132.png-084a81fe9c77c63d7c4900cc362013d3.ctex"
+path="res://.godot/imported/crosshair132.png-084a81fe9c77c63d7c4900cc362013d3.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://marsupial/gui/HUD/crosshair/kenney_crosshair-pack/PNG/White Retina/crosshair132.png"
-dest_files=["res://godot/imported/crosshair132.png-084a81fe9c77c63d7c4900cc362013d3.ctex"]
+dest_files=["res://.godot/imported/crosshair132.png-084a81fe9c77c63d7c4900cc362013d3.ctex"]
 
 [params]
 
