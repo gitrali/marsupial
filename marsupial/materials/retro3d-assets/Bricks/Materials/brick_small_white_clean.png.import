@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://25y24a1x4fqo"
+=======
+uid="uid://cqu6phlqlqpga"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/brick_small_white_clean.png-a4c04940e068a983f0b186bd683cde59.ctex"
 metadata={
 "vram_texture": false

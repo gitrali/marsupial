@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c36xoce1yhyxt"
+=======
+uid="uid://bdagah8dqdkpa"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/dirt_muddy_1.jpg-9e427bf5cfc4ec37f3699618b71a3fcf.ctex"
 metadata={
 "vram_texture": false

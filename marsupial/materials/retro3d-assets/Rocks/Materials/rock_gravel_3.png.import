@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://b2rgik5y0gu5u"
+=======
+uid="uid://bptqaci41qq6g"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/rock_gravel_3.png-7dd14e512c42d181518769f8a251e349.ctex"
 metadata={
 "vram_texture": false

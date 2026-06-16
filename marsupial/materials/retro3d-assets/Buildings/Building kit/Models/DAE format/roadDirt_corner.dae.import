@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bg8cqy8qnjhfb"
+=======
+uid="uid://u5tq2hei3e12"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/roadDirt_corner.dae-17d7d16b94f006856886ae398a9afe2b.scn"
 
 [deps]

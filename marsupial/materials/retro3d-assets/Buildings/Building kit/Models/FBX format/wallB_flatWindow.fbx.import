@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://b0cqh3ddhw1b6"
+=======
+uid="uid://ddor3rw0rqac5"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wallB_flatWindow.fbx-929d60bd85108d9ad20a5475f27bb5e7.scn"
 
 [deps]

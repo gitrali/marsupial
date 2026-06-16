@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://r0t1sqw5kty2"
+=======
+uid="uid://cs1acha0o7n57"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/CRATE_2D.png-422695a46a08a3ae2ea18b72c9727576.ctex"
 metadata={
 "vram_texture": false

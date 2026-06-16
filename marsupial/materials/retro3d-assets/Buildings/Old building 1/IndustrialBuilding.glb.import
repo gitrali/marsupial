@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bl28g3ue57i42"
+=======
+uid="uid://rjfjn8drhrah"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/IndustrialBuilding.glb-a110146e46ac3a6f831ca50ffcecc192.scn"
 
 [deps]

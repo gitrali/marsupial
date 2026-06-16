@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dbv02dpe6fnjp"
+=======
+uid="uid://bk6ibsi68ckvw"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/PIPES_2A.png-12ff7a777c026d45cc552bc216c65dcc.ctex"
 metadata={
 "vram_texture": false

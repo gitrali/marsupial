@@ -2,10 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://sj82pviihe6d"
 path="res://.godot/imported/chairs_15.jpg-1990835f9470f16348773e3a20b857e6.ctex"
 metadata={
 "vram_texture": false
+=======
+uid="uid://dsiy2yrnkje2k"
+path.s3tc="res://.godot/imported/chairs_15.jpg-1990835f9470f16348773e3a20b857e6.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 }
 generator_parameters={
 "md5": "28e8866483b22c18f487caa684a7a25f"
@@ -14,11 +22,19 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Furniture/chairs_15.jpg"
+<<<<<<< HEAD
 dest_files=["res://.godot/imported/chairs_15.jpg-1990835f9470f16348773e3a20b857e6.ctex"]
 
 [params]
 
 compress/mode=0
+=======
+dest_files=["res://.godot/imported/chairs_15.jpg-1990835f9470f16348773e3a20b857e6.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -40,4 +56,8 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+<<<<<<< HEAD
 detect_3d/compress_to=1
+=======
+detect_3d/compress_to=0
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597

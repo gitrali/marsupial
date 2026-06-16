@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://drcld8027mv74"
+=======
+uid="uid://bo0lp31xr1eir"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/HEDGE_1C.png-0b9320adb33e75c2149fc227fb6c4d35.ctex"
 metadata={
 "vram_texture": false

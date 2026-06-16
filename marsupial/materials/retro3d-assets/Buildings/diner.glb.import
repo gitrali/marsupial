@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://bdb6c0k0p3jv"
+=======
+uid="uid://btn2c4i5hwte6"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/diner.glb-d53e9ce124e2a44d6dece74378467962.scn"
 
 [deps]

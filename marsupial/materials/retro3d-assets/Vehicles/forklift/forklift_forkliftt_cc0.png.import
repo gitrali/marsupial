@@ -2,10 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://wrx2yg07tugj"
 path="res://.godot/imported/forklift_forkliftt_cc0.png-95511561f602e525f7dca404d085cd8f.ctex"
 metadata={
 "vram_texture": false
+=======
+uid="uid://dfyta6ejfh5vv"
+path.s3tc="res://.godot/imported/forklift_forkliftt_cc0.png-95511561f602e525f7dca404d085cd8f.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 }
 generator_parameters={
 "md5": "163be04ca2581d62bd0c51fc396abc46"
@@ -14,11 +22,19 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Vehicles/forklift/forklift_forkliftt_cc0.png"
+<<<<<<< HEAD
 dest_files=["res://.godot/imported/forklift_forkliftt_cc0.png-95511561f602e525f7dca404d085cd8f.ctex"]
 
 [params]
 
 compress/mode=0
+=======
+dest_files=["res://.godot/imported/forklift_forkliftt_cc0.png-95511561f602e525f7dca404d085cd8f.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -40,4 +56,8 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+<<<<<<< HEAD
 detect_3d/compress_to=1
+=======
+detect_3d/compress_to=0
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597

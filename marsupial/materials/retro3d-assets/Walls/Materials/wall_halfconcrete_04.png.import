@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://jk6s52u3d7fb"
+=======
+uid="uid://ch7dqai78xt52"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wall_halfconcrete_04.png-a78a162f969c642589a8e4f90bdb9b57.ctex"
 metadata={
 "vram_texture": false

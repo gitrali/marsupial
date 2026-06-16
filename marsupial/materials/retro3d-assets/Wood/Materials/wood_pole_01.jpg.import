@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bhqeau6s568t5"
+=======
+uid="uid://11s7d31i2jj1"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wood_pole_01.jpg-d95f1caf83de092f865db59251f74aa9.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dt5g7d8vqhht0"
+=======
+uid="uid://c8dfn2gmkrn6v"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/branches.png-da25cdaa712428e60d0ef26e4f6865d1.ctex"
 metadata={
 "vram_texture": false

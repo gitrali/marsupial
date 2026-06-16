@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://irqnicv03tgl"
+=======
+uid="uid://cmf7kerkp5msn"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/metal_threads_01.jpg-a314bf39cdfef8c58f87c3d9f73f4116.ctex"
 metadata={
 "vram_texture": false

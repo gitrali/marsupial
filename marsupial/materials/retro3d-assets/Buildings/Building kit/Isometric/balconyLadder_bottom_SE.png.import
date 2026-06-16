@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://6sstuy5ivvnf"
+=======
+uid="uid://pwyy2ddiev7c"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/balconyLadder_bottom_SE.png-14d4e22ac882791f320ee861d2714dad.ctex"
 metadata={
 "vram_texture": false

@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://i1frakrti76k"
+=======
+uid="uid://5or4cjuk2bi2"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/shutters_small_single_closed_01.fbx-d3c73d620f68c971238aed9e80f91c3d.scn"
 
 [deps]

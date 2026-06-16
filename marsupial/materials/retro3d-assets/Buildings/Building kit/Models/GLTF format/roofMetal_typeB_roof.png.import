@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://1wa5yon4se5e"
+=======
+uid="uid://cdo8gho7unojg"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/roofMetal_typeB_roof.png-9d45d6373d93c447744ccdfae45a838b.ctex"
 metadata={
 "vram_texture": false

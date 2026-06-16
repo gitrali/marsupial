@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dte7c0ywtn4pr"
+=======
+uid="uid://cb56k322patid"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/food_cereal_4.png-93b38657de6a8184cb911be054febe0b.ctex"
 metadata={
 "vram_texture": false

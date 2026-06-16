@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bm7doopb50sct"
+=======
+uid="uid://dt1agmejkm7n1"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/detailDumpster_open_wall.png-1def04f16aa4f2ce1545ba45e846fc74.ctex"
 metadata={
 "vram_texture": false

@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://cp4e6ls2hqjuc"
+=======
+uid="uid://co2targj608fg"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wallA_open.dae-4a1e7e82fbaa67186c2b5c192ff194b4.scn"
 
 [deps]

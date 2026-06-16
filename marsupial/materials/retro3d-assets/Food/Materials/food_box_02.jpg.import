@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://qn7fg5jcsde6"
+=======
+uid="uid://bhfdkjrwpjuqr"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/food_box_02.jpg-85a8aa11c60662459d0ac466bf5eb0f2.ctex"
 metadata={
 "vram_texture": false

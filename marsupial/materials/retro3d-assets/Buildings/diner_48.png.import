@@ -2,10 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://be4fru1kplyaq"
 path="res://.godot/imported/diner_48.png-92e4ad7351701d3b49934a27ffa31462.ctex"
 metadata={
 "vram_texture": false
+=======
+uid="uid://k41eoebhlntr"
+path.s3tc="res://.godot/imported/diner_48.png-92e4ad7351701d3b49934a27ffa31462.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 }
 generator_parameters={
 "md5": "c9d0b863abc1aae8e24547e6a5315226"
@@ -14,11 +22,19 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/diner_48.png"
+<<<<<<< HEAD
 dest_files=["res://.godot/imported/diner_48.png-92e4ad7351701d3b49934a27ffa31462.ctex"]
 
 [params]
 
 compress/mode=0
+=======
+dest_files=["res://.godot/imported/diner_48.png-92e4ad7351701d3b49934a27ffa31462.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -40,4 +56,8 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+<<<<<<< HEAD
 detect_3d/compress_to=1
+=======
+detect_3d/compress_to=0
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597

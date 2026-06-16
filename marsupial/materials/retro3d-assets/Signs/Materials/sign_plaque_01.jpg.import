@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://qjgcuomi460i"
+=======
+uid="uid://bwhybimcyliwo"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/sign_plaque_01.jpg-577f619d8fc3587aa9ebe96de921e9fe.ctex"
 metadata={
 "vram_texture": false

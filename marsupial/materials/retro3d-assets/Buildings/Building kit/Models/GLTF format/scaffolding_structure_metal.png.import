@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://b7m4h4nooisyh"
+=======
+uid="uid://kr6wwk0eiy0l"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/scaffolding_structure_metal.png-5b9fb5ed08f4233e64e37eb1a7c4bbef.ctex"
 metadata={
 "vram_texture": false

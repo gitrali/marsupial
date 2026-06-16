@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://bpspw1f2a7ywb"
+=======
+uid="uid://5tb8056ie4pb"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/colorado_barrier.obj-6bbf7ef196caa857414e6db0f331c92b.mesh"
 
 [deps]

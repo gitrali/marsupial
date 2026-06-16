@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ssuhdb03kw7w"
+=======
+uid="uid://bl5ylysmp7kn8"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/cobblestone.png-f05469285008ecb15fc794ad50572f86.ctex"
 metadata={
 "vram_texture": false

@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://b87vicmplghtc"
+=======
+uid="uid://yvrdtdg48y46"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/GermanPoliceOfficer_anim_run.fbx-d36429409c819eaefecedb5b93782ab3.scn"
 
 [deps]

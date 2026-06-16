@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://qy23xa25vh7u"
+=======
+uid="uid://byfbdgd1nyb3a"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wood_plank_charred.jpg-e8b6851686a7642c5131628457b63740.ctex"
 metadata={
 "vram_texture": false

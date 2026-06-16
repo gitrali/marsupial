@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://nnlpemwrlfao"
+=======
+uid="uid://de7eiig234t67"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/roadDirt_pavement_SE.png-1de54f3a5d2091063ecbbd335680c015.ctex"
 metadata={
 "vram_texture": false

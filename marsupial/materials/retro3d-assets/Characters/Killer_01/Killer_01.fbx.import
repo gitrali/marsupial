@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://cfgp3l80chi6f"
+=======
+uid="uid://cd0f44ktk5mj2"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/Killer_01.fbx-dbc13b9552e0260077567d835e4dfe8e.scn"
 
 [deps]

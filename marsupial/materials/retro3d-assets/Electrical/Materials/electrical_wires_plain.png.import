@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dqy6asbjbdb4t"
+=======
+uid="uid://dphtwrtwdbac"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/electrical_wires_plain.png-e8306ba3c51fd1c88b649d7b5cb1a056.ctex"
 metadata={
 "vram_texture": false

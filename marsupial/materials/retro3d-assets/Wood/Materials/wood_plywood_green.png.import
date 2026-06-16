@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://b35t728548ksf"
+=======
+uid="uid://cs32isyx1ehpw"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wood_plywood_green.png-c3c2ff4034012afb9dfefdc961da392e.ctex"
 metadata={
 "vram_texture": false

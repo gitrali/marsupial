@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://rjs1s0ecuqnu"
+=======
+uid="uid://b2mdr1soa64ms"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/valve_wheel.png-264d0c03102520e973ee341239ef7a90.ctex"
 metadata={
 "vram_texture": false

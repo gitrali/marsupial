@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bexbc7d21hf13"
+=======
+uid="uid://0vt00gntbjou"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/Hand_dryer.png-72fc78aab0dba02c8a095b069a07e6b1.ctex"
 metadata={
 "vram_texture": false

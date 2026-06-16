@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://btkydwafax8mq"
+=======
+uid="uid://dgy5xbltqqahq"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/barrel.glb-ed599c9c46f2a8ee65c92d4f2c6657cf.scn"
 
 [deps]

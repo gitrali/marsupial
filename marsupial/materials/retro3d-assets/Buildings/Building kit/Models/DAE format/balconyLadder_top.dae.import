@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://c3osvoci35fyo"
+=======
+uid="uid://bij4x6a4pfqqa"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/balconyLadder_top.dae-2f671c1264bc8415b26a08015160341a.scn"
 
 [deps]

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://gk0qriw2yp73"
+=======
+uid="uid://b43aq0xhwwn6k"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wallA_flatWindow_windows.png-f774fe06bfaadd9503e3e35f6c17cf13.ctex"
 metadata={
 "vram_texture": false

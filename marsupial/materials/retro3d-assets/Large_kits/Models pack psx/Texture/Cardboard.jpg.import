@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dutkao7g873pl"
+=======
+uid="uid://c1juailr1amuf"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/Cardboard.jpg-6440197df4705046b109ca2aaf3923ff.ctex"
 metadata={
 "vram_texture": false

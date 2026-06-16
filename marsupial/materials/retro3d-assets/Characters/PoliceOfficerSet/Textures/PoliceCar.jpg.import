@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cb8phiy4n8vcg"
+=======
+uid="uid://chprtwdqnco1o"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/PoliceCar.jpg-898daff8de941760a5fbdc32720b7af4.ctex"
 metadata={
 "vram_texture": false

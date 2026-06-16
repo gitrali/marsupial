@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c627c47dak7f6"
+=======
+uid="uid://dh8au0kj0bg6s"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wallA_flatGarage_concrete.png-9667fe8c62c2b5e49c4da68b119a69a0.ctex"
 metadata={
 "vram_texture": false

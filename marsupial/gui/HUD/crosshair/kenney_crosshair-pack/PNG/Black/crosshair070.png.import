@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://do66hmyr5gidx"
+=======
+uid="uid://corn7xsxo45vw"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/crosshair070.png-5478e5d952a5aee7edfca5543cd88844.ctex"
 metadata={
 "vram_texture": false

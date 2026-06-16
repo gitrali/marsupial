@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://wyiecpww7q5b"
+=======
+uid="uid://b6ckuisa1li82"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/food_baking_flour.png-f72804814dec15090e6c29618cd8a3d3.ctex"
 metadata={
 "vram_texture": false

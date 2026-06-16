@@ -2,10 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bowplxknpekwb"
 path="res://.godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.ctex"
 metadata={
 "vram_texture": false
+=======
+uid="uid://cc5yowlt1bh3k"
+path.s3tc="res://.godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 }
 generator_parameters={
 "md5": "97e48ef9d9c409d0abcc2cd8e679b9e4"
@@ -14,11 +22,19 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Nature/exports/trees/pine_tree_pine_lowres.png"
+<<<<<<< HEAD
 dest_files=["res://.godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.ctex"]
 
 [params]
 
 compress/mode=0
+=======
+dest_files=["res://.godot/imported/pine_tree_pine_lowres.png-31807a5b81511fc86e702b284a4d1721.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -40,4 +56,8 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+<<<<<<< HEAD
 detect_3d/compress_to=1
+=======
+detect_3d/compress_to=0
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597

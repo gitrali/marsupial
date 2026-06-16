@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bh34gn6yynkmc"
+=======
+uid="uid://b8i205ibt1dja"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/scaffolding_structure_SW.png-69f91e091e7693dae055055ca88a16a3.ctex"
 metadata={
 "vram_texture": false

@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://dn30wwf6gb611"
+=======
+uid="uid://dqgjb368656fa"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/road_barrier_broken.fbx-d30acadd42e649467675cc7edbc46077.scn"
 
 [deps]

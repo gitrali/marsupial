@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://c6snlf15u11pf"
+=======
+uid="uid://bjrtch0g1bs0a"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/balconyLadder_bottom.obj-3700b0e1803ccc518717aa7fed5a5325.mesh"
 
 [deps]

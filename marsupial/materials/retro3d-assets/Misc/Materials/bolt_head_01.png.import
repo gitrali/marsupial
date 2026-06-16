@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://d20w313yoenaj"
+=======
+uid="uid://btsxjwxchkruu"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/bolt_head_01.png-54770706f643761ef478ce0ad4a50a1c.ctex"
 metadata={
 "vram_texture": false

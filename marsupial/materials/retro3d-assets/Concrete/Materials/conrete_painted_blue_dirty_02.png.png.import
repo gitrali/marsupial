@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://cohu1tb8yygj6"
+=======
+uid="uid://ce1iu5i3mgc6f"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/conrete_painted_blue_dirty_02.png.png-cf0a628592cfbe0f189ec090142b2db7.ctex"
 metadata={
 "vram_texture": false

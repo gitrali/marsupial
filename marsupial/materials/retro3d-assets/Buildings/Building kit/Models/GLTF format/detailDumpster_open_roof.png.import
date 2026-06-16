@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://5nnyuwu2wcqg"
+=======
+uid="uid://dme3cg1n6yqff"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/detailDumpster_open_roof.png-475a0e59360c4fe01859b80c3026a171.ctex"
 metadata={
 "vram_texture": false

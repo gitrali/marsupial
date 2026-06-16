@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bxqestr3ih2r3"
+=======
+uid="uid://edwrlx8ychdg"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/wallSteps_typeA_concrete.png-3c11b82c4cfee96f14993f16b3435e5c.ctex"
 metadata={
 "vram_texture": false

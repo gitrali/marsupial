@@ -2,10 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bta3tav1kn2ns"
 path="res://.godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.ctex"
 metadata={
 "vram_texture": false
+=======
+uid="uid://buye0uxfv18i1"
+path.s3tc="res://.godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 }
 generator_parameters={
 "md5": "000a697fa8bab81e8d7785ab7e8c1636"
@@ -14,11 +22,19 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Buildings/Building kit/Models/GLTF format/roadAsphalt_damaged_asphalt.png"
+<<<<<<< HEAD
 dest_files=["res://.godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.ctex"]
 
 [params]
 
 compress/mode=0
+=======
+dest_files=["res://.godot/imported/roadAsphalt_damaged_asphalt.png-91340a2fb2c684974591e0bf7f04b9a9.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -40,4 +56,8 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+<<<<<<< HEAD
 detect_3d/compress_to=1
+=======
+detect_3d/compress_to=0
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://beprf0a5mv4qc"
+=======
+uid="uid://dy5q7svlx6s6m"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/water_waves.png-16e81dbae2de34fcdfaab7dcf60e4550.ctex"
 metadata={
 "vram_texture": false

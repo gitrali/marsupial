@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://ctx5k6ynpo25c"
+=======
+uid="uid://b60mapi4lgmry"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/bark_3.png-117b6542cf28d7e67721b58cb25164d1.ctex"
 metadata={
 "vram_texture": false

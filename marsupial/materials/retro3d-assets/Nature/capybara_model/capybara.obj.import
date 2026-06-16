@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://b0s42h8t3vjc2"
+=======
+uid="uid://briyw1q6d3ybp"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/capybara.obj-fc62f55ce16b2e9eb722e15c812ba530.mesh"
 
 [deps]

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://dx8hufq0rllu1"
+=======
+uid="uid://do35yv3kfmd1j"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/Dead_Ground.png-c01ae78d8d0860bf002f3cf49b898cb3.ctex"
 metadata={
 "vram_texture": false

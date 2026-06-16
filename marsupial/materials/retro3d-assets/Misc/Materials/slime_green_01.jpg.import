@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://diyk8uqvhxebu"
+=======
+uid="uid://dgrxvr3lo2a2b"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/slime_green_01.jpg-7dc74d0bfe33796c1677996e6f021137.ctex"
 metadata={
 "vram_texture": false

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://rm8btdo35mr8"
+=======
+uid="uid://cnecxtdsf8nhj"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/carpet_lightgray_02.png-bc8a80151d2a05bb2a0650162400d01a.ctex"
 metadata={
 "vram_texture": false

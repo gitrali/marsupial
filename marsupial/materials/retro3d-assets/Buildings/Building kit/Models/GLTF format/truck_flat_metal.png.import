@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://bm5tar6r4yr53"
+=======
+uid="uid://bdtg7rk6peuh5"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/truck_flat_metal.png-af9435926c986dad75d9efcdb03e700b.ctex"
 metadata={
 "vram_texture": false

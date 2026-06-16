@@ -2,10 +2,18 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://c5qu2oexha2mx"
 path="res://.godot/imported/barrel_barrel.jpg-68e76c42d13d24290967a1dfbfa12798.ctex"
 metadata={
 "vram_texture": false
+=======
+uid="uid://bdvowjd4s03pa"
+path.s3tc="res://.godot/imported/barrel_barrel.jpg-68e76c42d13d24290967a1dfbfa12798.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 }
 generator_parameters={
 "md5": "d60c57b5071b1ac4b8ef6b2ecf30f3dd"
@@ -14,11 +22,19 @@ generator_parameters={
 [deps]
 
 source_file="res://marsupial/materials/retro3d-assets/Boxes_Barrels_Crates/barrel/barrel_barrel.jpg"
+<<<<<<< HEAD
 dest_files=["res://.godot/imported/barrel_barrel.jpg-68e76c42d13d24290967a1dfbfa12798.ctex"]
 
 [params]
 
 compress/mode=0
+=======
+dest_files=["res://.godot/imported/barrel_barrel.jpg-68e76c42d13d24290967a1dfbfa12798.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -40,4 +56,8 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+<<<<<<< HEAD
 detect_3d/compress_to=1
+=======
+detect_3d/compress_to=0
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597

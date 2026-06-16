@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://hint8diwh5it"
+=======
+uid="uid://1xi5jttv2arc"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/flowerbed_2x2_empty.fbx-78b5006953da97ed20c395088e1ac552.scn"
 
 [deps]

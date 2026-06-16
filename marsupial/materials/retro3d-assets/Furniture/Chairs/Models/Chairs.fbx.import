@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://b41xryq0boty3"
+=======
+uid="uid://duxg644yvosdh"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/Chairs.fbx-74429d0bc02d5bd1da3203deb0f7b163.scn"
 
 [deps]

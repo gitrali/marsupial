@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://1n3rgqrrxgd5"
+=======
+uid="uid://bpoh46a6jorpm"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/detailBricks_typeA.obj-62f1d55bba47ca0a2716c8d530fbbea2.mesh"
 
 [deps]

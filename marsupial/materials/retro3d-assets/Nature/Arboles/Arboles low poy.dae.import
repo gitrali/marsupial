@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://dblacquijkkb4"
+=======
+uid="uid://bd85cyxhytncc"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/Arboles low poy.dae-903dadaf259481786853f2a20ce8bcb8.scn"
 
 [deps]

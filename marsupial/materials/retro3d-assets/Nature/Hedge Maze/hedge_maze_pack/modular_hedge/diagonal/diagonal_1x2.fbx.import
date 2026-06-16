@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://dhp5djvl3a6uj"
+=======
+uid="uid://c3bkan460lyup"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/diagonal_1x2.fbx-9cf408dfe2fd3dc3c6a28c2d54a0ba75.scn"
 
 [deps]

@@ -2,7 +2,11 @@
 
 importer="texture"
 type="CompressedTexture2D"
+<<<<<<< HEAD
 uid="uid://t7wc6b4u3aio"
+=======
+uid="uid://dolmw1mlhck1j"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/armchair_0.jpg-3b90da8733000004d48aae4b652ca4df.ctex"
 metadata={
 "vram_texture": false

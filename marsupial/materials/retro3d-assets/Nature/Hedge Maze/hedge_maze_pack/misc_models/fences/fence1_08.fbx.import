@@ -3,7 +3,11 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
+<<<<<<< HEAD
 uid="uid://e1folhunsqli"
+=======
+uid="uid://kykupj61m8bk"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/fence1_08.fbx-96f571ea783df00838b120674dabafe5.scn"
 
 [deps]

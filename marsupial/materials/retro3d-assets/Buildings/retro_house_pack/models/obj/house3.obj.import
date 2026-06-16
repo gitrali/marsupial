@@ -3,7 +3,11 @@
 importer="wavefront_obj"
 importer_version=1
 type="Mesh"
+<<<<<<< HEAD
 uid="uid://cygc5ica2e35a"
+=======
+uid="uid://53ni3drr7n1w"
+>>>>>>> 30be96fe54513962193e586bc47772d8e5601597
 path="res://.godot/imported/house3.obj-560a04f3aedcca2bc0508a056359b26d.mesh"
 
 [deps]
