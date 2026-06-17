@@ -13,9 +13,12 @@ project-possums
 │   ├── maps
 │   ├── materials
 │   ├── models
+│   ├── scripts
+│   ├── books
 │   └── ringtail
-├── rust
-│   └── rhizome
+│       └── rust
+│           └── rhizome 
+├── LICENSE.md
 └── README.md [this file! :> ]
 ```
 <sup>thanks to [nathanfriend](http://tree.nathanfriend.com) for the tree generator!!</sup>
